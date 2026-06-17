@@ -1,4 +1,5 @@
 import streamlit as st
+import google.generativeai as genai
 import pandas as pd
 import os
 from sqlalchemy import create_engine
@@ -67,11 +68,13 @@ if not df_raw.empty:
     df_filtered = df_raw[df_raw['batting_team'] == selected_team]
 
     # --- MULTI-TAB ARCHITECTURE ---
-    tab1, tab2, tab3, tab4 = st.tabs([
+    # --- MULTI-TAB ARCHITECTURE ---
+    tab1, tab2, tab3, tab4, tab5 = st.tabs([
         "📈 Executive & Predictive Dashboard", 
         "🕵️ Batter Performance", 
         "🥎 Bowler Analytics", 
-        "🎯 Matchups & Phases"
+        "🎯 Matchups & Phases",
+        "🧠 Ask AI (Chat with Data)"  # NAYA TAB YAHAN ADD HUA
     ])
 
     # ==========================================
@@ -204,3 +207,58 @@ if not df_raw.empty:
                 st.write(f"🔹 **Strike Rate:** {m_sr}")
             else:
                 st.warning("No data for this specific matchup.")
+
+
+
+    # ==========================================
+    # TAB 5: ASK AI (Chat with Data)
+    # ==========================================
+    with tab5:
+        st.subheader("🤖 GenAI Data Assistant")
+        st.markdown("Ask anything about the current match data, and AI will analyze it for you.")
+        
+        # API Key Fetching Engine
+        try:
+            gemini_api_key = st.secrets["GEMINI_API_KEY"]
+        except (KeyError, FileNotFoundError):
+            gemini_api_key = os.getenv("GEMINI_API_KEY")
+            
+        if not gemini_api_key:
+            st.warning("⚠️ API Key missing! Please add GEMINI_API_KEY to your secrets.")
+        else:
+            genai.configure(api_key=gemini_api_key)
+            
+            user_question = st.text_input("📝 What do you want to know about this match?")
+            
+            if st.button("Generate Insights ✨"):
+                if user_question:
+                    with st.spinner("Analyzing telemetry data..."):
+                        try:
+                            # 1. Data Context Preparation (Top 50 rows + Summary to avoid token overload)
+                            data_summary = df_filtered.describe().to_string()
+                            recent_plays = df_filtered.tail(50).to_string(index=False)
+                            
+                            # 2. Prompt Engineering
+                            prompt = f"""
+                            You are an expert Cricket Data Analyst. You have been given the telemetry data for a cricket match.
+                            Here is the statistical summary of the innings:
+                            {data_summary}
+                            
+                            Here are the most recent 50 deliveries:
+                            {recent_plays}
+                            
+                            Based strictly on this data, answer the user's question clearly and concisely. If the data doesn't contain the answer, politely state that.
+                            
+                            User Question: {user_question}
+                            """
+                            
+                            # 3. Model Generation
+                            model = genai.GenerativeModel('gemini-1.5-flash')
+                            response = model.generate_content(prompt)
+                            
+                            # 4. Display Result
+                            st.info("📊 AI Analysis Complete")
+                            st.write(response.text)
+                            
+                        except Exception as e:
+                            st.error(f"Failed to generate AI insights. Error: {e}")
