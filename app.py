@@ -1,7 +1,11 @@
 import streamlit as st
 import pandas as pd
+import os
 from sqlalchemy import create_engine
+import urllib.parse
 import plotly.express as px
+from dotenv import load_dotenv
+
 
 # 1. Advanced Page Configuration
 st.set_page_config(page_title="Ultimate Cricket Analytics", layout="wide", page_icon="🏏")
@@ -11,13 +15,28 @@ st.markdown("*End-to-End Dynamic Business Intelligence, Predictive Analytics & E
 st.markdown("---")
 
 # 2. Secure Data Extraction Layer
+load_dotenv()
+
+# Database connection details
+def get_db_engine():
+    user = os.getenv("user")
+    password = urllib.parse.quote_plus(os.getenv("password"))
+    host = os.getenv("host")
+    port = os.getenv("port")
+    dbname = os.getenv("dbname")
+    
+    db_url = f"postgresql+psycopg2://{user}:{password}@{host}:{port}/{dbname}?sslmode=require"
+    return create_engine(db_url)
+
 @st.cache_data
+
 def fetch_data(query):
     try:
-        engine = create_engine('postgresql://localhost/cricket_analytics')
+        # Engine yahan se call karo, directly variable use mat karo
+        engine = get_db_engine() 
         return pd.read_sql(query, engine)
     except Exception as e:
-        st.error(f"Error: Database connectivity lost. Details: {e}")
+        st.error(f"Cloud Connection Error: {e}")
         return pd.DataFrame()
 
 # Helper function for CSV Export

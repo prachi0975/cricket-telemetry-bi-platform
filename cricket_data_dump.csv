@@ -1,0 +1,2128 @@
+match_id,batting_team,over,ball,batter,bowler,batter_runs,extras,total_runs
+335989,Chennai Super Kings,0,1,PA Patel,SM Pollock,0,1,1
+335989,Chennai Super Kings,0,2,PA Patel,SM Pollock,0,0,0
+335989,Chennai Super Kings,0,3,PA Patel,SM Pollock,0,0,0
+335989,Chennai Super Kings,0,4,PA Patel,SM Pollock,0,0,0
+335989,Chennai Super Kings,0,5,PA Patel,SM Pollock,4,0,4
+335989,Chennai Super Kings,0,6,PA Patel,SM Pollock,0,0,0
+335989,Chennai Super Kings,0,7,PA Patel,SM Pollock,2,0,2
+335989,Chennai Super Kings,1,1,ML Hayden,A Nehra,0,0,0
+335989,Chennai Super Kings,1,2,ML Hayden,A Nehra,1,0,1
+335989,Chennai Super Kings,1,3,PA Patel,A Nehra,0,0,0
+335989,Chennai Super Kings,1,4,PA Patel,A Nehra,4,0,4
+335989,Chennai Super Kings,1,5,PA Patel,A Nehra,0,0,0
+335989,Chennai Super Kings,1,6,PA Patel,A Nehra,4,0,4
+335989,Chennai Super Kings,2,1,ML Hayden,SM Pollock,0,0,0
+335989,Chennai Super Kings,2,2,ML Hayden,SM Pollock,4,0,4
+335989,Chennai Super Kings,2,3,ML Hayden,SM Pollock,6,0,6
+335989,Chennai Super Kings,2,4,ML Hayden,SM Pollock,0,0,0
+335989,Chennai Super Kings,2,5,ML Hayden,SM Pollock,4,0,4
+335989,Chennai Super Kings,2,6,ML Hayden,SM Pollock,0,4,4
+335989,Chennai Super Kings,3,1,PA Patel,A Nehra,0,0,0
+335989,Chennai Super Kings,3,2,MEK Hussey,A Nehra,0,0,0
+335989,Chennai Super Kings,3,3,MEK Hussey,A Nehra,0,0,0
+335989,Chennai Super Kings,3,4,MEK Hussey,A Nehra,0,0,0
+335989,Chennai Super Kings,3,5,MEK Hussey,A Nehra,0,0,0
+335989,Chennai Super Kings,3,6,MEK Hussey,A Nehra,1,0,1
+335989,Chennai Super Kings,4,1,MEK Hussey,DS Kulkarni,0,0,0
+335989,Chennai Super Kings,4,2,MEK Hussey,DS Kulkarni,0,0,0
+335989,Chennai Super Kings,4,3,MEK Hussey,DS Kulkarni,4,0,4
+335989,Chennai Super Kings,4,4,MEK Hussey,DS Kulkarni,0,0,0
+335989,Chennai Super Kings,4,5,SK Raina,DS Kulkarni,0,0,0
+335989,Chennai Super Kings,4,6,SK Raina,DS Kulkarni,1,0,1
+335989,Chennai Super Kings,5,1,SK Raina,A Nehra,1,0,1
+335989,Chennai Super Kings,5,2,ML Hayden,A Nehra,0,1,1
+335989,Chennai Super Kings,5,3,ML Hayden,A Nehra,4,0,4
+335989,Chennai Super Kings,5,4,ML Hayden,A Nehra,4,0,4
+335989,Chennai Super Kings,5,5,ML Hayden,A Nehra,1,0,1
+335989,Chennai Super Kings,5,6,SK Raina,A Nehra,0,1,1
+335989,Chennai Super Kings,5,7,SK Raina,A Nehra,1,0,1
+335989,Chennai Super Kings,5,8,ML Hayden,A Nehra,0,0,0
+335989,Chennai Super Kings,6,1,SK Raina,DS Kulkarni,0,0,0
+335989,Chennai Super Kings,6,2,SK Raina,DS Kulkarni,1,0,1
+335989,Chennai Super Kings,6,3,ML Hayden,DS Kulkarni,1,0,1
+335989,Chennai Super Kings,6,4,SK Raina,DS Kulkarni,0,0,0
+335989,Chennai Super Kings,6,5,SK Raina,DS Kulkarni,1,0,1
+335989,Chennai Super Kings,6,6,ML Hayden,DS Kulkarni,1,1,2
+335989,Chennai Super Kings,6,7,SK Raina,DS Kulkarni,1,0,1
+335989,Chennai Super Kings,7,1,SK Raina,Harbhajan Singh,0,0,0
+335989,Chennai Super Kings,7,2,SK Raina,Harbhajan Singh,1,0,1
+335989,Chennai Super Kings,7,3,ML Hayden,Harbhajan Singh,1,0,1
+335989,Chennai Super Kings,7,4,SK Raina,Harbhajan Singh,1,0,1
+335989,Chennai Super Kings,7,5,ML Hayden,Harbhajan Singh,1,0,1
+335989,Chennai Super Kings,7,6,SK Raina,Harbhajan Singh,1,0,1
+335989,Chennai Super Kings,8,1,SK Raina,DJ Bravo,0,0,0
+335989,Chennai Super Kings,8,2,SK Raina,DJ Bravo,0,0,0
+335989,Chennai Super Kings,8,3,SK Raina,DJ Bravo,0,1,1
+335989,Chennai Super Kings,8,4,ML Hayden,DJ Bravo,4,0,4
+335989,Chennai Super Kings,8,5,ML Hayden,DJ Bravo,1,0,1
+335989,Chennai Super Kings,8,6,SK Raina,DJ Bravo,2,0,2
+335989,Chennai Super Kings,9,1,ML Hayden,Harbhajan Singh,0,0,0
+335989,Chennai Super Kings,9,2,ML Hayden,Harbhajan Singh,0,1,1
+335989,Chennai Super Kings,9,3,SK Raina,Harbhajan Singh,6,0,6
+335989,Chennai Super Kings,9,4,SK Raina,Harbhajan Singh,1,0,1
+335989,Chennai Super Kings,9,5,ML Hayden,Harbhajan Singh,1,0,1
+335989,Chennai Super Kings,9,6,SK Raina,Harbhajan Singh,1,0,1
+335989,Chennai Super Kings,10,1,SK Raina,DJ Bravo,6,0,6
+335989,Chennai Super Kings,10,2,SK Raina,DJ Bravo,1,0,1
+335989,Chennai Super Kings,10,3,ML Hayden,DJ Bravo,1,0,1
+335989,Chennai Super Kings,10,4,SK Raina,DJ Bravo,1,0,1
+335989,Chennai Super Kings,10,5,ML Hayden,DJ Bravo,4,0,4
+335989,Chennai Super Kings,10,6,ML Hayden,DJ Bravo,1,0,1
+335989,Chennai Super Kings,11,1,ML Hayden,VS Yeligati,0,0,0
+335989,Chennai Super Kings,11,2,ML Hayden,VS Yeligati,1,0,1
+335989,Chennai Super Kings,11,3,SK Raina,VS Yeligati,4,0,4
+335989,Chennai Super Kings,11,4,SK Raina,VS Yeligati,4,0,4
+335989,Chennai Super Kings,11,5,SK Raina,VS Yeligati,0,5,5
+335989,Chennai Super Kings,11,6,SK Raina,VS Yeligati,1,0,1
+335989,Chennai Super Kings,11,7,ML Hayden,VS Yeligati,1,0,1
+335989,Chennai Super Kings,12,1,ML Hayden,SM Pollock,1,0,1
+335989,Chennai Super Kings,12,2,SK Raina,SM Pollock,0,0,0
+335989,Chennai Super Kings,12,3,SK Raina,SM Pollock,1,0,1
+335989,Chennai Super Kings,12,4,ML Hayden,SM Pollock,4,0,4
+335989,Chennai Super Kings,12,5,ML Hayden,SM Pollock,1,0,1
+335989,Chennai Super Kings,12,6,SK Raina,SM Pollock,4,0,4
+335989,Chennai Super Kings,13,1,ML Hayden,AM Nayar,0,0,0
+335989,Chennai Super Kings,13,2,ML Hayden,AM Nayar,1,0,1
+335989,Chennai Super Kings,13,3,SK Raina,AM Nayar,6,0,6
+335989,Chennai Super Kings,13,4,SK Raina,AM Nayar,0,0,0
+335989,Chennai Super Kings,13,5,SK Raina,AM Nayar,1,0,1
+335989,Chennai Super Kings,13,6,ML Hayden,AM Nayar,6,0,6
+335989,Chennai Super Kings,14,1,SK Raina,MA Khote,2,0,2
+335989,Chennai Super Kings,14,2,SK Raina,MA Khote,1,0,1
+335989,Chennai Super Kings,14,3,ML Hayden,MA Khote,1,0,1
+335989,Chennai Super Kings,14,4,SK Raina,MA Khote,2,0,2
+335989,Chennai Super Kings,14,5,SK Raina,MA Khote,0,0,0
+335989,Chennai Super Kings,14,6,SK Raina,MA Khote,0,0,0
+335989,Chennai Super Kings,15,1,MS Dhoni,DJ Bravo,0,1,1
+335989,Chennai Super Kings,15,2,MS Dhoni,DJ Bravo,4,0,4
+335989,Chennai Super Kings,15,3,MS Dhoni,DJ Bravo,0,0,0
+335989,Chennai Super Kings,15,4,MS Dhoni,DJ Bravo,4,0,4
+335989,Chennai Super Kings,15,5,MS Dhoni,DJ Bravo,1,0,1
+335989,Chennai Super Kings,15,6,ML Hayden,DJ Bravo,4,0,4
+335989,Chennai Super Kings,15,7,ML Hayden,DJ Bravo,1,0,1
+335989,Chennai Super Kings,16,1,ML Hayden,MA Khote,4,0,4
+335989,Chennai Super Kings,16,2,ML Hayden,MA Khote,1,0,1
+335989,Chennai Super Kings,16,3,MS Dhoni,MA Khote,1,0,1
+335989,Chennai Super Kings,16,4,ML Hayden,MA Khote,1,0,1
+335989,Chennai Super Kings,16,5,MS Dhoni,MA Khote,2,0,2
+335989,Chennai Super Kings,16,6,MS Dhoni,MA Khote,1,0,1
+335989,Chennai Super Kings,17,1,MS Dhoni,DS Kulkarni,4,0,4
+335989,Chennai Super Kings,17,2,MS Dhoni,DS Kulkarni,1,0,1
+335989,Chennai Super Kings,17,3,ML Hayden,DS Kulkarni,4,0,4
+335989,Chennai Super Kings,17,4,ML Hayden,DS Kulkarni,4,0,4
+335989,Chennai Super Kings,17,5,ML Hayden,DS Kulkarni,1,0,1
+335989,Chennai Super Kings,17,6,MS Dhoni,DS Kulkarni,0,0,0
+335989,Chennai Super Kings,18,1,ML Hayden,A Nehra,0,0,0
+335989,Chennai Super Kings,18,2,ML Hayden,A Nehra,4,1,5
+335989,Chennai Super Kings,18,3,ML Hayden,A Nehra,0,0,0
+335989,Chennai Super Kings,18,4,ML Hayden,A Nehra,1,0,1
+335989,Chennai Super Kings,18,5,MS Dhoni,A Nehra,4,0,4
+335989,Chennai Super Kings,18,6,MS Dhoni,A Nehra,2,0,2
+335989,Chennai Super Kings,18,7,MS Dhoni,A Nehra,0,0,0
+335989,Chennai Super Kings,19,1,MS Dhoni,MA Khote,6,0,6
+335989,Chennai Super Kings,19,2,MS Dhoni,MA Khote,0,1,1
+335989,Chennai Super Kings,19,3,JDP Oram,MA Khote,4,0,4
+335989,Chennai Super Kings,19,4,JDP Oram,MA Khote,1,0,1
+335989,Chennai Super Kings,19,5,MS Dhoni,MA Khote,0,0,0
+335989,Chennai Super Kings,19,6,S Badrinath,MA Khote,2,0,2
+335989,Mumbai Indians,0,1,L Ronchi,JDP Oram,0,0,0
+335989,Mumbai Indians,0,2,L Ronchi,JDP Oram,0,1,1
+335989,Mumbai Indians,0,3,L Ronchi,JDP Oram,1,0,1
+335989,Mumbai Indians,0,4,ST Jayasuriya,JDP Oram,4,0,4
+335989,Mumbai Indians,0,5,ST Jayasuriya,JDP Oram,0,1,1
+335989,Mumbai Indians,0,6,ST Jayasuriya,JDP Oram,1,0,1
+335989,Mumbai Indians,0,7,L Ronchi,JDP Oram,1,0,1
+335989,Mumbai Indians,0,8,ST Jayasuriya,JDP Oram,0,0,0
+335989,Mumbai Indians,1,1,RV Uthappa,MS Gony,0,4,4
+335989,Mumbai Indians,1,2,RV Uthappa,MS Gony,0,0,0
+335989,Mumbai Indians,1,3,RV Uthappa,MS Gony,0,0,0
+335989,Mumbai Indians,1,4,RV Uthappa,MS Gony,0,0,0
+335989,Mumbai Indians,1,5,RV Uthappa,MS Gony,0,0,0
+335989,Mumbai Indians,1,6,RV Uthappa,MS Gony,0,0,0
+335989,Mumbai Indians,2,1,ST Jayasuriya,JDP Oram,1,0,1
+335989,Mumbai Indians,2,2,RV Uthappa,JDP Oram,1,0,1
+335989,Mumbai Indians,2,3,ST Jayasuriya,JDP Oram,4,0,4
+335989,Mumbai Indians,2,4,ST Jayasuriya,JDP Oram,4,0,4
+335989,Mumbai Indians,2,5,ST Jayasuriya,JDP Oram,2,0,2
+335989,Mumbai Indians,2,6,ST Jayasuriya,JDP Oram,0,0,0
+335989,Mumbai Indians,3,1,RV Uthappa,MS Gony,1,0,1
+335989,Mumbai Indians,3,2,ST Jayasuriya,MS Gony,0,0,0
+335989,Mumbai Indians,3,3,ST Jayasuriya,MS Gony,4,0,4
+335989,Mumbai Indians,3,4,ST Jayasuriya,MS Gony,0,0,0
+335989,Mumbai Indians,3,5,RV Uthappa,MS Gony,0,0,0
+335989,Mumbai Indians,3,6,RV Uthappa,MS Gony,0,1,1
+335989,Mumbai Indians,4,1,RV Uthappa,JDP Oram,4,0,4
+335989,Mumbai Indians,4,2,RV Uthappa,JDP Oram,0,0,0
+335989,Mumbai Indians,4,3,RV Uthappa,JDP Oram,4,0,4
+335989,Mumbai Indians,4,4,RV Uthappa,JDP Oram,6,0,6
+335989,Mumbai Indians,4,5,RV Uthappa,JDP Oram,4,0,4
+335989,Mumbai Indians,4,6,RV Uthappa,JDP Oram,1,0,1
+335989,Mumbai Indians,5,1,RV Uthappa,MS Gony,0,0,0
+335989,Mumbai Indians,5,2,RV Uthappa,MS Gony,0,0,0
+335989,Mumbai Indians,5,3,RV Uthappa,MS Gony,0,0,0
+335989,Mumbai Indians,5,4,RV Uthappa,MS Gony,1,0,1
+335989,Mumbai Indians,5,5,SM Pollock,MS Gony,0,0,0
+335989,Mumbai Indians,5,6,SM Pollock,MS Gony,1,0,1
+335989,Mumbai Indians,6,1,SM Pollock,Joginder Sharma,1,0,1
+335989,Mumbai Indians,6,2,RV Uthappa,Joginder Sharma,0,0,0
+335989,Mumbai Indians,6,3,RV Uthappa,Joginder Sharma,1,0,1
+335989,Mumbai Indians,6,4,SM Pollock,Joginder Sharma,1,0,1
+335989,Mumbai Indians,6,5,RV Uthappa,Joginder Sharma,0,0,0
+335989,Mumbai Indians,6,6,RV Uthappa,Joginder Sharma,2,0,2
+335989,Mumbai Indians,7,1,SM Pollock,MS Gony,1,0,1
+335989,Mumbai Indians,7,2,RV Uthappa,MS Gony,1,1,2
+335989,Mumbai Indians,7,3,SM Pollock,MS Gony,1,0,1
+335989,Mumbai Indians,7,4,RV Uthappa,MS Gony,1,0,1
+335989,Mumbai Indians,7,5,SM Pollock,MS Gony,1,0,1
+335989,Mumbai Indians,7,6,RV Uthappa,MS Gony,4,0,4
+335989,Mumbai Indians,7,7,RV Uthappa,MS Gony,1,0,1
+335989,Mumbai Indians,8,1,RV Uthappa,P Amarnath,1,0,1
+335989,Mumbai Indians,8,2,SM Pollock,P Amarnath,1,0,1
+335989,Mumbai Indians,8,3,RV Uthappa,P Amarnath,0,0,0
+335989,Mumbai Indians,8,4,RV Uthappa,P Amarnath,4,0,4
+335989,Mumbai Indians,8,5,RV Uthappa,P Amarnath,0,0,0
+335989,Mumbai Indians,8,6,RV Uthappa,P Amarnath,1,0,1
+335989,Mumbai Indians,9,1,RV Uthappa,Joginder Sharma,4,0,4
+335989,Mumbai Indians,9,2,RV Uthappa,Joginder Sharma,1,0,1
+335989,Mumbai Indians,9,3,SM Pollock,Joginder Sharma,1,0,1
+335989,Mumbai Indians,9,4,RV Uthappa,Joginder Sharma,0,0,0
+335989,Mumbai Indians,9,5,DJ Bravo,Joginder Sharma,1,0,1
+335989,Mumbai Indians,9,6,SM Pollock,Joginder Sharma,1,0,1
+335989,Mumbai Indians,10,1,SM Pollock,M Muralitharan,0,1,1
+335989,Mumbai Indians,10,2,SM Pollock,M Muralitharan,0,1,1
+335989,Mumbai Indians,10,3,SM Pollock,M Muralitharan,0,1,1
+335989,Mumbai Indians,10,4,SM Pollock,M Muralitharan,1,0,1
+335989,Mumbai Indians,10,5,DJ Bravo,M Muralitharan,1,0,1
+335989,Mumbai Indians,10,6,SM Pollock,M Muralitharan,1,0,1
+335989,Mumbai Indians,10,7,DJ Bravo,M Muralitharan,0,0,0
+335989,Mumbai Indians,10,8,DJ Bravo,M Muralitharan,1,0,1
+335989,Mumbai Indians,10,9,SM Pollock,M Muralitharan,0,0,0
+335989,Mumbai Indians,11,1,DJ Bravo,P Amarnath,0,0,0
+335989,Mumbai Indians,11,2,DJ Bravo,P Amarnath,1,0,1
+335989,Mumbai Indians,11,3,SM Pollock,P Amarnath,6,0,6
+335989,Mumbai Indians,11,4,SM Pollock,P Amarnath,0,0,0
+335989,Mumbai Indians,11,5,AM Nayar,P Amarnath,1,0,1
+335989,Mumbai Indians,11,6,DJ Bravo,P Amarnath,1,0,1
+335989,Mumbai Indians,12,1,DJ Bravo,M Muralitharan,6,0,6
+335989,Mumbai Indians,12,2,DJ Bravo,M Muralitharan,0,1,1
+335989,Mumbai Indians,12,3,DJ Bravo,M Muralitharan,1,0,1
+335989,Mumbai Indians,12,4,AM Nayar,M Muralitharan,1,0,1
+335989,Mumbai Indians,12,5,DJ Bravo,M Muralitharan,0,0,0
+335989,Mumbai Indians,12,6,DJ Bravo,M Muralitharan,1,0,1
+335989,Mumbai Indians,12,7,AM Nayar,M Muralitharan,1,0,1
+335989,Mumbai Indians,13,1,AM Nayar,P Amarnath,0,0,0
+335989,Mumbai Indians,13,2,AM Nayar,P Amarnath,4,0,4
+335989,Mumbai Indians,13,3,AM Nayar,P Amarnath,5,0,5
+335989,Mumbai Indians,13,4,DJ Bravo,P Amarnath,4,0,4
+335989,Mumbai Indians,13,5,DJ Bravo,P Amarnath,4,0,4
+335989,Mumbai Indians,13,6,DJ Bravo,P Amarnath,3,0,3
+335989,Mumbai Indians,14,1,DJ Bravo,Joginder Sharma,0,0,0
+335989,Mumbai Indians,14,2,DJ Bravo,Joginder Sharma,0,0,0
+335989,Mumbai Indians,14,3,MA Khote,Joginder Sharma,2,0,2
+335989,Mumbai Indians,14,4,MA Khote,Joginder Sharma,1,0,1
+335989,Mumbai Indians,14,5,AM Nayar,Joginder Sharma,1,0,1
+335989,Mumbai Indians,14,6,MA Khote,Joginder Sharma,0,0,0
+335989,Mumbai Indians,15,1,AM Nayar,M Muralitharan,1,0,1
+335989,Mumbai Indians,15,2,MA Khote,M Muralitharan,6,0,6
+335989,Mumbai Indians,15,3,MA Khote,M Muralitharan,0,0,0
+335989,Mumbai Indians,15,4,AM Nayar,M Muralitharan,4,0,4
+335989,Mumbai Indians,15,5,AM Nayar,M Muralitharan,1,0,1
+335989,Mumbai Indians,15,6,Harbhajan Singh,M Muralitharan,1,0,1
+335989,Mumbai Indians,16,1,Harbhajan Singh,P Amarnath,0,0,0
+335989,Mumbai Indians,16,2,Harbhajan Singh,P Amarnath,6,0,6
+335989,Mumbai Indians,16,3,Harbhajan Singh,P Amarnath,1,0,1
+335989,Mumbai Indians,16,4,AM Nayar,P Amarnath,4,0,4
+335989,Mumbai Indians,16,5,AM Nayar,P Amarnath,4,0,4
+335989,Mumbai Indians,16,6,AM Nayar,P Amarnath,6,0,6
+335989,Mumbai Indians,17,1,Harbhajan Singh,JDP Oram,0,0,0
+335989,Mumbai Indians,17,2,Harbhajan Singh,JDP Oram,0,0,0
+335989,Mumbai Indians,17,3,Harbhajan Singh,JDP Oram,6,0,6
+335989,Mumbai Indians,17,4,Harbhajan Singh,JDP Oram,6,0,6
+335989,Mumbai Indians,17,5,Harbhajan Singh,JDP Oram,0,0,0
+335989,Mumbai Indians,17,6,Harbhajan Singh,JDP Oram,1,0,1
+335989,Mumbai Indians,18,1,Harbhajan Singh,M Muralitharan,2,0,2
+335989,Mumbai Indians,18,2,Harbhajan Singh,M Muralitharan,1,0,1
+335989,Mumbai Indians,18,3,AM Nayar,M Muralitharan,1,0,1
+335989,Mumbai Indians,18,4,Harbhajan Singh,M Muralitharan,4,0,4
+335989,Mumbai Indians,18,5,Harbhajan Singh,M Muralitharan,0,0,0
+335989,Mumbai Indians,18,6,AM Nayar,M Muralitharan,1,0,1
+335989,Mumbai Indians,19,1,AM Nayar,Joginder Sharma,4,0,4
+335989,Mumbai Indians,19,2,AM Nayar,Joginder Sharma,4,0,4
+335989,Mumbai Indians,19,3,AM Nayar,Joginder Sharma,1,1,2
+335989,Mumbai Indians,19,4,A Nehra,Joginder Sharma,0,0,0
+335989,Mumbai Indians,19,5,A Nehra,Joginder Sharma,1,0,1
+335989,Mumbai Indians,19,6,AM Nayar,Joginder Sharma,0,0,0
+335989,Mumbai Indians,19,7,AM Nayar,Joginder Sharma,1,0,1
+335985,Mumbai Indians,0,1,L Ronchi,P Kumar,0,0,0
+335985,Mumbai Indians,0,2,L Ronchi,P Kumar,4,0,4
+335985,Mumbai Indians,0,3,L Ronchi,P Kumar,0,0,0
+335985,Mumbai Indians,0,4,L Ronchi,P Kumar,0,0,0
+335985,Mumbai Indians,0,5,L Ronchi,P Kumar,4,0,4
+335985,Mumbai Indians,0,6,L Ronchi,P Kumar,0,0,0
+335985,Mumbai Indians,1,1,ST Jayasuriya,Z Khan,1,0,1
+335985,Mumbai Indians,1,2,L Ronchi,Z Khan,0,0,0
+335985,Mumbai Indians,1,3,L Ronchi,Z Khan,0,0,0
+335985,Mumbai Indians,1,4,L Ronchi,Z Khan,0,0,0
+335985,Mumbai Indians,1,5,L Ronchi,Z Khan,0,0,0
+335985,Mumbai Indians,1,6,DJ Thornely,Z Khan,0,4,4
+335985,Mumbai Indians,2,1,ST Jayasuriya,P Kumar,0,0,0
+335985,Mumbai Indians,2,2,ST Jayasuriya,P Kumar,4,0,4
+335985,Mumbai Indians,2,3,ST Jayasuriya,P Kumar,0,0,0
+335985,Mumbai Indians,2,4,ST Jayasuriya,P Kumar,1,0,1
+335985,Mumbai Indians,2,5,DJ Thornely,P Kumar,0,0,0
+335985,Mumbai Indians,2,6,DJ Thornely,P Kumar,0,1,1
+335985,Mumbai Indians,2,7,DJ Thornely,P Kumar,0,0,0
+335985,Mumbai Indians,3,1,ST Jayasuriya,Z Khan,0,0,0
+335985,Mumbai Indians,3,2,ST Jayasuriya,Z Khan,1,0,1
+335985,Mumbai Indians,3,3,DJ Thornely,Z Khan,0,0,0
+335985,Mumbai Indians,3,4,DJ Thornely,Z Khan,0,0,0
+335985,Mumbai Indians,3,5,RV Uthappa,Z Khan,2,0,2
+335985,Mumbai Indians,3,6,RV Uthappa,Z Khan,0,0,0
+335985,Mumbai Indians,4,1,ST Jayasuriya,JH Kallis,0,1,1
+335985,Mumbai Indians,4,2,ST Jayasuriya,JH Kallis,4,0,4
+335985,Mumbai Indians,4,3,ST Jayasuriya,JH Kallis,4,0,4
+335985,Mumbai Indians,4,4,ST Jayasuriya,JH Kallis,0,0,0
+335985,Mumbai Indians,4,5,ST Jayasuriya,JH Kallis,4,0,4
+335985,Mumbai Indians,4,6,ST Jayasuriya,JH Kallis,0,0,0
+335985,Mumbai Indians,4,7,ST Jayasuriya,JH Kallis,6,0,6
+335985,Mumbai Indians,5,1,RV Uthappa,Z Khan,1,0,1
+335985,Mumbai Indians,5,2,ST Jayasuriya,Z Khan,4,0,4
+335985,Mumbai Indians,5,3,ST Jayasuriya,Z Khan,0,0,0
+335985,Mumbai Indians,5,4,ST Jayasuriya,Z Khan,0,0,0
+335985,Mumbai Indians,5,5,RV Uthappa,Z Khan,1,0,1
+335985,Mumbai Indians,5,6,PR Shah,Z Khan,0,0,0
+335985,Mumbai Indians,6,1,RV Uthappa,R Vinay Kumar,1,0,1
+335985,Mumbai Indians,6,2,PR Shah,R Vinay Kumar,0,0,0
+335985,Mumbai Indians,6,3,PR Shah,R Vinay Kumar,1,0,1
+335985,Mumbai Indians,6,4,RV Uthappa,R Vinay Kumar,4,0,4
+335985,Mumbai Indians,6,5,RV Uthappa,R Vinay Kumar,1,0,1
+335985,Mumbai Indians,6,6,PR Shah,R Vinay Kumar,0,0,0
+335985,Mumbai Indians,7,1,RV Uthappa,B Akhil,0,0,0
+335985,Mumbai Indians,7,2,RV Uthappa,B Akhil,1,0,1
+335985,Mumbai Indians,7,3,PR Shah,B Akhil,1,0,1
+335985,Mumbai Indians,7,4,RV Uthappa,B Akhil,1,0,1
+335985,Mumbai Indians,7,5,PR Shah,B Akhil,1,0,1
+335985,Mumbai Indians,7,6,RV Uthappa,B Akhil,2,0,2
+335985,Mumbai Indians,8,1,PR Shah,JH Kallis,0,1,1
+335985,Mumbai Indians,8,2,RV Uthappa,JH Kallis,1,0,1
+335985,Mumbai Indians,8,3,PR Shah,JH Kallis,1,0,1
+335985,Mumbai Indians,8,4,RV Uthappa,JH Kallis,4,0,4
+335985,Mumbai Indians,8,5,RV Uthappa,JH Kallis,1,0,1
+335985,Mumbai Indians,8,6,PR Shah,JH Kallis,4,0,4
+335985,Mumbai Indians,9,1,RV Uthappa,R Vinay Kumar,0,0,0
+335985,Mumbai Indians,9,2,RV Uthappa,R Vinay Kumar,1,0,1
+335985,Mumbai Indians,9,3,PR Shah,R Vinay Kumar,0,0,0
+335985,Mumbai Indians,9,4,PR Shah,R Vinay Kumar,0,1,1
+335985,Mumbai Indians,9,5,RV Uthappa,R Vinay Kumar,0,0,0
+335985,Mumbai Indians,9,6,RV Uthappa,R Vinay Kumar,0,0,0
+335985,Mumbai Indians,10,1,PR Shah,SB Joshi,1,0,1
+335985,Mumbai Indians,10,2,RV Uthappa,SB Joshi,1,0,1
+335985,Mumbai Indians,10,3,PR Shah,SB Joshi,4,0,4
+335985,Mumbai Indians,10,4,PR Shah,SB Joshi,1,0,1
+335985,Mumbai Indians,10,5,RV Uthappa,SB Joshi,0,0,0
+335985,Mumbai Indians,10,6,RV Uthappa,SB Joshi,0,0,0
+335985,Mumbai Indians,11,1,PR Shah,R Vinay Kumar,0,0,0
+335985,Mumbai Indians,11,2,PR Shah,R Vinay Kumar,2,0,2
+335985,Mumbai Indians,11,3,PR Shah,R Vinay Kumar,1,0,1
+335985,Mumbai Indians,11,4,RV Uthappa,R Vinay Kumar,0,0,0
+335985,Mumbai Indians,11,5,RV Uthappa,R Vinay Kumar,4,0,4
+335985,Mumbai Indians,11,6,RV Uthappa,R Vinay Kumar,6,0,6
+335985,Mumbai Indians,12,1,PR Shah,SB Joshi,0,0,0
+335985,Mumbai Indians,12,2,PR Shah,SB Joshi,1,0,1
+335985,Mumbai Indians,12,3,RV Uthappa,SB Joshi,0,0,0
+335985,Mumbai Indians,12,4,RV Uthappa,SB Joshi,0,0,0
+335985,Mumbai Indians,12,5,RV Uthappa,SB Joshi,1,0,1
+335985,Mumbai Indians,12,6,PR Shah,SB Joshi,1,0,1
+335985,Mumbai Indians,13,1,PR Shah,B Akhil,0,0,0
+335985,Mumbai Indians,13,2,PR Shah,B Akhil,0,0,0
+335985,Mumbai Indians,13,3,PR Shah,B Akhil,0,0,0
+335985,Mumbai Indians,13,4,RV Uthappa,B Akhil,1,0,1
+335985,Mumbai Indians,13,5,AM Nayar,B Akhil,0,0,0
+335985,Mumbai Indians,13,6,AM Nayar,B Akhil,0,1,1
+335985,Mumbai Indians,14,1,AM Nayar,P Kumar,1,0,1
+335985,Mumbai Indians,14,2,RV Uthappa,P Kumar,1,0,1
+335985,Mumbai Indians,14,3,AM Nayar,P Kumar,1,0,1
+335985,Mumbai Indians,14,4,RV Uthappa,P Kumar,0,0,0
+335985,Mumbai Indians,14,5,RV Uthappa,P Kumar,2,0,2
+335985,Mumbai Indians,14,6,RV Uthappa,P Kumar,1,0,1
+335985,Mumbai Indians,15,1,RV Uthappa,JH Kallis,1,0,1
+335985,Mumbai Indians,15,2,AM Nayar,JH Kallis,1,0,1
+335985,Mumbai Indians,15,3,RV Uthappa,JH Kallis,1,0,1
+335985,Mumbai Indians,15,4,AM Nayar,JH Kallis,0,1,1
+335985,Mumbai Indians,15,5,AM Nayar,JH Kallis,1,0,1
+335985,Mumbai Indians,15,6,RV Uthappa,JH Kallis,4,0,4
+335985,Mumbai Indians,15,7,RV Uthappa,JH Kallis,4,0,4
+335985,Mumbai Indians,16,1,AM Nayar,B Akhil,1,0,1
+335985,Mumbai Indians,16,2,RV Uthappa,B Akhil,0,1,1
+335985,Mumbai Indians,16,3,AM Nayar,B Akhil,4,0,4
+335985,Mumbai Indians,16,4,AM Nayar,B Akhil,1,0,1
+335985,Mumbai Indians,16,5,RV Uthappa,B Akhil,0,0,0
+335985,Mumbai Indians,16,6,SM Pollock,B Akhil,4,0,4
+335985,Mumbai Indians,17,1,AM Nayar,R Vinay Kumar,2,0,2
+335985,Mumbai Indians,17,2,AM Nayar,R Vinay Kumar,6,0,6
+335985,Mumbai Indians,17,3,AM Nayar,R Vinay Kumar,1,0,1
+335985,Mumbai Indians,17,4,SM Pollock,R Vinay Kumar,4,0,4
+335985,Mumbai Indians,17,5,SM Pollock,R Vinay Kumar,6,0,6
+335985,Mumbai Indians,17,6,SM Pollock,R Vinay Kumar,1,0,1
+335985,Mumbai Indians,18,1,SM Pollock,P Kumar,1,0,1
+335985,Mumbai Indians,18,2,AM Nayar,P Kumar,1,0,1
+335985,Mumbai Indians,18,3,SM Pollock,P Kumar,0,0,0
+335985,Mumbai Indians,18,4,SM Pollock,P Kumar,1,0,1
+335985,Mumbai Indians,18,5,AM Nayar,P Kumar,0,0,0
+335985,Mumbai Indians,18,6,SM Pollock,P Kumar,6,0,6
+335985,Mumbai Indians,19,1,Harbhajan Singh,Z Khan,1,0,1
+335985,Mumbai Indians,19,2,SM Pollock,Z Khan,0,0,0
+335985,Mumbai Indians,19,3,SM Pollock,Z Khan,4,0,4
+335985,Mumbai Indians,19,4,SM Pollock,Z Khan,1,0,1
+335985,Mumbai Indians,19,5,Harbhajan Singh,Z Khan,1,0,1
+335985,Mumbai Indians,19,6,SM Pollock,Z Khan,0,0,0
+335985,Royal Challengers Bangalore,0,1,S Chanderpaul,A Nehra,0,0,0
+335985,Royal Challengers Bangalore,0,2,S Chanderpaul,A Nehra,1,0,1
+335985,Royal Challengers Bangalore,0,3,R Dravid,A Nehra,0,0,0
+335985,Royal Challengers Bangalore,0,4,R Dravid,A Nehra,1,0,1
+335985,Royal Challengers Bangalore,0,5,S Chanderpaul,A Nehra,4,0,4
+335985,Royal Challengers Bangalore,0,6,S Chanderpaul,A Nehra,4,0,4
+335985,Royal Challengers Bangalore,1,1,R Dravid,SM Pollock,0,0,0
+335985,Royal Challengers Bangalore,1,2,R Dravid,SM Pollock,0,0,0
+335985,Royal Challengers Bangalore,1,3,R Dravid,SM Pollock,0,0,0
+335985,Royal Challengers Bangalore,1,4,R Dravid,SM Pollock,0,0,0
+335985,Royal Challengers Bangalore,1,5,R Dravid,SM Pollock,0,0,0
+335985,Royal Challengers Bangalore,1,6,R Dravid,SM Pollock,1,0,1
+335985,Royal Challengers Bangalore,2,1,R Dravid,A Nehra,0,0,0
+335985,Royal Challengers Bangalore,2,2,R Dravid,A Nehra,4,0,4
+335985,Royal Challengers Bangalore,2,3,R Dravid,A Nehra,1,0,1
+335985,Royal Challengers Bangalore,2,4,S Chanderpaul,A Nehra,1,0,1
+335985,Royal Challengers Bangalore,2,5,R Dravid,A Nehra,4,0,4
+335985,Royal Challengers Bangalore,2,6,R Dravid,A Nehra,1,0,1
+335985,Royal Challengers Bangalore,3,1,R Dravid,SM Pollock,0,0,0
+335985,Royal Challengers Bangalore,3,2,R Dravid,SM Pollock,1,0,1
+335985,Royal Challengers Bangalore,3,3,S Chanderpaul,SM Pollock,1,0,1
+335985,Royal Challengers Bangalore,3,4,R Dravid,SM Pollock,1,0,1
+335985,Royal Challengers Bangalore,3,5,S Chanderpaul,SM Pollock,1,0,1
+335985,Royal Challengers Bangalore,3,6,R Dravid,SM Pollock,1,0,1
+335985,Royal Challengers Bangalore,4,1,R Dravid,DS Kulkarni,4,0,4
+335985,Royal Challengers Bangalore,4,2,R Dravid,DS Kulkarni,1,0,1
+335985,Royal Challengers Bangalore,4,3,S Chanderpaul,DS Kulkarni,4,0,4
+335985,Royal Challengers Bangalore,4,4,S Chanderpaul,DS Kulkarni,0,0,0
+335985,Royal Challengers Bangalore,4,5,S Chanderpaul,DS Kulkarni,0,1,1
+335985,Royal Challengers Bangalore,4,6,S Chanderpaul,DS Kulkarni,0,0,0
+335985,Royal Challengers Bangalore,4,7,S Chanderpaul,DS Kulkarni,0,0,0
+335985,Royal Challengers Bangalore,5,1,LRPL Taylor,SM Pollock,1,0,1
+335985,Royal Challengers Bangalore,5,2,R Dravid,SM Pollock,0,0,0
+335985,Royal Challengers Bangalore,5,3,R Dravid,SM Pollock,0,0,0
+335985,Royal Challengers Bangalore,5,4,R Dravid,SM Pollock,1,0,1
+335985,Royal Challengers Bangalore,5,5,LRPL Taylor,SM Pollock,1,0,1
+335985,Royal Challengers Bangalore,5,6,R Dravid,SM Pollock,0,0,0
+335985,Royal Challengers Bangalore,6,1,LRPL Taylor,DS Kulkarni,1,0,1
+335985,Royal Challengers Bangalore,6,2,R Dravid,DS Kulkarni,0,0,0
+335985,Royal Challengers Bangalore,6,3,R Dravid,DS Kulkarni,4,0,4
+335985,Royal Challengers Bangalore,6,4,R Dravid,DS Kulkarni,0,0,0
+335985,Royal Challengers Bangalore,6,5,R Dravid,DS Kulkarni,0,0,0
+335985,Royal Challengers Bangalore,6,6,R Dravid,DS Kulkarni,1,0,1
+335985,Royal Challengers Bangalore,7,1,R Dravid,ST Jayasuriya,2,0,2
+335985,Royal Challengers Bangalore,7,2,R Dravid,ST Jayasuriya,1,0,1
+335985,Royal Challengers Bangalore,7,3,LRPL Taylor,ST Jayasuriya,1,0,1
+335985,Royal Challengers Bangalore,7,4,R Dravid,ST Jayasuriya,1,0,1
+335985,Royal Challengers Bangalore,7,5,LRPL Taylor,ST Jayasuriya,1,0,1
+335985,Royal Challengers Bangalore,7,6,R Dravid,ST Jayasuriya,2,0,2
+335985,Royal Challengers Bangalore,8,1,LRPL Taylor,Harbhajan Singh,6,0,6
+335985,Royal Challengers Bangalore,8,2,LRPL Taylor,Harbhajan Singh,6,0,6
+335985,Royal Challengers Bangalore,8,3,LRPL Taylor,Harbhajan Singh,0,1,1
+335985,Royal Challengers Bangalore,8,4,LRPL Taylor,Harbhajan Singh,0,0,0
+335985,Royal Challengers Bangalore,8,5,LRPL Taylor,Harbhajan Singh,1,0,1
+335985,Royal Challengers Bangalore,8,6,R Dravid,Harbhajan Singh,0,0,0
+335985,Royal Challengers Bangalore,8,7,JH Kallis,Harbhajan Singh,1,0,1
+335985,Royal Challengers Bangalore,9,1,JH Kallis,ST Jayasuriya,1,0,1
+335985,Royal Challengers Bangalore,9,2,LRPL Taylor,ST Jayasuriya,4,0,4
+335985,Royal Challengers Bangalore,9,3,LRPL Taylor,ST Jayasuriya,1,0,1
+335985,Royal Challengers Bangalore,9,4,JH Kallis,ST Jayasuriya,0,0,0
+335985,Royal Challengers Bangalore,9,5,JH Kallis,ST Jayasuriya,1,0,1
+335985,Royal Challengers Bangalore,9,6,LRPL Taylor,ST Jayasuriya,0,0,0
+335985,Royal Challengers Bangalore,10,1,V Kohli,Harbhajan Singh,1,0,1
+335985,Royal Challengers Bangalore,10,2,JH Kallis,Harbhajan Singh,1,0,1
+335985,Royal Challengers Bangalore,10,3,V Kohli,Harbhajan Singh,0,0,0
+335985,Royal Challengers Bangalore,10,4,V Kohli,Harbhajan Singh,1,0,1
+335985,Royal Challengers Bangalore,10,5,JH Kallis,Harbhajan Singh,0,0,0
+335985,Royal Challengers Bangalore,10,6,JH Kallis,Harbhajan Singh,1,0,1
+335985,Royal Challengers Bangalore,11,1,JH Kallis,ST Jayasuriya,1,0,1
+335985,Royal Challengers Bangalore,11,2,V Kohli,ST Jayasuriya,4,0,4
+335985,Royal Challengers Bangalore,11,3,V Kohli,ST Jayasuriya,1,0,1
+335985,Royal Challengers Bangalore,11,4,JH Kallis,ST Jayasuriya,1,0,1
+335985,Royal Challengers Bangalore,11,5,V Kohli,ST Jayasuriya,6,0,6
+335985,Royal Challengers Bangalore,11,6,V Kohli,ST Jayasuriya,1,0,1
+335985,Royal Challengers Bangalore,12,1,V Kohli,AM Nayar,0,0,0
+335985,Royal Challengers Bangalore,12,2,V Kohli,AM Nayar,4,0,4
+335985,Royal Challengers Bangalore,12,3,V Kohli,AM Nayar,4,0,4
+335985,Royal Challengers Bangalore,12,4,V Kohli,AM Nayar,0,0,0
+335985,Royal Challengers Bangalore,12,5,V Kohli,AM Nayar,1,0,1
+335985,Royal Challengers Bangalore,12,6,JH Kallis,AM Nayar,1,0,1
+335985,Royal Challengers Bangalore,13,1,JH Kallis,A Nehra,1,0,1
+335985,Royal Challengers Bangalore,13,2,V Kohli,A Nehra,0,1,1
+335985,Royal Challengers Bangalore,13,3,V Kohli,A Nehra,0,0,0
+335985,Royal Challengers Bangalore,13,4,V Kohli,A Nehra,0,0,0
+335985,Royal Challengers Bangalore,13,5,MV Boucher,A Nehra,0,0,0
+335985,Royal Challengers Bangalore,13,6,MV Boucher,A Nehra,0,1,1
+335985,Royal Challengers Bangalore,13,7,MV Boucher,A Nehra,0,0,0
+335985,Royal Challengers Bangalore,13,8,MV Boucher,A Nehra,2,0,2
+335985,Royal Challengers Bangalore,14,1,JH Kallis,Harbhajan Singh,1,0,1
+335985,Royal Challengers Bangalore,14,2,MV Boucher,Harbhajan Singh,1,0,1
+335985,Royal Challengers Bangalore,14,3,JH Kallis,Harbhajan Singh,1,0,1
+335985,Royal Challengers Bangalore,14,4,MV Boucher,Harbhajan Singh,4,0,4
+335985,Royal Challengers Bangalore,14,5,MV Boucher,Harbhajan Singh,1,0,1
+335985,Royal Challengers Bangalore,14,6,JH Kallis,Harbhajan Singh,1,0,1
+335985,Royal Challengers Bangalore,15,1,JH Kallis,SM Pollock,1,0,1
+335985,Royal Challengers Bangalore,15,2,MV Boucher,SM Pollock,4,0,4
+335985,Royal Challengers Bangalore,15,3,MV Boucher,SM Pollock,1,0,1
+335985,Royal Challengers Bangalore,15,4,JH Kallis,SM Pollock,0,0,0
+335985,Royal Challengers Bangalore,15,5,JH Kallis,SM Pollock,1,0,1
+335985,Royal Challengers Bangalore,15,6,MV Boucher,SM Pollock,1,0,1
+335985,Royal Challengers Bangalore,16,1,MV Boucher,ST Jayasuriya,6,0,6
+335985,Royal Challengers Bangalore,16,2,MV Boucher,ST Jayasuriya,1,0,1
+335985,Royal Challengers Bangalore,16,3,JH Kallis,ST Jayasuriya,1,0,1
+335985,Royal Challengers Bangalore,16,4,MV Boucher,ST Jayasuriya,1,0,1
+335985,Royal Challengers Bangalore,16,5,JH Kallis,ST Jayasuriya,1,0,1
+335985,Royal Challengers Bangalore,16,6,MV Boucher,ST Jayasuriya,0,0,0
+335985,Royal Challengers Bangalore,17,1,JH Kallis,A Nehra,6,0,6
+335985,Royal Challengers Bangalore,17,2,JH Kallis,A Nehra,1,0,1
+335985,Royal Challengers Bangalore,17,3,MV Boucher,A Nehra,1,0,1
+335985,Royal Challengers Bangalore,17,4,JH Kallis,A Nehra,1,0,1
+335985,Royal Challengers Bangalore,17,5,MV Boucher,A Nehra,4,0,4
+335985,Royal Challengers Bangalore,17,6,MV Boucher,A Nehra,6,0,6
+335985,Royal Challengers Bangalore,18,1,JH Kallis,Harbhajan Singh,1,0,1
+335985,Royal Challengers Bangalore,18,2,MV Boucher,Harbhajan Singh,4,0,4
+335985,Royal Challengers Bangalore,18,3,MV Boucher,Harbhajan Singh,1,0,1
+335985,Royal Challengers Bangalore,18,4,JH Kallis,Harbhajan Singh,0,0,0
+335985,Royal Challengers Bangalore,18,5,B Akhil,Harbhajan Singh,2,0,2
+335985,Royal Challengers Bangalore,18,6,B Akhil,Harbhajan Singh,0,0,0
+335985,Royal Challengers Bangalore,19,1,MV Boucher,DS Kulkarni,1,0,1
+335985,Royal Challengers Bangalore,19,2,B Akhil,DS Kulkarni,0,1,1
+335985,Royal Challengers Bangalore,19,3,B Akhil,DS Kulkarni,0,0,0
+335985,Royal Challengers Bangalore,19,4,B Akhil,DS Kulkarni,0,0,0
+335985,Royal Challengers Bangalore,19,5,B Akhil,DS Kulkarni,1,0,1
+335984,Rajasthan Royals,0,1,T Kohli,GD McGrath,0,0,0
+335984,Rajasthan Royals,0,2,T Kohli,GD McGrath,0,0,0
+335984,Rajasthan Royals,0,3,T Kohli,GD McGrath,0,0,0
+335984,Rajasthan Royals,0,4,T Kohli,GD McGrath,0,1,1
+335984,Rajasthan Royals,0,5,T Kohli,GD McGrath,0,0,0
+335984,Rajasthan Royals,0,6,T Kohli,GD McGrath,0,0,0
+335984,Rajasthan Royals,0,7,T Kohli,GD McGrath,6,0,6
+335984,Rajasthan Royals,1,1,YK Pathan,B Geeves,1,0,1
+335984,Rajasthan Royals,1,2,T Kohli,B Geeves,0,0,0
+335984,Rajasthan Royals,1,3,T Kohli,B Geeves,0,0,0
+335984,Rajasthan Royals,1,4,T Kohli,B Geeves,1,0,1
+335984,Rajasthan Royals,1,5,YK Pathan,B Geeves,4,0,4
+335984,Rajasthan Royals,1,6,YK Pathan,B Geeves,4,0,4
+335984,Rajasthan Royals,2,1,T Kohli,GD McGrath,0,0,0
+335984,Rajasthan Royals,2,2,T Kohli,GD McGrath,0,0,0
+335984,Rajasthan Royals,2,3,T Kohli,GD McGrath,0,0,0
+335984,Rajasthan Royals,2,4,SR Watson,GD McGrath,0,0,0
+335984,Rajasthan Royals,2,5,SR Watson,GD McGrath,0,0,0
+335984,Rajasthan Royals,2,6,SR Watson,GD McGrath,0,0,0
+335984,Rajasthan Royals,3,1,YK Pathan,B Geeves,1,0,1
+335984,Rajasthan Royals,3,2,SR Watson,B Geeves,4,0,4
+335984,Rajasthan Royals,3,3,SR Watson,B Geeves,4,0,4
+335984,Rajasthan Royals,3,4,SR Watson,B Geeves,1,0,1
+335984,Rajasthan Royals,3,5,YK Pathan,B Geeves,0,0,0
+335984,Rajasthan Royals,3,6,SR Watson,B Geeves,4,0,4
+335984,Rajasthan Royals,4,1,M Kaif,GD McGrath,0,0,0
+335984,Rajasthan Royals,4,2,M Kaif,GD McGrath,0,0,0
+335984,Rajasthan Royals,4,3,M Kaif,GD McGrath,1,0,1
+335984,Rajasthan Royals,4,4,SR Watson,GD McGrath,4,0,4
+335984,Rajasthan Royals,4,5,SR Watson,GD McGrath,0,0,0
+335984,Rajasthan Royals,4,6,SR Watson,GD McGrath,1,0,1
+335984,Rajasthan Royals,5,1,SR Watson,MF Maharoof,0,0,0
+335984,Rajasthan Royals,5,2,SR Watson,MF Maharoof,1,0,1
+335984,Rajasthan Royals,5,3,M Kaif,MF Maharoof,0,0,0
+335984,Rajasthan Royals,5,4,M Kaif,MF Maharoof,0,1,1
+335984,Rajasthan Royals,5,5,SR Watson,MF Maharoof,1,0,1
+335984,Rajasthan Royals,5,6,M Kaif,MF Maharoof,0,0,0
+335984,Rajasthan Royals,6,1,SR Watson,R Bhatia,0,0,0
+335984,Rajasthan Royals,6,2,SR Watson,R Bhatia,1,0,1
+335984,Rajasthan Royals,6,3,M Kaif,R Bhatia,2,0,2
+335984,Rajasthan Royals,6,4,M Kaif,R Bhatia,0,0,0
+335984,Rajasthan Royals,6,5,M Kaif,R Bhatia,0,0,0
+335984,Rajasthan Royals,6,6,M Kaif,R Bhatia,1,0,1
+335984,Rajasthan Royals,7,1,M Kaif,MF Maharoof,0,1,1
+335984,Rajasthan Royals,7,2,DS Lehmann,MF Maharoof,1,0,1
+335984,Rajasthan Royals,7,3,M Kaif,MF Maharoof,1,0,1
+335984,Rajasthan Royals,7,4,DS Lehmann,MF Maharoof,0,0,0
+335984,Rajasthan Royals,7,5,RA Jadeja,MF Maharoof,0,0,0
+335984,Rajasthan Royals,7,6,RA Jadeja,MF Maharoof,1,0,1
+335984,Rajasthan Royals,8,1,RA Jadeja,R Bhatia,0,0,0
+335984,Rajasthan Royals,8,2,RA Jadeja,R Bhatia,0,0,0
+335984,Rajasthan Royals,8,3,RA Jadeja,R Bhatia,0,1,1
+335984,Rajasthan Royals,8,4,M Kaif,R Bhatia,1,0,1
+335984,Rajasthan Royals,8,5,RA Jadeja,R Bhatia,0,0,0
+335984,Rajasthan Royals,8,6,RA Jadeja,R Bhatia,1,0,1
+335984,Rajasthan Royals,9,1,RA Jadeja,MF Maharoof,0,1,1
+335984,Rajasthan Royals,9,2,M Kaif,MF Maharoof,1,0,1
+335984,Rajasthan Royals,9,3,RA Jadeja,MF Maharoof,1,0,1
+335984,Rajasthan Royals,9,4,M Kaif,MF Maharoof,1,0,1
+335984,Rajasthan Royals,9,5,RA Jadeja,MF Maharoof,1,0,1
+335984,Rajasthan Royals,9,6,M Kaif,MF Maharoof,1,0,1
+335984,Rajasthan Royals,10,1,M Kaif,R Bhatia,0,0,0
+335984,Rajasthan Royals,10,2,M Kaif,R Bhatia,0,0,0
+335984,Rajasthan Royals,10,3,M Kaif,R Bhatia,0,0,0
+335984,Rajasthan Royals,10,4,M Rawat,R Bhatia,1,0,1
+335984,Rajasthan Royals,10,5,RA Jadeja,R Bhatia,0,0,0
+335984,Rajasthan Royals,10,6,RA Jadeja,R Bhatia,1,0,1
+335984,Rajasthan Royals,11,1,RA Jadeja,DL Vettori,6,0,6
+335984,Rajasthan Royals,11,2,RA Jadeja,DL Vettori,4,0,4
+335984,Rajasthan Royals,11,3,RA Jadeja,DL Vettori,1,0,1
+335984,Rajasthan Royals,11,4,M Rawat,DL Vettori,0,0,0
+335984,Rajasthan Royals,11,5,M Rawat,DL Vettori,1,0,1
+335984,Rajasthan Royals,11,6,RA Jadeja,DL Vettori,0,0,0
+335984,Rajasthan Royals,12,1,M Rawat,R Bhatia,0,0,0
+335984,Rajasthan Royals,12,2,D Salunkhe,R Bhatia,4,0,4
+335984,Rajasthan Royals,12,3,D Salunkhe,R Bhatia,1,0,1
+335984,Rajasthan Royals,12,4,RA Jadeja,R Bhatia,0,2,2
+335984,Rajasthan Royals,12,5,D Salunkhe,R Bhatia,0,0,0
+335984,Rajasthan Royals,12,6,D Salunkhe,R Bhatia,1,0,1
+335984,Rajasthan Royals,12,7,RA Jadeja,R Bhatia,1,0,1
+335984,Rajasthan Royals,13,1,RA Jadeja,B Geeves,4,0,4
+335984,Rajasthan Royals,13,2,RA Jadeja,B Geeves,1,0,1
+335984,Rajasthan Royals,13,3,D Salunkhe,B Geeves,1,0,1
+335984,Rajasthan Royals,13,4,RA Jadeja,B Geeves,0,0,0
+335984,Rajasthan Royals,13,5,RA Jadeja,B Geeves,1,0,1
+335984,Rajasthan Royals,13,6,D Salunkhe,B Geeves,0,0,0
+335984,Rajasthan Royals,14,1,RA Jadeja,DL Vettori,6,0,6
+335984,Rajasthan Royals,14,2,RA Jadeja,DL Vettori,0,0,0
+335984,Rajasthan Royals,14,3,SK Warne,DL Vettori,0,0,0
+335984,Rajasthan Royals,14,4,SK Warne,DL Vettori,1,0,1
+335984,Rajasthan Royals,14,5,D Salunkhe,DL Vettori,1,0,1
+335984,Rajasthan Royals,14,6,SK Warne,DL Vettori,1,0,1
+335984,Rajasthan Royals,15,1,SK Warne,B Geeves,0,0,0
+335984,Rajasthan Royals,15,2,SK Warne,B Geeves,0,0,0
+335984,Rajasthan Royals,15,3,SK Warne,B Geeves,4,0,4
+335984,Rajasthan Royals,15,4,SK Warne,B Geeves,0,0,0
+335984,Rajasthan Royals,15,5,SK Warne,B Geeves,4,0,4
+335984,Rajasthan Royals,15,6,SK Warne,B Geeves,2,0,2
+335984,Rajasthan Royals,16,1,D Salunkhe,DL Vettori,1,0,1
+335984,Rajasthan Royals,16,2,SK Warne,DL Vettori,0,0,0
+335984,Rajasthan Royals,16,3,SK Warne,DL Vettori,1,0,1
+335984,Rajasthan Royals,16,4,D Salunkhe,DL Vettori,0,0,0
+335984,Rajasthan Royals,16,5,D Salunkhe,DL Vettori,1,0,1
+335984,Rajasthan Royals,16,6,SK Warne,DL Vettori,1,0,1
+335984,Rajasthan Royals,17,1,SK Warne,MF Maharoof,0,0,0
+335984,Rajasthan Royals,17,2,SK Trivedi,MF Maharoof,0,0,0
+335984,Rajasthan Royals,17,3,SK Trivedi,MF Maharoof,0,0,0
+335984,Rajasthan Royals,17,4,SK Trivedi,MF Maharoof,0,0,0
+335984,Rajasthan Royals,17,5,SK Trivedi,MF Maharoof,1,0,1
+335984,Rajasthan Royals,17,6,D Salunkhe,MF Maharoof,0,0,0
+335984,Rajasthan Royals,18,1,SK Trivedi,DL Vettori,0,0,0
+335984,Rajasthan Royals,18,2,SK Trivedi,DL Vettori,1,0,1
+335984,Rajasthan Royals,18,3,D Salunkhe,DL Vettori,4,0,4
+335984,Rajasthan Royals,18,4,D Salunkhe,DL Vettori,4,0,4
+335984,Rajasthan Royals,18,5,D Salunkhe,DL Vettori,0,0,0
+335984,Rajasthan Royals,18,6,D Salunkhe,DL Vettori,1,0,1
+335984,Rajasthan Royals,19,1,D Salunkhe,GD McGrath,4,0,4
+335984,Rajasthan Royals,19,2,D Salunkhe,GD McGrath,0,0,0
+335984,Rajasthan Royals,19,3,D Salunkhe,GD McGrath,1,0,1
+335984,Rajasthan Royals,19,4,SK Trivedi,GD McGrath,1,0,1
+335984,Rajasthan Royals,19,5,D Salunkhe,GD McGrath,2,0,2
+335984,Rajasthan Royals,19,6,D Salunkhe,GD McGrath,0,0,0
+335984,Delhi Daredevils,0,1,G Gambhir,MM Patel,0,0,0
+335984,Delhi Daredevils,0,2,G Gambhir,MM Patel,0,0,0
+335984,Delhi Daredevils,0,3,G Gambhir,MM Patel,0,0,0
+335984,Delhi Daredevils,0,4,G Gambhir,MM Patel,0,0,0
+335984,Delhi Daredevils,0,5,G Gambhir,MM Patel,4,0,4
+335984,Delhi Daredevils,0,6,G Gambhir,MM Patel,4,0,4
+335984,Delhi Daredevils,1,1,V Sehwag,SR Watson,4,0,4
+335984,Delhi Daredevils,1,2,V Sehwag,SR Watson,4,0,4
+335984,Delhi Daredevils,1,3,V Sehwag,SR Watson,4,0,4
+335984,Delhi Daredevils,1,4,V Sehwag,SR Watson,0,0,0
+335984,Delhi Daredevils,1,5,S Dhawan,SR Watson,0,0,0
+335984,Delhi Daredevils,1,6,S Dhawan,SR Watson,0,1,1
+335984,Delhi Daredevils,1,7,S Dhawan,SR Watson,0,0,0
+335984,Delhi Daredevils,2,1,G Gambhir,MM Patel,0,0,0
+335984,Delhi Daredevils,2,2,G Gambhir,MM Patel,4,0,4
+335984,Delhi Daredevils,2,3,G Gambhir,MM Patel,0,0,0
+335984,Delhi Daredevils,2,4,G Gambhir,MM Patel,1,0,1
+335984,Delhi Daredevils,2,5,S Dhawan,MM Patel,0,0,0
+335984,Delhi Daredevils,2,6,S Dhawan,MM Patel,0,0,0
+335984,Delhi Daredevils,3,1,G Gambhir,SR Watson,1,0,1
+335984,Delhi Daredevils,3,2,S Dhawan,SR Watson,0,0,0
+335984,Delhi Daredevils,3,3,S Dhawan,SR Watson,4,0,4
+335984,Delhi Daredevils,3,4,S Dhawan,SR Watson,1,0,1
+335984,Delhi Daredevils,3,5,G Gambhir,SR Watson,4,0,4
+335984,Delhi Daredevils,3,6,G Gambhir,SR Watson,0,0,0
+335984,Delhi Daredevils,4,1,S Dhawan,MM Patel,0,0,0
+335984,Delhi Daredevils,4,2,S Dhawan,MM Patel,1,0,1
+335984,Delhi Daredevils,4,3,G Gambhir,MM Patel,6,0,6
+335984,Delhi Daredevils,4,4,G Gambhir,MM Patel,4,0,4
+335984,Delhi Daredevils,4,5,G Gambhir,MM Patel,0,0,0
+335984,Delhi Daredevils,4,6,G Gambhir,MM Patel,1,0,1
+335984,Delhi Daredevils,5,1,G Gambhir,SK Trivedi,0,0,0
+335984,Delhi Daredevils,5,2,G Gambhir,SK Trivedi,0,1,1
+335984,Delhi Daredevils,5,3,G Gambhir,SK Trivedi,1,0,1
+335984,Delhi Daredevils,5,4,S Dhawan,SK Trivedi,0,0,0
+335984,Delhi Daredevils,5,5,S Dhawan,SK Trivedi,4,0,4
+335984,Delhi Daredevils,5,6,S Dhawan,SK Trivedi,1,0,1
+335984,Delhi Daredevils,5,7,G Gambhir,SK Trivedi,0,0,0
+335984,Delhi Daredevils,6,1,S Dhawan,SR Watson,1,0,1
+335984,Delhi Daredevils,6,2,G Gambhir,SR Watson,1,0,1
+335984,Delhi Daredevils,6,3,S Dhawan,SR Watson,0,0,0
+335984,Delhi Daredevils,6,4,S Dhawan,SR Watson,0,0,0
+335984,Delhi Daredevils,6,5,S Dhawan,SR Watson,1,0,1
+335984,Delhi Daredevils,6,6,G Gambhir,SR Watson,1,0,1
+335984,Delhi Daredevils,7,1,G Gambhir,SK Trivedi,1,0,1
+335984,Delhi Daredevils,7,2,S Dhawan,SK Trivedi,4,0,4
+335984,Delhi Daredevils,7,3,S Dhawan,SK Trivedi,0,1,1
+335984,Delhi Daredevils,7,4,S Dhawan,SK Trivedi,0,0,0
+335984,Delhi Daredevils,7,5,S Dhawan,SK Trivedi,4,0,4
+335984,Delhi Daredevils,7,6,S Dhawan,SK Trivedi,2,0,2
+335984,Delhi Daredevils,7,7,S Dhawan,SK Trivedi,0,0,0
+335984,Delhi Daredevils,8,1,G Gambhir,SK Warne,0,0,0
+335984,Delhi Daredevils,8,2,G Gambhir,SK Warne,1,0,1
+335984,Delhi Daredevils,8,3,S Dhawan,SK Warne,4,0,4
+335984,Delhi Daredevils,8,4,S Dhawan,SK Warne,0,0,0
+335984,Delhi Daredevils,8,5,S Dhawan,SK Warne,1,0,1
+335984,Delhi Daredevils,8,6,G Gambhir,SK Warne,1,0,1
+335984,Delhi Daredevils,9,1,G Gambhir,YK Pathan,0,0,0
+335984,Delhi Daredevils,9,2,G Gambhir,YK Pathan,0,1,1
+335984,Delhi Daredevils,9,3,G Gambhir,YK Pathan,4,0,4
+335984,Delhi Daredevils,9,4,G Gambhir,YK Pathan,1,0,1
+335984,Delhi Daredevils,9,5,S Dhawan,YK Pathan,1,0,1
+335984,Delhi Daredevils,9,6,G Gambhir,YK Pathan,0,0,0
+335984,Delhi Daredevils,9,7,G Gambhir,YK Pathan,1,0,1
+335984,Delhi Daredevils,10,1,G Gambhir,SK Warne,1,0,1
+335984,Delhi Daredevils,10,2,S Dhawan,SK Warne,1,0,1
+335984,Delhi Daredevils,10,3,G Gambhir,SK Warne,4,0,4
+335984,Delhi Daredevils,10,4,G Gambhir,SK Warne,1,0,1
+335984,Delhi Daredevils,10,5,S Dhawan,SK Warne,1,0,1
+335984,Delhi Daredevils,10,6,G Gambhir,SK Warne,1,0,1
+335984,Delhi Daredevils,11,1,G Gambhir,YK Pathan,1,0,1
+335984,Delhi Daredevils,11,2,S Dhawan,YK Pathan,1,0,1
+335984,Delhi Daredevils,11,3,G Gambhir,YK Pathan,2,0,2
+335984,Delhi Daredevils,11,4,G Gambhir,YK Pathan,1,0,1
+335984,Delhi Daredevils,11,5,S Dhawan,YK Pathan,0,0,0
+335984,Delhi Daredevils,11,6,S Dhawan,YK Pathan,0,0,0
+335984,Delhi Daredevils,12,1,G Gambhir,D Salunkhe,1,0,1
+335984,Delhi Daredevils,12,2,S Dhawan,D Salunkhe,1,0,1
+335984,Delhi Daredevils,12,3,G Gambhir,D Salunkhe,1,0,1
+335984,Delhi Daredevils,12,4,S Dhawan,D Salunkhe,1,0,1
+335984,Delhi Daredevils,12,5,G Gambhir,D Salunkhe,1,0,1
+335984,Delhi Daredevils,12,6,S Dhawan,D Salunkhe,0,5,5
+335984,Delhi Daredevils,12,7,S Dhawan,D Salunkhe,1,0,1
+335984,Delhi Daredevils,13,1,S Dhawan,SR Watson,1,0,1
+335984,Delhi Daredevils,13,2,G Gambhir,SR Watson,0,0,0
+335984,Delhi Daredevils,13,3,G Gambhir,SR Watson,1,0,1
+335984,Delhi Daredevils,13,4,S Dhawan,SR Watson,1,0,1
+335984,Delhi Daredevils,13,5,G Gambhir,SR Watson,1,0,1
+335984,Delhi Daredevils,13,6,S Dhawan,SR Watson,0,0,0
+335984,Delhi Daredevils,14,1,G Gambhir,SK Trivedi,0,1,1
+335984,Delhi Daredevils,14,2,G Gambhir,SK Trivedi,1,0,1
+335984,Delhi Daredevils,14,3,S Dhawan,SK Trivedi,4,0,4
+335984,Delhi Daredevils,14,4,S Dhawan,SK Trivedi,2,0,2
+335984,Delhi Daredevils,14,5,S Dhawan,SK Trivedi,4,0,4
+335984,Delhi Daredevils,14,6,S Dhawan,SK Trivedi,1,0,1
+335984,Delhi Daredevils,14,7,G Gambhir,SK Trivedi,0,0,0
+335984,Delhi Daredevils,15,1,S Dhawan,YK Pathan,4,0,4
+335988,Deccan Chargers,0,1,AC Gilchrist,GD McGrath,0,0,0
+335988,Deccan Chargers,0,2,AC Gilchrist,GD McGrath,0,0,0
+335988,Deccan Chargers,0,3,AC Gilchrist,GD McGrath,0,1,1
+335988,Deccan Chargers,0,4,Y Venugopal Rao,GD McGrath,0,0,0
+335988,Deccan Chargers,0,5,Y Venugopal Rao,GD McGrath,0,0,0
+335988,Deccan Chargers,0,6,Y Venugopal Rao,GD McGrath,0,0,0
+335988,Deccan Chargers,1,1,AC Gilchrist,Mohammad Asif,0,0,0
+335988,Deccan Chargers,1,2,AC Gilchrist,Mohammad Asif,0,0,0
+335988,Deccan Chargers,1,3,AC Gilchrist,Mohammad Asif,6,0,6
+335988,Deccan Chargers,1,4,AC Gilchrist,Mohammad Asif,0,0,0
+335988,Deccan Chargers,1,5,AC Gilchrist,Mohammad Asif,2,0,2
+335988,Deccan Chargers,1,6,AC Gilchrist,Mohammad Asif,0,0,0
+335988,Deccan Chargers,2,1,Y Venugopal Rao,GD McGrath,0,0,0
+335988,Deccan Chargers,2,2,Y Venugopal Rao,GD McGrath,2,0,2
+335988,Deccan Chargers,2,3,Y Venugopal Rao,GD McGrath,0,0,0
+335988,Deccan Chargers,2,4,Y Venugopal Rao,GD McGrath,0,0,0
+335988,Deccan Chargers,2,5,Y Venugopal Rao,GD McGrath,0,0,0
+335988,Deccan Chargers,2,6,Y Venugopal Rao,GD McGrath,4,0,4
+335988,Deccan Chargers,3,1,VVS Laxman,Mohammad Asif,0,0,0
+335988,Deccan Chargers,3,2,VVS Laxman,Mohammad Asif,0,0,0
+335988,Deccan Chargers,3,3,VVS Laxman,Mohammad Asif,0,0,0
+335988,Deccan Chargers,3,4,VVS Laxman,Mohammad Asif,1,0,1
+335988,Deccan Chargers,3,5,Y Venugopal Rao,Mohammad Asif,0,0,0
+335988,Deccan Chargers,3,6,Y Venugopal Rao,Mohammad Asif,0,0,0
+335988,Deccan Chargers,4,1,VVS Laxman,GD McGrath,1,0,1
+335988,Deccan Chargers,4,2,Y Venugopal Rao,GD McGrath,2,0,2
+335988,Deccan Chargers,4,3,Y Venugopal Rao,GD McGrath,4,0,4
+335988,Deccan Chargers,4,4,Y Venugopal Rao,GD McGrath,0,0,0
+335988,Deccan Chargers,4,5,Y Venugopal Rao,GD McGrath,0,0,0
+335988,Deccan Chargers,4,6,Y Venugopal Rao,GD McGrath,0,0,0
+335988,Deccan Chargers,5,1,VVS Laxman,Mohammad Asif,0,0,0
+335988,Deccan Chargers,5,2,A Symonds,Mohammad Asif,0,0,0
+335988,Deccan Chargers,5,3,A Symonds,Mohammad Asif,0,0,0
+335988,Deccan Chargers,5,4,A Symonds,Mohammad Asif,0,0,0
+335988,Deccan Chargers,5,5,A Symonds,Mohammad Asif,2,0,2
+335988,Deccan Chargers,5,6,A Symonds,Mohammad Asif,0,0,0
+335988,Deccan Chargers,6,1,Y Venugopal Rao,GD McGrath,1,0,1
+335988,Deccan Chargers,6,2,A Symonds,GD McGrath,4,0,4
+335988,Deccan Chargers,6,3,A Symonds,GD McGrath,4,0,4
+335988,Deccan Chargers,6,4,A Symonds,GD McGrath,0,0,0
+335988,Deccan Chargers,6,5,A Symonds,GD McGrath,0,0,0
+335988,Deccan Chargers,6,6,A Symonds,GD McGrath,0,0,0
+335988,Deccan Chargers,7,1,Y Venugopal Rao,MF Maharoof,1,0,1
+335988,Deccan Chargers,7,2,A Symonds,MF Maharoof,1,0,1
+335988,Deccan Chargers,7,3,Y Venugopal Rao,MF Maharoof,0,0,0
+335988,Deccan Chargers,7,4,Y Venugopal Rao,MF Maharoof,0,0,0
+335988,Deccan Chargers,7,5,Y Venugopal Rao,MF Maharoof,0,0,0
+335988,Deccan Chargers,7,6,Y Venugopal Rao,MF Maharoof,0,0,0
+335988,Deccan Chargers,8,1,RG Sharma,VY Mahesh,4,0,4
+335988,Deccan Chargers,8,2,RG Sharma,VY Mahesh,0,0,0
+335988,Deccan Chargers,8,3,RG Sharma,VY Mahesh,1,0,1
+335988,Deccan Chargers,8,4,A Symonds,VY Mahesh,1,0,1
+335988,Deccan Chargers,8,5,RG Sharma,VY Mahesh,0,0,0
+335988,Deccan Chargers,8,6,RG Sharma,VY Mahesh,1,0,1
+335988,Deccan Chargers,9,1,RG Sharma,MF Maharoof,0,1,1
+335988,Deccan Chargers,9,2,RG Sharma,MF Maharoof,1,0,1
+335988,Deccan Chargers,9,3,A Symonds,MF Maharoof,0,0,0
+335988,Deccan Chargers,9,4,Shahid Afridi,MF Maharoof,0,0,0
+335988,Deccan Chargers,9,5,Shahid Afridi,MF Maharoof,0,0,0
+335988,Deccan Chargers,9,6,Shahid Afridi,MF Maharoof,0,0,0
+335988,Deccan Chargers,9,7,Shahid Afridi,MF Maharoof,0,0,0
+335988,Deccan Chargers,10,1,RG Sharma,VY Mahesh,0,0,0
+335988,Deccan Chargers,10,2,RG Sharma,VY Mahesh,0,0,0
+335988,Deccan Chargers,10,3,RG Sharma,VY Mahesh,0,0,0
+335988,Deccan Chargers,10,4,RG Sharma,VY Mahesh,4,0,4
+335988,Deccan Chargers,10,5,RG Sharma,VY Mahesh,4,0,4
+335988,Deccan Chargers,10,6,RG Sharma,VY Mahesh,1,0,1
+335988,Deccan Chargers,11,1,RG Sharma,MF Maharoof,2,0,2
+335988,Deccan Chargers,11,2,RG Sharma,MF Maharoof,0,0,0
+335988,Deccan Chargers,11,3,RG Sharma,MF Maharoof,1,0,1
+335988,Deccan Chargers,11,4,Shahid Afridi,MF Maharoof,1,0,1
+335988,Deccan Chargers,11,5,RG Sharma,MF Maharoof,1,0,1
+335988,Deccan Chargers,11,6,Shahid Afridi,MF Maharoof,1,0,1
+335988,Deccan Chargers,12,1,Shahid Afridi,R Bhatia,0,0,0
+335988,Deccan Chargers,12,2,SB Bangar,R Bhatia,0,0,0
+335988,Deccan Chargers,12,3,SB Bangar,R Bhatia,0,0,0
+335988,Deccan Chargers,12,4,SB Bangar,R Bhatia,1,0,1
+335988,Deccan Chargers,12,5,RG Sharma,R Bhatia,1,0,1
+335988,Deccan Chargers,12,6,SB Bangar,R Bhatia,0,0,0
+335988,Deccan Chargers,13,1,RG Sharma,VY Mahesh,1,0,1
+335988,Deccan Chargers,13,2,SB Bangar,VY Mahesh,1,0,1
+335988,Deccan Chargers,13,3,RG Sharma,VY Mahesh,1,0,1
+335988,Deccan Chargers,13,4,SB Bangar,VY Mahesh,1,0,1
+335988,Deccan Chargers,13,5,RG Sharma,VY Mahesh,1,0,1
+335988,Deccan Chargers,13,6,SB Bangar,VY Mahesh,1,0,1
+335988,Deccan Chargers,14,1,SB Bangar,R Bhatia,1,0,1
+335988,Deccan Chargers,14,2,RG Sharma,R Bhatia,1,0,1
+335988,Deccan Chargers,14,3,SB Bangar,R Bhatia,1,0,1
+335988,Deccan Chargers,14,4,RG Sharma,R Bhatia,0,0,0
+335988,Deccan Chargers,14,5,RG Sharma,R Bhatia,1,0,1
+335988,Deccan Chargers,14,6,SB Bangar,R Bhatia,1,0,1
+335988,Deccan Chargers,15,1,SB Bangar,Mohammad Asif,0,0,0
+335988,Deccan Chargers,15,2,SB Bangar,Mohammad Asif,0,1,1
+335988,Deccan Chargers,15,3,RG Sharma,Mohammad Asif,6,0,6
+335988,Deccan Chargers,15,4,RG Sharma,Mohammad Asif,1,0,1
+335988,Deccan Chargers,15,5,SB Bangar,Mohammad Asif,1,0,1
+335988,Deccan Chargers,15,6,RG Sharma,Mohammad Asif,0,0,0
+335988,Deccan Chargers,16,1,SB Bangar,R Bhatia,0,0,0
+335988,Deccan Chargers,16,2,AS Yadav,R Bhatia,1,0,1
+335988,Deccan Chargers,16,3,RG Sharma,R Bhatia,0,0,0
+335988,Deccan Chargers,16,4,RG Sharma,R Bhatia,6,0,6
+335988,Deccan Chargers,16,5,RG Sharma,R Bhatia,1,0,1
+335988,Deccan Chargers,16,6,AS Yadav,R Bhatia,0,0,0
+335988,Deccan Chargers,17,1,RG Sharma,MF Maharoof,6,0,6
+335988,Deccan Chargers,17,2,RG Sharma,MF Maharoof,6,0,6
+335988,Deccan Chargers,17,3,RG Sharma,MF Maharoof,4,0,4
+335988,Deccan Chargers,17,4,RG Sharma,MF Maharoof,4,0,4
+335988,Deccan Chargers,17,5,RG Sharma,MF Maharoof,4,0,4
+335988,Deccan Chargers,17,6,RG Sharma,MF Maharoof,2,0,2
+335988,Deccan Chargers,18,1,AS Yadav,R Bhatia,2,0,2
+335988,Deccan Chargers,18,2,AS Yadav,R Bhatia,4,0,4
+335988,Deccan Chargers,18,3,AS Yadav,R Bhatia,1,0,1
+335988,Deccan Chargers,18,4,RG Sharma,R Bhatia,0,0,0
+335988,Deccan Chargers,18,5,WPUJC Vaas,R Bhatia,1,0,1
+335988,Deccan Chargers,18,6,AS Yadav,R Bhatia,4,0,4
+335988,Deccan Chargers,19,1,WPUJC Vaas,VY Mahesh,0,1,1
+335988,Deccan Chargers,19,2,AS Yadav,VY Mahesh,0,0,0
+335988,Deccan Chargers,19,3,WPUJC Vaas,VY Mahesh,1,0,1
+335988,Deccan Chargers,19,4,RP Singh,VY Mahesh,1,0,1
+335988,Deccan Chargers,19,5,WPUJC Vaas,VY Mahesh,2,0,2
+335988,Deccan Chargers,19,6,WPUJC Vaas,VY Mahesh,6,1,7
+335988,Deccan Chargers,19,7,WPUJC Vaas,VY Mahesh,2,0,2
+335988,Delhi Daredevils,0,1,G Gambhir,WPUJC Vaas,1,0,1
+335988,Delhi Daredevils,0,2,V Sehwag,WPUJC Vaas,1,0,1
+335988,Delhi Daredevils,0,3,G Gambhir,WPUJC Vaas,1,0,1
+335988,Delhi Daredevils,0,4,V Sehwag,WPUJC Vaas,0,0,0
+335988,Delhi Daredevils,0,5,V Sehwag,WPUJC Vaas,1,0,1
+335988,Delhi Daredevils,0,6,G Gambhir,WPUJC Vaas,0,0,0
+335988,Delhi Daredevils,1,1,V Sehwag,RP Singh,4,0,4
+335988,Delhi Daredevils,1,2,V Sehwag,RP Singh,4,0,4
+335988,Delhi Daredevils,1,3,V Sehwag,RP Singh,1,0,1
+335988,Delhi Daredevils,1,4,G Gambhir,RP Singh,4,0,4
+335988,Delhi Daredevils,1,5,G Gambhir,RP Singh,1,0,1
+335988,Delhi Daredevils,1,6,V Sehwag,RP Singh,0,0,0
+335988,Delhi Daredevils,2,1,G Gambhir,WPUJC Vaas,1,0,1
+335988,Delhi Daredevils,2,2,V Sehwag,WPUJC Vaas,2,0,2
+335988,Delhi Daredevils,2,3,V Sehwag,WPUJC Vaas,4,0,4
+335988,Delhi Daredevils,2,4,V Sehwag,WPUJC Vaas,1,0,1
+335988,Delhi Daredevils,2,5,G Gambhir,WPUJC Vaas,0,0,0
+335988,Delhi Daredevils,2,6,G Gambhir,WPUJC Vaas,4,0,4
+335988,Delhi Daredevils,3,1,V Sehwag,RP Singh,0,0,0
+335988,Delhi Daredevils,3,2,V Sehwag,RP Singh,1,0,1
+335988,Delhi Daredevils,3,3,G Gambhir,RP Singh,0,0,0
+335988,Delhi Daredevils,3,4,S Dhawan,RP Singh,0,0,0
+335988,Delhi Daredevils,3,5,S Dhawan,RP Singh,1,0,1
+335988,Delhi Daredevils,3,6,V Sehwag,RP Singh,0,0,0
+335988,Delhi Daredevils,4,1,S Dhawan,WPUJC Vaas,0,0,0
+335988,Delhi Daredevils,4,2,S Dhawan,WPUJC Vaas,0,0,0
+335988,Delhi Daredevils,4,3,S Dhawan,WPUJC Vaas,1,0,1
+335988,Delhi Daredevils,4,4,V Sehwag,WPUJC Vaas,4,0,4
+335988,Delhi Daredevils,4,5,V Sehwag,WPUJC Vaas,0,0,0
+335988,Delhi Daredevils,4,6,V Sehwag,WPUJC Vaas,0,0,0
+335988,Delhi Daredevils,5,1,S Dhawan,RP Singh,0,1,1
+335988,Delhi Daredevils,5,2,S Dhawan,RP Singh,0,0,0
+335988,Delhi Daredevils,5,3,S Dhawan,RP Singh,1,0,1
+335988,Delhi Daredevils,5,4,V Sehwag,RP Singh,1,0,1
+335988,Delhi Daredevils,5,5,S Dhawan,RP Singh,4,0,4
+335988,Delhi Daredevils,5,6,S Dhawan,RP Singh,0,0,0
+335988,Delhi Daredevils,5,7,S Dhawan,RP Singh,4,0,4
+335988,Delhi Daredevils,6,1,V Sehwag,SB Bangar,4,0,4
+335988,Delhi Daredevils,6,2,V Sehwag,SB Bangar,0,0,0
+335988,Delhi Daredevils,6,3,V Sehwag,SB Bangar,1,0,1
+335988,Delhi Daredevils,6,4,S Dhawan,SB Bangar,2,0,2
+335988,Delhi Daredevils,6,5,S Dhawan,SB Bangar,0,0,0
+335988,Delhi Daredevils,6,6,S Dhawan,SB Bangar,0,0,0
+335988,Delhi Daredevils,7,1,V Sehwag,Shahid Afridi,1,0,1
+335988,Delhi Daredevils,7,2,S Dhawan,Shahid Afridi,0,0,0
+335988,Delhi Daredevils,7,3,S Dhawan,Shahid Afridi,2,0,2
+335988,Delhi Daredevils,7,4,S Dhawan,Shahid Afridi,0,0,0
+335988,Delhi Daredevils,7,5,S Dhawan,Shahid Afridi,1,0,1
+335988,Delhi Daredevils,7,6,V Sehwag,Shahid Afridi,1,0,1
+335988,Delhi Daredevils,8,1,V Sehwag,SB Bangar,0,1,1
+335988,Delhi Daredevils,8,2,V Sehwag,SB Bangar,1,0,1
+335988,Delhi Daredevils,8,3,S Dhawan,SB Bangar,1,0,1
+335988,Delhi Daredevils,8,4,V Sehwag,SB Bangar,4,0,4
+335988,Delhi Daredevils,8,5,V Sehwag,SB Bangar,6,0,6
+335988,Delhi Daredevils,8,6,V Sehwag,SB Bangar,6,0,6
+335988,Delhi Daredevils,8,7,V Sehwag,SB Bangar,4,0,4
+335988,Delhi Daredevils,9,1,S Dhawan,Shahid Afridi,1,0,1
+335988,Delhi Daredevils,9,2,V Sehwag,Shahid Afridi,2,0,2
+335988,Delhi Daredevils,9,3,V Sehwag,Shahid Afridi,6,0,6
+335988,Delhi Daredevils,9,4,V Sehwag,Shahid Afridi,1,0,1
+335988,Delhi Daredevils,9,5,S Dhawan,Shahid Afridi,2,0,2
+335988,Delhi Daredevils,9,6,S Dhawan,Shahid Afridi,0,0,0
+335988,Delhi Daredevils,10,1,V Sehwag,A Symonds,1,0,1
+335988,Delhi Daredevils,10,2,S Dhawan,A Symonds,0,0,0
+335988,Delhi Daredevils,10,3,S Dhawan,A Symonds,0,0,0
+335988,Delhi Daredevils,10,4,S Dhawan,A Symonds,0,0,0
+335988,Delhi Daredevils,10,5,S Dhawan,A Symonds,4,0,4
+335988,Delhi Daredevils,10,6,S Dhawan,A Symonds,0,0,0
+335988,Delhi Daredevils,11,1,V Sehwag,PP Ojha,1,0,1
+335988,Delhi Daredevils,11,2,S Dhawan,PP Ojha,0,2,2
+335988,Delhi Daredevils,11,3,V Sehwag,PP Ojha,0,0,0
+335988,Delhi Daredevils,11,4,V Sehwag,PP Ojha,0,2,2
+335988,Delhi Daredevils,11,5,S Dhawan,PP Ojha,1,0,1
+335988,Delhi Daredevils,11,6,V Sehwag,PP Ojha,0,5,5
+335988,Delhi Daredevils,11,7,V Sehwag,PP Ojha,1,0,1
+335988,Delhi Daredevils,11,8,S Dhawan,PP Ojha,0,0,0
+335988,Delhi Daredevils,12,1,V Sehwag,A Symonds,4,0,4
+335988,Delhi Daredevils,12,2,V Sehwag,A Symonds,6,0,6
+335988,Delhi Daredevils,12,3,V Sehwag,A Symonds,4,0,4
+335988,Delhi Daredevils,12,4,V Sehwag,A Symonds,6,0,6
+335988,Delhi Daredevils,12,5,V Sehwag,A Symonds,4,0,4
+335988,Delhi Daredevils,12,6,V Sehwag,A Symonds,6,0,6
+335988,Delhi Daredevils,13,1,S Dhawan,WPUJC Vaas,0,1,1
+335983,Chennai Super Kings,0,1,PA Patel,B Lee,0,0,0
+335983,Chennai Super Kings,0,2,PA Patel,B Lee,0,0,0
+335983,Chennai Super Kings,0,3,PA Patel,B Lee,1,0,1
+335983,Chennai Super Kings,0,4,ML Hayden,B Lee,0,0,0
+335983,Chennai Super Kings,0,5,ML Hayden,B Lee,4,0,4
+335983,Chennai Super Kings,0,6,ML Hayden,B Lee,0,0,0
+335983,Chennai Super Kings,1,1,PA Patel,S Sreesanth,4,0,4
+335983,Chennai Super Kings,1,2,PA Patel,S Sreesanth,4,0,4
+335983,Chennai Super Kings,1,3,PA Patel,S Sreesanth,4,0,4
+335983,Chennai Super Kings,1,4,PA Patel,S Sreesanth,2,0,2
+335983,Chennai Super Kings,1,5,PA Patel,S Sreesanth,0,1,1
+335983,Chennai Super Kings,1,6,PA Patel,S Sreesanth,0,0,0
+335983,Chennai Super Kings,1,7,PA Patel,S Sreesanth,0,0,0
+335983,Chennai Super Kings,2,1,ML Hayden,B Lee,0,0,0
+335983,Chennai Super Kings,2,2,ML Hayden,B Lee,4,1,5
+335983,Chennai Super Kings,2,3,ML Hayden,B Lee,0,0,0
+335983,Chennai Super Kings,2,4,ML Hayden,B Lee,1,0,1
+335983,Chennai Super Kings,2,5,PA Patel,B Lee,0,0,0
+335983,Chennai Super Kings,2,6,MEK Hussey,B Lee,1,0,1
+335983,Chennai Super Kings,2,7,ML Hayden,B Lee,0,0,0
+335983,Chennai Super Kings,3,1,MEK Hussey,S Sreesanth,0,0,0
+335983,Chennai Super Kings,3,2,MEK Hussey,S Sreesanth,0,0,0
+335983,Chennai Super Kings,3,3,MEK Hussey,S Sreesanth,1,0,1
+335983,Chennai Super Kings,3,4,ML Hayden,S Sreesanth,1,0,1
+335983,Chennai Super Kings,3,5,MEK Hussey,S Sreesanth,0,0,0
+335983,Chennai Super Kings,3,6,MEK Hussey,S Sreesanth,4,0,4
+335983,Chennai Super Kings,4,1,ML Hayden,B Lee,0,0,0
+335983,Chennai Super Kings,4,2,ML Hayden,B Lee,0,1,1
+335983,Chennai Super Kings,4,3,MEK Hussey,B Lee,4,0,4
+335983,Chennai Super Kings,4,4,MEK Hussey,B Lee,4,0,4
+335983,Chennai Super Kings,4,5,MEK Hussey,B Lee,0,0,0
+335983,Chennai Super Kings,4,6,MEK Hussey,B Lee,0,0,0
+335983,Chennai Super Kings,5,1,ML Hayden,JR Hopes,4,0,4
+335983,Chennai Super Kings,5,2,ML Hayden,JR Hopes,6,0,6
+335983,Chennai Super Kings,5,3,ML Hayden,JR Hopes,0,0,0
+335983,Chennai Super Kings,5,4,ML Hayden,JR Hopes,1,0,1
+335983,Chennai Super Kings,5,5,MEK Hussey,JR Hopes,0,0,0
+335983,Chennai Super Kings,5,6,MEK Hussey,JR Hopes,0,0,0
+335983,Chennai Super Kings,6,1,ML Hayden,IK Pathan,4,0,4
+335983,Chennai Super Kings,6,2,ML Hayden,IK Pathan,0,0,0
+335983,Chennai Super Kings,6,3,MS Dhoni,IK Pathan,1,0,1
+335983,Chennai Super Kings,6,4,MEK Hussey,IK Pathan,2,0,2
+335983,Chennai Super Kings,6,5,MEK Hussey,IK Pathan,1,0,1
+335983,Chennai Super Kings,6,6,MS Dhoni,IK Pathan,1,0,1
+335983,Chennai Super Kings,7,1,MS Dhoni,JR Hopes,0,0,0
+335983,Chennai Super Kings,7,2,SK Raina,JR Hopes,1,0,1
+335983,Chennai Super Kings,7,3,MEK Hussey,JR Hopes,0,0,0
+335983,Chennai Super Kings,7,4,MEK Hussey,JR Hopes,1,0,1
+335983,Chennai Super Kings,7,5,SK Raina,JR Hopes,6,0,6
+335983,Chennai Super Kings,7,6,SK Raina,JR Hopes,0,0,0
+335983,Chennai Super Kings,8,1,MEK Hussey,IK Pathan,1,0,1
+335983,Chennai Super Kings,8,2,SK Raina,IK Pathan,4,0,4
+335983,Chennai Super Kings,8,3,SK Raina,IK Pathan,1,0,1
+335983,Chennai Super Kings,8,4,MEK Hussey,IK Pathan,0,0,0
+335983,Chennai Super Kings,8,5,MEK Hussey,IK Pathan,6,0,6
+335983,Chennai Super Kings,8,6,MEK Hussey,IK Pathan,1,0,1
+335983,Chennai Super Kings,9,1,MEK Hussey,K Goel,2,0,2
+335983,Chennai Super Kings,9,2,MEK Hussey,K Goel,1,0,1
+335983,Chennai Super Kings,9,3,SK Raina,K Goel,1,0,1
+335983,Chennai Super Kings,9,4,MEK Hussey,K Goel,0,0,0
+335983,Chennai Super Kings,9,5,MEK Hussey,K Goel,0,0,0
+335983,Chennai Super Kings,9,6,MEK Hussey,K Goel,1,0,1
+335983,Chennai Super Kings,10,1,MEK Hussey,PP Chawla,6,0,6
+335983,Chennai Super Kings,10,2,MEK Hussey,PP Chawla,1,0,1
+335983,Chennai Super Kings,10,3,SK Raina,PP Chawla,2,0,2
+335983,Chennai Super Kings,10,4,SK Raina,PP Chawla,0,0,0
+335983,Chennai Super Kings,10,5,SK Raina,PP Chawla,6,0,6
+335983,Chennai Super Kings,10,6,SK Raina,PP Chawla,4,0,4
+335983,Chennai Super Kings,11,1,MEK Hussey,K Goel,6,0,6
+335983,Chennai Super Kings,11,2,MEK Hussey,K Goel,4,0,4
+335983,Chennai Super Kings,11,3,MEK Hussey,K Goel,1,0,1
+335983,Chennai Super Kings,11,4,SK Raina,K Goel,6,0,6
+335983,Chennai Super Kings,11,5,SK Raina,K Goel,1,0,1
+335983,Chennai Super Kings,11,6,MEK Hussey,K Goel,2,0,2
+335983,Chennai Super Kings,12,1,SK Raina,WA Mota,0,1,1
+335983,Chennai Super Kings,12,2,SK Raina,WA Mota,0,0,0
+335983,Chennai Super Kings,12,3,MEK Hussey,WA Mota,1,0,1
+335983,Chennai Super Kings,12,4,JDP Oram,WA Mota,0,1,1
+335983,Chennai Super Kings,12,5,JDP Oram,WA Mota,0,0,0
+335983,Chennai Super Kings,12,6,JDP Oram,WA Mota,1,0,1
+335983,Chennai Super Kings,12,7,MEK Hussey,WA Mota,1,0,1
+335983,Chennai Super Kings,12,8,JDP Oram,WA Mota,1,0,1
+335983,Chennai Super Kings,13,1,JDP Oram,JR Hopes,1,0,1
+335983,Chennai Super Kings,13,2,MEK Hussey,JR Hopes,0,0,0
+335983,Chennai Super Kings,13,3,MEK Hussey,JR Hopes,1,0,1
+335983,Chennai Super Kings,13,4,JDP Oram,JR Hopes,1,0,1
+335983,Chennai Super Kings,13,5,MEK Hussey,JR Hopes,6,0,6
+335983,Chennai Super Kings,13,6,MEK Hussey,JR Hopes,0,1,1
+335983,Chennai Super Kings,14,1,MEK Hussey,WA Mota,4,0,4
+335983,Chennai Super Kings,14,2,MEK Hussey,WA Mota,1,0,1
+335983,Chennai Super Kings,14,3,JDP Oram,WA Mota,2,0,2
+335983,Chennai Super Kings,14,4,JDP Oram,WA Mota,1,0,1
+335983,Chennai Super Kings,14,5,MEK Hussey,WA Mota,4,0,4
+335983,Chennai Super Kings,14,6,MEK Hussey,WA Mota,6,0,6
+335983,Chennai Super Kings,15,1,JDP Oram,IK Pathan,6,0,6
+335983,Chennai Super Kings,15,2,JDP Oram,IK Pathan,0,0,0
+335983,Chennai Super Kings,15,3,JDP Oram,IK Pathan,0,0,0
+335983,Chennai Super Kings,15,4,S Badrinath,IK Pathan,0,0,0
+335983,Chennai Super Kings,15,5,S Badrinath,IK Pathan,1,0,1
+335983,Chennai Super Kings,15,6,MEK Hussey,IK Pathan,1,0,1
+335983,Chennai Super Kings,16,1,MEK Hussey,S Sreesanth,1,0,1
+335983,Chennai Super Kings,16,2,S Badrinath,S Sreesanth,1,0,1
+335983,Chennai Super Kings,16,3,MEK Hussey,S Sreesanth,6,0,6
+335983,Chennai Super Kings,16,4,MEK Hussey,S Sreesanth,4,0,4
+335983,Chennai Super Kings,16,5,MEK Hussey,S Sreesanth,1,0,1
+335983,Chennai Super Kings,16,6,S Badrinath,S Sreesanth,1,0,1
+335983,Chennai Super Kings,17,1,S Badrinath,IK Pathan,0,0,0
+335983,Chennai Super Kings,17,2,S Badrinath,IK Pathan,4,0,4
+335983,Chennai Super Kings,17,3,S Badrinath,IK Pathan,1,0,1
+335983,Chennai Super Kings,17,4,MEK Hussey,IK Pathan,2,0,2
+335983,Chennai Super Kings,17,5,MEK Hussey,IK Pathan,6,0,6
+335983,Chennai Super Kings,17,6,MEK Hussey,IK Pathan,4,0,4
+335983,Chennai Super Kings,18,1,S Badrinath,B Lee,4,0,4
+335983,Chennai Super Kings,18,2,S Badrinath,B Lee,1,0,1
+335983,Chennai Super Kings,18,3,MEK Hussey,B Lee,1,0,1
+335983,Chennai Super Kings,18,4,S Badrinath,B Lee,1,0,1
+335983,Chennai Super Kings,18,5,MEK Hussey,B Lee,6,0,6
+335983,Chennai Super Kings,18,6,MEK Hussey,B Lee,2,0,2
+335983,Chennai Super Kings,19,1,S Badrinath,JR Hopes,6,0,6
+335983,Chennai Super Kings,19,2,S Badrinath,JR Hopes,6,0,6
+335983,Chennai Super Kings,19,3,S Badrinath,JR Hopes,4,0,4
+335983,Chennai Super Kings,19,4,S Badrinath,JR Hopes,1,0,1
+335983,Chennai Super Kings,19,5,MEK Hussey,JR Hopes,6,0,6
+335983,Chennai Super Kings,19,6,MEK Hussey,JR Hopes,2,0,2
+335983,Kings XI Punjab,0,1,K Goel,JDP Oram,4,0,4
+335983,Kings XI Punjab,0,2,K Goel,JDP Oram,0,0,0
+335983,Kings XI Punjab,0,3,K Goel,JDP Oram,0,0,0
+335983,Kings XI Punjab,0,4,K Goel,JDP Oram,1,0,1
+335983,Kings XI Punjab,0,5,JR Hopes,JDP Oram,0,0,0
+335983,Kings XI Punjab,0,6,JR Hopes,JDP Oram,4,0,4
+335983,Kings XI Punjab,1,1,K Goel,MS Gony,1,0,1
+335983,Kings XI Punjab,1,2,JR Hopes,MS Gony,0,0,0
+335983,Kings XI Punjab,1,3,JR Hopes,MS Gony,1,0,1
+335983,Kings XI Punjab,1,4,K Goel,MS Gony,0,0,0
+335983,Kings XI Punjab,1,5,K Goel,MS Gony,4,0,4
+335983,Kings XI Punjab,1,6,K Goel,MS Gony,1,0,1
+335983,Kings XI Punjab,2,1,K Goel,JDP Oram,1,0,1
+335983,Kings XI Punjab,2,2,JR Hopes,JDP Oram,4,0,4
+335983,Kings XI Punjab,2,3,JR Hopes,JDP Oram,0,0,0
+335983,Kings XI Punjab,2,4,JR Hopes,JDP Oram,4,0,4
+335983,Kings XI Punjab,2,5,JR Hopes,JDP Oram,1,0,1
+335983,Kings XI Punjab,2,6,K Goel,JDP Oram,1,0,1
+335983,Kings XI Punjab,3,1,K Goel,MS Gony,0,0,0
+335983,Kings XI Punjab,3,2,K Goel,MS Gony,0,0,0
+335983,Kings XI Punjab,3,3,K Goel,MS Gony,1,0,1
+335983,Kings XI Punjab,3,4,JR Hopes,MS Gony,1,0,1
+335983,Kings XI Punjab,3,5,K Goel,MS Gony,2,0,2
+335983,Kings XI Punjab,3,6,K Goel,MS Gony,6,0,6
+335983,Kings XI Punjab,4,1,JR Hopes,JDP Oram,0,0,0
+335983,Kings XI Punjab,4,2,JR Hopes,JDP Oram,0,0,0
+335983,Kings XI Punjab,4,3,JR Hopes,JDP Oram,1,0,1
+335983,Kings XI Punjab,4,4,K Goel,JDP Oram,1,0,1
+335983,Kings XI Punjab,4,5,JR Hopes,JDP Oram,4,0,4
+335983,Kings XI Punjab,4,6,JR Hopes,JDP Oram,4,0,4
+335983,Kings XI Punjab,5,1,K Goel,MS Gony,1,0,1
+335983,Kings XI Punjab,5,2,JR Hopes,MS Gony,6,0,6
+335983,Kings XI Punjab,5,3,JR Hopes,MS Gony,1,0,1
+335983,Kings XI Punjab,5,4,K Goel,MS Gony,0,1,1
+335983,Kings XI Punjab,5,5,K Goel,MS Gony,0,0,0
+335983,Kings XI Punjab,5,6,K Goel,MS Gony,0,0,0
+335983,Kings XI Punjab,5,7,JR Hopes,MS Gony,0,1,1
+335983,Kings XI Punjab,5,8,JR Hopes,MS Gony,6,0,6
+335983,Kings XI Punjab,6,1,KC Sangakkara,M Muralitharan,1,0,1
+335983,Kings XI Punjab,6,2,JR Hopes,M Muralitharan,1,0,1
+335983,Kings XI Punjab,6,3,KC Sangakkara,M Muralitharan,1,0,1
+335983,Kings XI Punjab,6,4,JR Hopes,M Muralitharan,1,0,1
+335983,Kings XI Punjab,6,5,KC Sangakkara,M Muralitharan,0,1,1
+335983,Kings XI Punjab,6,6,JR Hopes,M Muralitharan,1,0,1
+335983,Kings XI Punjab,7,1,JR Hopes,P Amarnath,4,0,4
+335983,Kings XI Punjab,7,2,JR Hopes,P Amarnath,4,0,4
+335983,Kings XI Punjab,7,3,JR Hopes,P Amarnath,1,0,1
+335983,Kings XI Punjab,7,4,KC Sangakkara,P Amarnath,1,0,1
+335983,Kings XI Punjab,7,5,JR Hopes,P Amarnath,4,0,4
+335983,Kings XI Punjab,7,6,JR Hopes,P Amarnath,1,0,1
+335983,Kings XI Punjab,8,1,JR Hopes,Joginder Sharma,4,0,4
+335983,Kings XI Punjab,8,2,JR Hopes,Joginder Sharma,4,0,4
+335983,Kings XI Punjab,8,3,JR Hopes,Joginder Sharma,1,0,1
+335983,Kings XI Punjab,8,4,KC Sangakkara,Joginder Sharma,1,0,1
+335983,Kings XI Punjab,8,5,JR Hopes,Joginder Sharma,1,0,1
+335983,Kings XI Punjab,8,6,KC Sangakkara,Joginder Sharma,0,1,1
+335983,Kings XI Punjab,8,7,KC Sangakkara,Joginder Sharma,1,0,1
+335983,Kings XI Punjab,9,1,KC Sangakkara,M Muralitharan,1,0,1
+335983,Kings XI Punjab,9,2,JR Hopes,M Muralitharan,6,0,6
+335983,Kings XI Punjab,9,3,JR Hopes,M Muralitharan,0,0,0
+335983,Kings XI Punjab,9,4,JR Hopes,M Muralitharan,1,0,1
+335983,Kings XI Punjab,9,5,KC Sangakkara,M Muralitharan,4,0,4
+335983,Kings XI Punjab,9,6,KC Sangakkara,M Muralitharan,1,0,1
+335983,Kings XI Punjab,10,1,KC Sangakkara,P Amarnath,1,0,1
+335983,Kings XI Punjab,10,2,JR Hopes,P Amarnath,0,0,0
+335983,Kings XI Punjab,10,3,KC Sangakkara,P Amarnath,1,0,1
+335983,Kings XI Punjab,10,4,Yuvraj Singh,P Amarnath,1,0,1
+335983,Kings XI Punjab,10,5,KC Sangakkara,P Amarnath,1,0,1
+335983,Kings XI Punjab,10,6,Yuvraj Singh,P Amarnath,1,0,1
+335983,Kings XI Punjab,11,1,Yuvraj Singh,Joginder Sharma,1,0,1
+335983,Kings XI Punjab,11,2,KC Sangakkara,Joginder Sharma,6,0,6
+335983,Kings XI Punjab,11,3,KC Sangakkara,Joginder Sharma,4,0,4
+335983,Kings XI Punjab,11,4,KC Sangakkara,Joginder Sharma,0,0,0
+335983,Kings XI Punjab,11,5,KC Sangakkara,Joginder Sharma,0,0,0
+335983,Kings XI Punjab,11,6,KC Sangakkara,Joginder Sharma,1,0,1
+335983,Kings XI Punjab,12,1,KC Sangakkara,P Amarnath,0,1,1
+335983,Kings XI Punjab,12,2,Yuvraj Singh,P Amarnath,6,0,6
+335983,Kings XI Punjab,12,3,Yuvraj Singh,P Amarnath,1,0,1
+335983,Kings XI Punjab,12,4,KC Sangakkara,P Amarnath,0,1,1
+335983,Kings XI Punjab,12,5,Yuvraj Singh,P Amarnath,4,0,4
+335983,Kings XI Punjab,12,6,Yuvraj Singh,P Amarnath,1,0,1
+335983,Kings XI Punjab,13,1,Yuvraj Singh,M Muralitharan,1,0,1
+335983,Kings XI Punjab,13,2,KC Sangakkara,M Muralitharan,1,0,1
+335983,Kings XI Punjab,13,3,Yuvraj Singh,M Muralitharan,1,0,1
+335983,Kings XI Punjab,13,4,KC Sangakkara,M Muralitharan,0,2,2
+335983,Kings XI Punjab,13,5,Yuvraj Singh,M Muralitharan,6,0,6
+335983,Kings XI Punjab,13,6,Yuvraj Singh,M Muralitharan,0,0,0
+335983,Kings XI Punjab,13,7,Yuvraj Singh,M Muralitharan,0,0,0
+335983,Kings XI Punjab,14,1,KC Sangakkara,Joginder Sharma,1,0,1
+335983,Kings XI Punjab,14,2,Yuvraj Singh,Joginder Sharma,0,0,0
+335983,Kings XI Punjab,14,3,KC Sangakkara,Joginder Sharma,4,0,4
+335983,Kings XI Punjab,14,4,KC Sangakkara,Joginder Sharma,1,0,1
+335983,Kings XI Punjab,14,5,SM Katich,Joginder Sharma,1,0,1
+335983,Kings XI Punjab,14,6,KC Sangakkara,Joginder Sharma,6,0,6
+335983,Kings XI Punjab,15,1,SM Katich,P Amarnath,2,0,2
+335983,Kings XI Punjab,15,2,SM Katich,P Amarnath,0,1,1
+335983,Kings XI Punjab,15,3,KC Sangakkara,P Amarnath,4,0,4
+335983,Kings XI Punjab,15,4,KC Sangakkara,P Amarnath,1,0,1
+335983,Kings XI Punjab,15,5,SM Katich,P Amarnath,1,0,1
+335983,Kings XI Punjab,15,6,KC Sangakkara,P Amarnath,2,0,2
+335983,Kings XI Punjab,16,1,SM Katich,MS Gony,0,1,1
+335983,Kings XI Punjab,16,2,KC Sangakkara,MS Gony,1,0,1
+335983,Kings XI Punjab,16,3,SM Katich,MS Gony,1,0,1
+335983,Kings XI Punjab,16,4,KC Sangakkara,MS Gony,4,0,4
+335983,Kings XI Punjab,16,5,KC Sangakkara,MS Gony,1,0,1
+335983,Kings XI Punjab,16,6,SM Katich,MS Gony,2,0,2
+335983,Kings XI Punjab,17,1,KC Sangakkara,M Muralitharan,1,0,1
+335983,Kings XI Punjab,17,2,SM Katich,M Muralitharan,1,0,1
+335983,Kings XI Punjab,17,3,KC Sangakkara,M Muralitharan,2,0,2
+335983,Kings XI Punjab,17,4,KC Sangakkara,M Muralitharan,0,0,0
+335983,Kings XI Punjab,17,5,SM Katich,M Muralitharan,0,1,1
+335983,Kings XI Punjab,17,6,IK Pathan,M Muralitharan,0,0,0
+335983,Kings XI Punjab,18,1,SM Katich,JDP Oram,1,0,1
+335983,Kings XI Punjab,18,2,IK Pathan,JDP Oram,1,0,1
+335983,Kings XI Punjab,18,3,SM Katich,JDP Oram,1,0,1
+335983,Kings XI Punjab,18,4,IK Pathan,JDP Oram,1,0,1
+335983,Kings XI Punjab,18,5,SM Katich,JDP Oram,2,0,2
+335983,Kings XI Punjab,18,6,SM Katich,JDP Oram,1,0,1
+335983,Kings XI Punjab,19,1,SM Katich,Joginder Sharma,1,0,1
+335983,Kings XI Punjab,19,2,IK Pathan,Joginder Sharma,1,0,1
+335983,Kings XI Punjab,19,3,SM Katich,Joginder Sharma,0,0,0
+335983,Kings XI Punjab,19,4,SM Katich,Joginder Sharma,6,0,6
+335983,Kings XI Punjab,19,5,SM Katich,Joginder Sharma,1,0,1
+335983,Kings XI Punjab,19,6,IK Pathan,Joginder Sharma,0,0,0
+335982,Kolkata Knight Riders,0,1,SC Ganguly,P Kumar,0,1,1
+335982,Kolkata Knight Riders,0,2,BB McCullum,P Kumar,0,0,0
+335982,Kolkata Knight Riders,0,3,BB McCullum,P Kumar,0,1,1
+335982,Kolkata Knight Riders,0,4,BB McCullum,P Kumar,0,0,0
+335982,Kolkata Knight Riders,0,5,BB McCullum,P Kumar,0,0,0
+335982,Kolkata Knight Riders,0,6,BB McCullum,P Kumar,0,0,0
+335982,Kolkata Knight Riders,0,7,BB McCullum,P Kumar,0,1,1
+335982,Kolkata Knight Riders,1,1,BB McCullum,Z Khan,0,0,0
+335982,Kolkata Knight Riders,1,2,BB McCullum,Z Khan,4,0,4
+335982,Kolkata Knight Riders,1,3,BB McCullum,Z Khan,4,0,4
+335982,Kolkata Knight Riders,1,4,BB McCullum,Z Khan,6,0,6
+335982,Kolkata Knight Riders,1,5,BB McCullum,Z Khan,4,0,4
+335982,Kolkata Knight Riders,1,6,BB McCullum,Z Khan,0,0,0
+335982,Kolkata Knight Riders,2,1,SC Ganguly,P Kumar,0,0,0
+335982,Kolkata Knight Riders,2,2,SC Ganguly,P Kumar,0,0,0
+335982,Kolkata Knight Riders,2,3,SC Ganguly,P Kumar,0,1,1
+335982,Kolkata Knight Riders,2,4,BB McCullum,P Kumar,4,0,4
+335982,Kolkata Knight Riders,2,5,BB McCullum,P Kumar,1,0,1
+335982,Kolkata Knight Riders,2,6,SC Ganguly,P Kumar,0,0,0
+335982,Kolkata Knight Riders,3,1,BB McCullum,AA Noffke,0,5,5
+335982,Kolkata Knight Riders,3,2,BB McCullum,AA Noffke,6,0,6
+335982,Kolkata Knight Riders,3,3,BB McCullum,AA Noffke,0,1,1
+335982,Kolkata Knight Riders,3,4,SC Ganguly,AA Noffke,4,0,4
+335982,Kolkata Knight Riders,3,5,SC Ganguly,AA Noffke,0,0,0
+335982,Kolkata Knight Riders,3,6,SC Ganguly,AA Noffke,1,0,1
+335982,Kolkata Knight Riders,3,7,BB McCullum,AA Noffke,6,0,6
+335982,Kolkata Knight Riders,4,1,SC Ganguly,P Kumar,4,0,4
+335982,Kolkata Knight Riders,4,2,SC Ganguly,P Kumar,1,0,1
+335982,Kolkata Knight Riders,4,3,BB McCullum,P Kumar,4,0,4
+335982,Kolkata Knight Riders,4,4,BB McCullum,P Kumar,0,0,0
+335982,Kolkata Knight Riders,4,5,BB McCullum,P Kumar,1,0,1
+335982,Kolkata Knight Riders,4,6,SC Ganguly,P Kumar,0,0,0
+335982,Kolkata Knight Riders,5,1,BB McCullum,Z Khan,1,0,1
+335982,Kolkata Knight Riders,5,2,SC Ganguly,Z Khan,0,0,0
+335982,Kolkata Knight Riders,5,3,RT Ponting,Z Khan,0,0,0
+335982,Kolkata Knight Riders,5,4,RT Ponting,Z Khan,0,0,0
+335982,Kolkata Knight Riders,5,5,RT Ponting,Z Khan,0,0,0
+335982,Kolkata Knight Riders,5,6,RT Ponting,Z Khan,0,0,0
+335982,Kolkata Knight Riders,6,1,BB McCullum,AA Noffke,1,0,1
+335982,Kolkata Knight Riders,6,2,RT Ponting,AA Noffke,1,0,1
+335982,Kolkata Knight Riders,6,3,BB McCullum,AA Noffke,1,0,1
+335982,Kolkata Knight Riders,6,4,RT Ponting,AA Noffke,2,0,2
+335982,Kolkata Knight Riders,6,5,RT Ponting,AA Noffke,1,0,1
+335982,Kolkata Knight Riders,6,6,BB McCullum,AA Noffke,1,0,1
+335982,Kolkata Knight Riders,7,1,BB McCullum,Z Khan,0,0,0
+335982,Kolkata Knight Riders,7,2,BB McCullum,Z Khan,1,0,1
+335982,Kolkata Knight Riders,7,3,RT Ponting,Z Khan,1,0,1
+335982,Kolkata Knight Riders,7,4,BB McCullum,Z Khan,1,0,1
+335982,Kolkata Knight Riders,7,5,RT Ponting,Z Khan,1,0,1
+335982,Kolkata Knight Riders,7,6,BB McCullum,Z Khan,1,0,1
+335982,Kolkata Knight Riders,8,1,BB McCullum,JH Kallis,0,0,0
+335982,Kolkata Knight Riders,8,2,BB McCullum,JH Kallis,0,0,0
+335982,Kolkata Knight Riders,8,3,BB McCullum,JH Kallis,0,0,0
+335982,Kolkata Knight Riders,8,4,BB McCullum,JH Kallis,1,0,1
+335982,Kolkata Knight Riders,8,5,RT Ponting,JH Kallis,1,0,1
+335982,Kolkata Knight Riders,8,6,BB McCullum,JH Kallis,2,0,2
+335982,Kolkata Knight Riders,9,1,RT Ponting,SB Joshi,1,0,1
+335982,Kolkata Knight Riders,9,2,BB McCullum,SB Joshi,1,0,1
+335982,Kolkata Knight Riders,9,3,RT Ponting,SB Joshi,1,0,1
+335982,Kolkata Knight Riders,9,4,BB McCullum,SB Joshi,0,0,0
+335982,Kolkata Knight Riders,9,5,BB McCullum,SB Joshi,6,0,6
+335982,Kolkata Knight Riders,9,6,BB McCullum,SB Joshi,1,0,1
+335982,Kolkata Knight Riders,10,1,BB McCullum,JH Kallis,1,0,1
+335982,Kolkata Knight Riders,10,2,RT Ponting,JH Kallis,4,0,4
+335982,Kolkata Knight Riders,10,3,RT Ponting,JH Kallis,0,0,0
+335982,Kolkata Knight Riders,10,4,RT Ponting,JH Kallis,6,0,6
+335982,Kolkata Knight Riders,10,5,RT Ponting,JH Kallis,0,0,0
+335982,Kolkata Knight Riders,10,6,RT Ponting,JH Kallis,0,4,4
+335982,Kolkata Knight Riders,11,1,BB McCullum,SB Joshi,0,0,0
+335982,Kolkata Knight Riders,11,2,BB McCullum,SB Joshi,6,0,6
+335982,Kolkata Knight Riders,11,3,BB McCullum,SB Joshi,2,0,2
+335982,Kolkata Knight Riders,11,4,BB McCullum,SB Joshi,1,0,1
+335982,Kolkata Knight Riders,11,5,RT Ponting,SB Joshi,0,0,0
+335982,Kolkata Knight Riders,11,6,RT Ponting,SB Joshi,1,0,1
+335982,Kolkata Knight Riders,12,1,RT Ponting,JH Kallis,0,0,0
+335982,Kolkata Knight Riders,12,2,BB McCullum,JH Kallis,4,0,4
+335982,Kolkata Knight Riders,12,3,BB McCullum,JH Kallis,0,0,0
+335982,Kolkata Knight Riders,12,4,BB McCullum,JH Kallis,2,0,2
+335982,Kolkata Knight Riders,12,5,BB McCullum,JH Kallis,0,1,1
+335982,Kolkata Knight Riders,12,6,BB McCullum,JH Kallis,4,0,4
+335982,Kolkata Knight Riders,12,7,BB McCullum,JH Kallis,1,0,1
+335982,Kolkata Knight Riders,13,1,BB McCullum,SB Joshi,1,0,1
+335982,Kolkata Knight Riders,13,2,DJ Hussey,SB Joshi,0,0,0
+335982,Kolkata Knight Riders,13,3,DJ Hussey,SB Joshi,1,0,1
+335982,Kolkata Knight Riders,13,4,BB McCullum,SB Joshi,1,0,1
+335982,Kolkata Knight Riders,13,5,DJ Hussey,SB Joshi,1,0,1
+335982,Kolkata Knight Riders,13,6,BB McCullum,SB Joshi,2,0,2
+335982,Kolkata Knight Riders,14,1,DJ Hussey,CL White,4,0,4
+335982,Kolkata Knight Riders,14,2,DJ Hussey,CL White,1,0,1
+335982,Kolkata Knight Riders,14,3,BB McCullum,CL White,6,0,6
+335982,Kolkata Knight Riders,14,4,BB McCullum,CL White,4,0,4
+335982,Kolkata Knight Riders,14,5,BB McCullum,CL White,0,2,2
+335982,Kolkata Knight Riders,14,6,DJ Hussey,CL White,1,0,1
+335982,Kolkata Knight Riders,14,7,BB McCullum,CL White,6,0,6
+335982,Kolkata Knight Riders,15,1,DJ Hussey,AA Noffke,0,0,0
+335982,Kolkata Knight Riders,15,2,DJ Hussey,AA Noffke,1,0,1
+335982,Kolkata Knight Riders,15,3,BB McCullum,AA Noffke,2,0,2
+335982,Kolkata Knight Riders,15,4,BB McCullum,AA Noffke,0,0,0
+335982,Kolkata Knight Riders,15,5,BB McCullum,AA Noffke,1,0,1
+335982,Kolkata Knight Riders,15,6,DJ Hussey,AA Noffke,0,0,0
+335982,Kolkata Knight Riders,16,1,BB McCullum,Z Khan,1,0,1
+335982,Kolkata Knight Riders,16,2,DJ Hussey,Z Khan,2,0,2
+335982,Kolkata Knight Riders,16,3,DJ Hussey,Z Khan,1,0,1
+335982,Kolkata Knight Riders,16,4,BB McCullum,Z Khan,6,0,6
+335982,Kolkata Knight Riders,16,5,BB McCullum,Z Khan,2,0,2
+335982,Kolkata Knight Riders,16,6,BB McCullum,Z Khan,2,0,2
+335982,Kolkata Knight Riders,17,1,DJ Hussey,AA Noffke,0,0,0
+335982,Kolkata Knight Riders,17,2,BB McCullum,AA Noffke,1,0,1
+335982,Kolkata Knight Riders,17,3,Mohammad Hafeez,AA Noffke,0,0,0
+335982,Kolkata Knight Riders,17,4,Mohammad Hafeez,AA Noffke,1,0,1
+335982,Kolkata Knight Riders,17,5,BB McCullum,AA Noffke,4,0,4
+335982,Kolkata Knight Riders,17,6,BB McCullum,AA Noffke,1,0,1
+335982,Kolkata Knight Riders,18,1,BB McCullum,JH Kallis,6,0,6
+335982,Kolkata Knight Riders,18,2,BB McCullum,JH Kallis,0,0,0
+335982,Kolkata Knight Riders,18,3,BB McCullum,JH Kallis,6,0,6
+335982,Kolkata Knight Riders,18,4,BB McCullum,JH Kallis,4,0,4
+335982,Kolkata Knight Riders,18,5,BB McCullum,JH Kallis,1,0,1
+335982,Kolkata Knight Riders,18,6,Mohammad Hafeez,JH Kallis,4,0,4
+335982,Kolkata Knight Riders,19,1,BB McCullum,P Kumar,6,0,6
+335982,Kolkata Knight Riders,19,2,BB McCullum,P Kumar,6,0,6
+335982,Kolkata Knight Riders,19,3,BB McCullum,P Kumar,2,0,2
+335982,Kolkata Knight Riders,19,4,BB McCullum,P Kumar,0,0,0
+335982,Kolkata Knight Riders,19,5,BB McCullum,P Kumar,2,0,2
+335982,Kolkata Knight Riders,19,6,BB McCullum,P Kumar,6,0,6
+335982,Royal Challengers Bangalore,0,1,R Dravid,AB Dinda,1,0,1
+335982,Royal Challengers Bangalore,0,2,W Jaffer,AB Dinda,0,1,1
+335982,Royal Challengers Bangalore,0,3,W Jaffer,AB Dinda,0,0,0
+335982,Royal Challengers Bangalore,0,4,W Jaffer,AB Dinda,1,0,1
+335982,Royal Challengers Bangalore,0,5,R Dravid,AB Dinda,1,0,1
+335982,Royal Challengers Bangalore,0,6,W Jaffer,AB Dinda,0,0,0
+335982,Royal Challengers Bangalore,0,7,W Jaffer,AB Dinda,0,0,0
+335982,Royal Challengers Bangalore,1,1,R Dravid,I Sharma,0,0,0
+335982,Royal Challengers Bangalore,1,2,V Kohli,I Sharma,0,0,0
+335982,Royal Challengers Bangalore,1,3,V Kohli,I Sharma,0,4,4
+335982,Royal Challengers Bangalore,1,4,V Kohli,I Sharma,1,0,1
+335982,Royal Challengers Bangalore,1,5,W Jaffer,I Sharma,0,0,0
+335982,Royal Challengers Bangalore,1,6,W Jaffer,I Sharma,0,0,0
+335982,Royal Challengers Bangalore,2,1,V Kohli,AB Dinda,0,0,0
+335982,Royal Challengers Bangalore,2,2,V Kohli,AB Dinda,0,0,0
+335982,Royal Challengers Bangalore,2,3,JH Kallis,AB Dinda,1,0,1
+335982,Royal Challengers Bangalore,2,4,W Jaffer,AB Dinda,0,0,0
+335982,Royal Challengers Bangalore,2,5,W Jaffer,AB Dinda,0,1,1
+335982,Royal Challengers Bangalore,2,6,W Jaffer,AB Dinda,0,0,0
+335982,Royal Challengers Bangalore,2,7,W Jaffer,AB Dinda,1,0,1
+335982,Royal Challengers Bangalore,3,1,W Jaffer,I Sharma,2,0,2
+335982,Royal Challengers Bangalore,3,2,W Jaffer,I Sharma,1,0,1
+335982,Royal Challengers Bangalore,3,3,JH Kallis,I Sharma,0,0,0
+335982,Royal Challengers Bangalore,3,4,JH Kallis,I Sharma,0,1,1
+335982,Royal Challengers Bangalore,3,5,W Jaffer,I Sharma,0,0,0
+335982,Royal Challengers Bangalore,3,6,W Jaffer,I Sharma,0,0,0
+335982,Royal Challengers Bangalore,4,1,JH Kallis,AB Agarkar,1,0,1
+335982,Royal Challengers Bangalore,4,2,W Jaffer,AB Agarkar,1,0,1
+335982,Royal Challengers Bangalore,4,3,JH Kallis,AB Agarkar,0,0,0
+335982,Royal Challengers Bangalore,4,4,JH Kallis,AB Agarkar,6,0,6
+335982,Royal Challengers Bangalore,4,5,JH Kallis,AB Agarkar,0,0,0
+335982,Royal Challengers Bangalore,4,6,CL White,AB Agarkar,0,0,0
+335982,Royal Challengers Bangalore,5,1,W Jaffer,AB Dinda,0,0,0
+335982,Royal Challengers Bangalore,5,2,W Jaffer,AB Dinda,0,0,0
+335982,Royal Challengers Bangalore,5,3,MV Boucher,AB Dinda,0,0,0
+335982,Royal Challengers Bangalore,5,4,MV Boucher,AB Dinda,1,0,1
+335982,Royal Challengers Bangalore,5,5,CL White,AB Dinda,1,0,1
+335982,Royal Challengers Bangalore,5,6,MV Boucher,AB Dinda,0,0,0
+335982,Royal Challengers Bangalore,6,1,CL White,AB Agarkar,0,0,0
+335982,Royal Challengers Bangalore,6,2,CL White,AB Agarkar,0,0,0
+335982,Royal Challengers Bangalore,6,3,CL White,AB Agarkar,1,0,1
+335982,Royal Challengers Bangalore,6,4,MV Boucher,AB Agarkar,0,1,1
+335982,Royal Challengers Bangalore,6,5,MV Boucher,AB Agarkar,0,1,1
+335982,Royal Challengers Bangalore,6,6,MV Boucher,AB Agarkar,0,0,0
+335982,Royal Challengers Bangalore,6,7,MV Boucher,AB Agarkar,0,0,0
+335982,Royal Challengers Bangalore,6,8,MV Boucher,AB Agarkar,4,0,4
+335982,Royal Challengers Bangalore,7,1,CL White,SC Ganguly,1,0,1
+335982,Royal Challengers Bangalore,7,2,MV Boucher,SC Ganguly,0,1,1
+335982,Royal Challengers Bangalore,7,3,CL White,SC Ganguly,1,0,1
+335982,Royal Challengers Bangalore,7,4,MV Boucher,SC Ganguly,2,0,2
+335982,Royal Challengers Bangalore,7,5,MV Boucher,SC Ganguly,0,0,0
+335982,Royal Challengers Bangalore,7,6,CL White,SC Ganguly,0,0,0
+335982,Royal Challengers Bangalore,8,1,B Akhil,AB Agarkar,0,0,0
+335982,Royal Challengers Bangalore,8,2,B Akhil,AB Agarkar,0,0,0
+335982,Royal Challengers Bangalore,8,3,AA Noffke,AB Agarkar,0,0,0
+335982,Royal Challengers Bangalore,8,4,AA Noffke,AB Agarkar,0,1,1
+335982,Royal Challengers Bangalore,8,5,AA Noffke,AB Agarkar,0,1,1
+335982,Royal Challengers Bangalore,8,6,AA Noffke,AB Agarkar,1,0,1
+335982,Royal Challengers Bangalore,8,7,CL White,AB Agarkar,2,0,2
+335982,Royal Challengers Bangalore,8,8,CL White,AB Agarkar,0,0,0
+335982,Royal Challengers Bangalore,9,1,AA Noffke,SC Ganguly,1,0,1
+335982,Royal Challengers Bangalore,9,2,P Kumar,SC Ganguly,0,0,0
+335982,Royal Challengers Bangalore,9,3,P Kumar,SC Ganguly,0,0,0
+335982,Royal Challengers Bangalore,9,4,P Kumar,SC Ganguly,0,1,1
+335982,Royal Challengers Bangalore,9,5,P Kumar,SC Ganguly,0,1,1
+335982,Royal Challengers Bangalore,9,6,AA Noffke,SC Ganguly,4,0,4
+335982,Royal Challengers Bangalore,9,7,AA Noffke,SC Ganguly,1,0,1
+335982,Royal Challengers Bangalore,10,1,AA Noffke,AB Agarkar,0,0,0
+335982,Royal Challengers Bangalore,10,2,AA Noffke,AB Agarkar,0,0,0
+335982,Royal Challengers Bangalore,10,3,AA Noffke,AB Agarkar,0,0,0
+335982,Royal Challengers Bangalore,10,4,AA Noffke,AB Agarkar,1,0,1
+335982,Royal Challengers Bangalore,10,5,P Kumar,AB Agarkar,4,0,4
+335982,Royal Challengers Bangalore,10,6,P Kumar,AB Agarkar,0,0,0
+335982,Royal Challengers Bangalore,11,1,AA Noffke,SC Ganguly,1,0,1
+335982,Royal Challengers Bangalore,11,2,Z Khan,SC Ganguly,0,0,0
+335982,Royal Challengers Bangalore,11,3,Z Khan,SC Ganguly,0,0,0
+335982,Royal Challengers Bangalore,11,4,Z Khan,SC Ganguly,1,0,1
+335982,Royal Challengers Bangalore,11,5,P Kumar,SC Ganguly,0,0,0
+335982,Royal Challengers Bangalore,11,6,P Kumar,SC Ganguly,1,0,1
+335982,Royal Challengers Bangalore,12,1,P Kumar,LR Shukla,6,0,6
+335982,Royal Challengers Bangalore,12,2,P Kumar,LR Shukla,0,2,2
+335982,Royal Challengers Bangalore,12,3,Z Khan,LR Shukla,1,0,1
+335982,Royal Challengers Bangalore,12,4,P Kumar,LR Shukla,1,0,1
+335982,Royal Challengers Bangalore,12,5,Z Khan,LR Shukla,0,0,0
+335982,Royal Challengers Bangalore,12,6,Z Khan,LR Shukla,0,0,0
+335982,Royal Challengers Bangalore,12,7,Z Khan,LR Shukla,1,0,1
+335982,Royal Challengers Bangalore,13,1,Z Khan,SC Ganguly,0,0,0
+335982,Royal Challengers Bangalore,13,2,SB Joshi,SC Ganguly,1,0,1
+335982,Royal Challengers Bangalore,13,3,P Kumar,SC Ganguly,0,0,0
+335982,Royal Challengers Bangalore,13,4,P Kumar,SC Ganguly,0,0,0
+335982,Royal Challengers Bangalore,13,5,P Kumar,SC Ganguly,0,0,0
+335982,Royal Challengers Bangalore,13,6,P Kumar,SC Ganguly,6,0,6
+335982,Royal Challengers Bangalore,14,1,SB Joshi,I Sharma,0,1,1
+335982,Royal Challengers Bangalore,14,2,SB Joshi,I Sharma,0,0,0
+335982,Royal Challengers Bangalore,14,3,SB Joshi,I Sharma,0,0,0
+335982,Royal Challengers Bangalore,14,4,SB Joshi,I Sharma,1,0,1
+335982,Royal Challengers Bangalore,14,5,P Kumar,I Sharma,0,1,1
+335982,Royal Challengers Bangalore,14,6,SB Joshi,I Sharma,1,0,1
+335982,Royal Challengers Bangalore,14,7,P Kumar,I Sharma,0,0,0
+335982,Royal Challengers Bangalore,15,1,SB Joshi,LR Shukla,0,1,1
+335982,Royal Challengers Bangalore,15,2,SB Joshi,LR Shukla,0,0,0
+335987,Kings XI Punjab,0,1,K Goel,MM Patel,0,0,0
+335987,Kings XI Punjab,0,2,K Goel,MM Patel,0,0,0
+335987,Kings XI Punjab,0,3,K Goel,MM Patel,0,0,0
+335987,Kings XI Punjab,0,4,K Goel,MM Patel,0,0,0
+335987,Kings XI Punjab,0,5,K Goel,MM Patel,1,0,1
+335987,Kings XI Punjab,0,6,JR Hopes,MM Patel,0,0,0
+335987,Kings XI Punjab,1,1,K Goel,SR Watson,4,0,4
+335987,Kings XI Punjab,1,2,K Goel,SR Watson,0,0,0
+335987,Kings XI Punjab,1,3,K Goel,SR Watson,0,0,0
+335987,Kings XI Punjab,1,4,K Goel,SR Watson,0,0,0
+335987,Kings XI Punjab,1,5,K Goel,SR Watson,1,0,1
+335987,Kings XI Punjab,1,6,JR Hopes,SR Watson,0,0,0
+335987,Kings XI Punjab,2,1,K Goel,MM Patel,4,0,4
+335987,Kings XI Punjab,2,2,K Goel,MM Patel,0,0,0
+335987,Kings XI Punjab,2,3,K Goel,MM Patel,0,0,0
+335987,Kings XI Punjab,2,4,K Goel,MM Patel,6,0,6
+335987,Kings XI Punjab,2,5,K Goel,MM Patel,0,0,0
+335987,Kings XI Punjab,2,6,K Goel,MM Patel,0,0,0
+335987,Kings XI Punjab,3,1,JR Hopes,SR Watson,4,0,4
+335987,Kings XI Punjab,3,2,JR Hopes,SR Watson,0,0,0
+335987,Kings XI Punjab,3,3,JR Hopes,SR Watson,0,0,0
+335987,Kings XI Punjab,3,4,JR Hopes,SR Watson,0,0,0
+335987,Kings XI Punjab,3,5,JR Hopes,SR Watson,4,0,4
+335987,Kings XI Punjab,3,6,JR Hopes,SR Watson,0,0,0
+335987,Kings XI Punjab,4,1,K Goel,MM Patel,0,0,0
+335987,Kings XI Punjab,4,2,K Goel,MM Patel,0,0,0
+335987,Kings XI Punjab,4,3,K Goel,MM Patel,4,0,4
+335987,Kings XI Punjab,4,4,K Goel,MM Patel,6,0,6
+335987,Kings XI Punjab,4,5,K Goel,MM Patel,0,0,0
+335987,Kings XI Punjab,4,6,KC Sangakkara,MM Patel,4,0,4
+335987,Kings XI Punjab,5,1,JR Hopes,SK Trivedi,1,0,1
+335987,Kings XI Punjab,5,2,KC Sangakkara,SK Trivedi,6,0,6
+335987,Kings XI Punjab,5,3,KC Sangakkara,SK Trivedi,4,0,4
+335987,Kings XI Punjab,5,4,KC Sangakkara,SK Trivedi,4,0,4
+335987,Kings XI Punjab,5,5,KC Sangakkara,SK Trivedi,0,0,0
+335987,Kings XI Punjab,5,6,KC Sangakkara,SK Trivedi,1,0,1
+335987,Kings XI Punjab,6,1,KC Sangakkara,SK Warne,1,0,1
+335987,Kings XI Punjab,6,2,JR Hopes,SK Warne,1,0,1
+335987,Kings XI Punjab,6,3,KC Sangakkara,SK Warne,0,0,0
+335987,Kings XI Punjab,6,4,DPMD Jayawardene,SK Warne,0,0,0
+335987,Kings XI Punjab,6,5,DPMD Jayawardene,SK Warne,1,0,1
+335987,Kings XI Punjab,6,6,JR Hopes,SK Warne,2,0,2
+335987,Kings XI Punjab,7,1,DPMD Jayawardene,D Salunkhe,0,1,1
+335987,Kings XI Punjab,7,2,DPMD Jayawardene,D Salunkhe,1,0,1
+335987,Kings XI Punjab,7,3,JR Hopes,D Salunkhe,3,0,3
+335987,Kings XI Punjab,7,4,DPMD Jayawardene,D Salunkhe,0,0,0
+335987,Kings XI Punjab,7,5,Yuvraj Singh,D Salunkhe,4,0,4
+335987,Kings XI Punjab,7,6,Yuvraj Singh,D Salunkhe,0,1,1
+335987,Kings XI Punjab,7,7,Yuvraj Singh,D Salunkhe,0,1,1
+335987,Kings XI Punjab,8,1,Yuvraj Singh,SK Warne,1,0,1
+335987,Kings XI Punjab,8,2,JR Hopes,SK Warne,0,0,0
+335987,Kings XI Punjab,8,3,JR Hopes,SK Warne,1,0,1
+335987,Kings XI Punjab,8,4,Yuvraj Singh,SK Warne,1,0,1
+335987,Kings XI Punjab,8,5,JR Hopes,SK Warne,0,0,0
+335987,Kings XI Punjab,8,6,JR Hopes,SK Warne,0,0,0
+335987,Kings XI Punjab,9,1,Yuvraj Singh,SR Watson,0,0,0
+335987,Kings XI Punjab,9,2,Yuvraj Singh,SR Watson,4,0,4
+335987,Kings XI Punjab,9,3,Yuvraj Singh,SR Watson,4,0,4
+335987,Kings XI Punjab,9,4,Yuvraj Singh,SR Watson,1,0,1
+335987,Kings XI Punjab,9,5,IK Pathan,SR Watson,0,0,0
+335987,Kings XI Punjab,9,6,IK Pathan,SR Watson,0,0,0
+335987,Kings XI Punjab,10,1,Yuvraj Singh,SK Warne,1,0,1
+335987,Kings XI Punjab,10,2,IK Pathan,SK Warne,1,0,1
+335987,Kings XI Punjab,10,3,Yuvraj Singh,SK Warne,0,0,0
+335987,Kings XI Punjab,10,4,Yuvraj Singh,SK Warne,0,0,0
+335987,Kings XI Punjab,10,5,Yuvraj Singh,SK Warne,1,0,1
+335987,Kings XI Punjab,10,6,IK Pathan,SK Warne,0,0,0
+335987,Kings XI Punjab,11,1,Yuvraj Singh,Pankaj Singh,1,0,1
+335987,Kings XI Punjab,11,2,IK Pathan,Pankaj Singh,1,0,1
+335987,Kings XI Punjab,11,3,Yuvraj Singh,Pankaj Singh,1,0,1
+335987,Kings XI Punjab,11,4,IK Pathan,Pankaj Singh,1,0,1
+335987,Kings XI Punjab,11,5,Yuvraj Singh,Pankaj Singh,4,0,4
+335987,Kings XI Punjab,11,6,Yuvraj Singh,Pankaj Singh,4,0,4
+335987,Kings XI Punjab,12,1,IK Pathan,SK Trivedi,1,0,1
+335987,Kings XI Punjab,12,2,Yuvraj Singh,SK Trivedi,0,0,0
+335987,Kings XI Punjab,12,3,Yuvraj Singh,SK Trivedi,0,0,0
+335987,Kings XI Punjab,12,4,Yuvraj Singh,SK Trivedi,2,0,2
+335987,Kings XI Punjab,12,5,Yuvraj Singh,SK Trivedi,1,0,1
+335987,Kings XI Punjab,12,6,IK Pathan,SK Trivedi,0,0,0
+335987,Kings XI Punjab,13,1,Yuvraj Singh,D Salunkhe,6,0,6
+335987,Kings XI Punjab,13,2,Yuvraj Singh,D Salunkhe,0,0,0
+335987,Kings XI Punjab,13,3,Yuvraj Singh,D Salunkhe,4,0,4
+335987,Kings XI Punjab,13,4,Yuvraj Singh,D Salunkhe,1,0,1
+335987,Kings XI Punjab,13,5,IK Pathan,D Salunkhe,0,0,0
+335987,Kings XI Punjab,13,6,IK Pathan,D Salunkhe,0,0,0
+335987,Kings XI Punjab,14,1,Yuvraj Singh,SK Trivedi,1,0,1
+335987,Kings XI Punjab,14,2,IK Pathan,SK Trivedi,0,0,0
+335987,Kings XI Punjab,14,3,IK Pathan,SK Trivedi,0,0,0
+335987,Kings XI Punjab,14,4,IK Pathan,SK Trivedi,1,0,1
+335987,Kings XI Punjab,14,5,Yuvraj Singh,SK Trivedi,0,0,0
+335987,Kings XI Punjab,14,6,Yuvraj Singh,SK Trivedi,1,0,1
+335987,Kings XI Punjab,15,1,Yuvraj Singh,YK Pathan,6,0,6
+335987,Kings XI Punjab,15,2,Yuvraj Singh,YK Pathan,6,0,6
+335987,Kings XI Punjab,15,3,Yuvraj Singh,YK Pathan,0,0,0
+335987,Kings XI Punjab,15,4,Yuvraj Singh,YK Pathan,1,0,1
+335987,Kings XI Punjab,15,5,IK Pathan,YK Pathan,0,0,0
+335987,Kings XI Punjab,15,6,IK Pathan,YK Pathan,0,0,0
+335987,Kings XI Punjab,16,1,Yuvraj Singh,SK Warne,0,0,0
+335987,Kings XI Punjab,16,2,Yuvraj Singh,SK Warne,1,0,1
+335987,Kings XI Punjab,16,3,IK Pathan,SK Warne,6,0,6
+335987,Kings XI Punjab,16,4,IK Pathan,SK Warne,1,0,1
+335987,Kings XI Punjab,16,5,Yuvraj Singh,SK Warne,0,0,0
+335987,Kings XI Punjab,16,6,S Sohal,SK Warne,0,0,0
+335987,Kings XI Punjab,17,1,IK Pathan,SK Trivedi,0,0,0
+335987,Kings XI Punjab,17,2,IK Pathan,SK Trivedi,0,0,0
+335987,Kings XI Punjab,17,3,B Lee,SK Trivedi,0,0,0
+335987,Kings XI Punjab,17,4,B Lee,SK Trivedi,0,0,0
+335987,Kings XI Punjab,17,5,PP Chawla,SK Trivedi,0,0,0
+335987,Kings XI Punjab,17,6,PP Chawla,SK Trivedi,2,0,2
+335987,Kings XI Punjab,18,1,S Sohal,MM Patel,2,0,2
+335987,Kings XI Punjab,18,2,S Sohal,MM Patel,1,0,1
+335987,Kings XI Punjab,18,3,PP Chawla,MM Patel,4,0,4
+335987,Kings XI Punjab,18,4,PP Chawla,MM Patel,2,0,2
+335987,Kings XI Punjab,18,5,PP Chawla,MM Patel,1,0,1
+335987,Kings XI Punjab,18,6,S Sohal,MM Patel,1,0,1
+335987,Kings XI Punjab,19,1,PP Chawla,SR Watson,4,0,4
+335987,Kings XI Punjab,19,2,PP Chawla,SR Watson,1,1,2
+335987,Kings XI Punjab,19,3,WA Mota,SR Watson,1,0,1
+335987,Kings XI Punjab,19,4,PP Chawla,SR Watson,0,0,0
+335987,Kings XI Punjab,19,5,PP Chawla,SR Watson,2,0,2
+335987,Kings XI Punjab,19,6,PP Chawla,SR Watson,4,0,4
+335987,Kings XI Punjab,19,7,PP Chawla,SR Watson,4,0,4
+335987,Rajasthan Royals,0,1,M Kaif,B Lee,0,0,0
+335987,Rajasthan Royals,0,2,M Kaif,B Lee,0,1,1
+335987,Rajasthan Royals,0,3,M Kaif,B Lee,0,0,0
+335987,Rajasthan Royals,0,4,M Kaif,B Lee,0,0,0
+335987,Rajasthan Royals,0,5,M Kaif,B Lee,0,0,0
+335987,Rajasthan Royals,0,6,M Kaif,B Lee,4,0,4
+335987,Rajasthan Royals,0,7,M Kaif,B Lee,1,0,1
+335987,Rajasthan Royals,1,1,M Kaif,S Sreesanth,0,0,0
+335987,Rajasthan Royals,1,2,YK Pathan,S Sreesanth,0,1,1
+335987,Rajasthan Royals,1,3,YK Pathan,S Sreesanth,0,0,0
+335987,Rajasthan Royals,1,4,YK Pathan,S Sreesanth,1,0,1
+335987,Rajasthan Royals,1,5,Kamran Akmal,S Sreesanth,0,0,0
+335987,Rajasthan Royals,1,6,Kamran Akmal,S Sreesanth,0,0,0
+335987,Rajasthan Royals,1,7,Kamran Akmal,S Sreesanth,4,1,5
+335987,Rajasthan Royals,1,8,Kamran Akmal,S Sreesanth,0,0,0
+335987,Rajasthan Royals,2,1,YK Pathan,B Lee,2,0,2
+335987,Rajasthan Royals,2,2,YK Pathan,B Lee,4,0,4
+335987,Rajasthan Royals,2,3,YK Pathan,B Lee,0,0,0
+335987,Rajasthan Royals,2,4,Kamran Akmal,B Lee,1,0,1
+335987,Rajasthan Royals,2,5,SR Watson,B Lee,1,1,2
+335987,Rajasthan Royals,2,6,Kamran Akmal,B Lee,0,0,0
+335987,Rajasthan Royals,2,7,Kamran Akmal,B Lee,6,0,6
+335987,Rajasthan Royals,3,1,SR Watson,S Sreesanth,0,1,1
+335987,Rajasthan Royals,3,2,SR Watson,S Sreesanth,0,0,0
+335987,Rajasthan Royals,3,3,SR Watson,S Sreesanth,0,0,0
+335987,Rajasthan Royals,3,4,SR Watson,S Sreesanth,2,0,2
+335987,Rajasthan Royals,3,5,SR Watson,S Sreesanth,0,1,1
+335987,Rajasthan Royals,3,6,SR Watson,S Sreesanth,6,0,6
+335987,Rajasthan Royals,3,7,SR Watson,S Sreesanth,0,0,0
+335987,Rajasthan Royals,3,8,SR Watson,S Sreesanth,4,0,4
+335987,Rajasthan Royals,4,1,Kamran Akmal,JR Hopes,0,1,1
+335987,Rajasthan Royals,4,2,SR Watson,JR Hopes,0,0,0
+335987,Rajasthan Royals,4,3,SR Watson,JR Hopes,1,0,1
+335987,Rajasthan Royals,4,4,Kamran Akmal,JR Hopes,4,0,4
+335987,Rajasthan Royals,4,5,Kamran Akmal,JR Hopes,0,0,0
+335987,Rajasthan Royals,4,6,SR Watson,JR Hopes,0,0,0
+335987,Rajasthan Royals,5,1,DS Lehmann,B Lee,4,0,4
+335987,Rajasthan Royals,5,2,DS Lehmann,B Lee,0,0,0
+335987,Rajasthan Royals,5,3,DS Lehmann,B Lee,0,1,1
+335987,Rajasthan Royals,5,4,SR Watson,B Lee,0,0,0
+335987,Rajasthan Royals,5,5,SR Watson,B Lee,0,0,0
+335987,Rajasthan Royals,5,6,SR Watson,B Lee,0,0,0
+335987,Rajasthan Royals,6,1,DS Lehmann,JR Hopes,1,0,1
+335987,Rajasthan Royals,6,2,SR Watson,JR Hopes,6,0,6
+335987,Rajasthan Royals,6,3,SR Watson,JR Hopes,0,0,0
+335987,Rajasthan Royals,6,4,SR Watson,JR Hopes,0,0,0
+335987,Rajasthan Royals,6,5,SR Watson,JR Hopes,0,0,0
+335987,Rajasthan Royals,6,6,SR Watson,JR Hopes,0,0,0
+335987,Rajasthan Royals,7,1,DS Lehmann,IK Pathan,1,0,1
+335987,Rajasthan Royals,7,2,SR Watson,IK Pathan,0,0,0
+335987,Rajasthan Royals,7,3,SR Watson,IK Pathan,0,0,0
+335987,Rajasthan Royals,7,4,SR Watson,IK Pathan,1,0,1
+335987,Rajasthan Royals,7,5,DS Lehmann,IK Pathan,0,1,1
+335987,Rajasthan Royals,7,6,DS Lehmann,IK Pathan,1,0,1
+335987,Rajasthan Royals,7,7,SR Watson,IK Pathan,1,0,1
+335987,Rajasthan Royals,8,1,SR Watson,JR Hopes,6,0,6
+335987,Rajasthan Royals,8,2,SR Watson,JR Hopes,1,0,1
+335987,Rajasthan Royals,8,3,DS Lehmann,JR Hopes,0,0,0
+335987,Rajasthan Royals,8,4,DS Lehmann,JR Hopes,0,0,0
+335987,Rajasthan Royals,8,5,DS Lehmann,JR Hopes,4,0,4
+335987,Rajasthan Royals,8,6,DS Lehmann,JR Hopes,0,0,0
+335987,Rajasthan Royals,9,1,SR Watson,IK Pathan,4,0,4
+335987,Rajasthan Royals,9,2,SR Watson,IK Pathan,1,0,1
+335987,Rajasthan Royals,9,3,DS Lehmann,IK Pathan,1,0,1
+335987,Rajasthan Royals,9,4,SR Watson,IK Pathan,4,0,4
+335987,Rajasthan Royals,9,5,SR Watson,IK Pathan,1,0,1
+335987,Rajasthan Royals,9,6,DS Lehmann,IK Pathan,0,0,0
+335987,Rajasthan Royals,10,1,SR Watson,PP Chawla,1,0,1
+335987,Rajasthan Royals,10,2,DS Lehmann,PP Chawla,4,0,4
+335987,Rajasthan Royals,10,3,DS Lehmann,PP Chawla,1,0,1
+335987,Rajasthan Royals,10,4,SR Watson,PP Chawla,0,0,0
+335987,Rajasthan Royals,10,5,SR Watson,PP Chawla,6,0,6
+335987,Rajasthan Royals,10,6,SR Watson,PP Chawla,0,0,0
+335987,Rajasthan Royals,11,1,DS Lehmann,IK Pathan,0,0,0
+335987,Rajasthan Royals,11,2,DS Lehmann,IK Pathan,0,0,0
+335987,Rajasthan Royals,11,3,RA Jadeja,IK Pathan,0,1,1
+335987,Rajasthan Royals,11,4,RA Jadeja,IK Pathan,0,0,0
+335987,Rajasthan Royals,11,5,RA Jadeja,IK Pathan,0,0,0
+335987,Rajasthan Royals,11,6,RA Jadeja,IK Pathan,1,0,1
+335987,Rajasthan Royals,11,7,SR Watson,IK Pathan,1,0,1
+335987,Rajasthan Royals,12,1,SR Watson,WA Mota,1,0,1
+335987,Rajasthan Royals,12,2,RA Jadeja,WA Mota,1,0,1
+335987,Rajasthan Royals,12,3,SR Watson,WA Mota,2,0,2
+335987,Rajasthan Royals,12,4,SR Watson,WA Mota,6,0,6
+335987,Rajasthan Royals,12,5,SR Watson,WA Mota,2,0,2
+335987,Rajasthan Royals,12,6,SR Watson,WA Mota,0,0,0
+335987,Rajasthan Royals,13,1,RA Jadeja,S Sreesanth,0,0,0
+335987,Rajasthan Royals,13,2,RA Jadeja,S Sreesanth,4,0,4
+335987,Rajasthan Royals,13,3,RA Jadeja,S Sreesanth,1,0,1
+335987,Rajasthan Royals,13,4,SR Watson,S Sreesanth,1,0,1
+335987,Rajasthan Royals,13,5,RA Jadeja,S Sreesanth,4,0,4
+335987,Rajasthan Royals,13,6,RA Jadeja,S Sreesanth,0,1,1
+335987,Rajasthan Royals,13,7,RA Jadeja,S Sreesanth,2,0,2
+335987,Rajasthan Royals,14,1,SR Watson,PP Chawla,4,0,4
+335987,Rajasthan Royals,14,2,SR Watson,PP Chawla,1,0,1
+335987,Rajasthan Royals,14,3,RA Jadeja,PP Chawla,4,0,4
+335987,Rajasthan Royals,14,4,RA Jadeja,PP Chawla,0,0,0
+335987,Rajasthan Royals,14,5,RA Jadeja,PP Chawla,6,0,6
+335987,Rajasthan Royals,14,6,RA Jadeja,PP Chawla,0,0,0
+335987,Rajasthan Royals,15,1,SR Watson,B Lee,1,0,1
+335987,Rajasthan Royals,15,2,RA Jadeja,B Lee,4,0,4
+335987,Rajasthan Royals,15,3,RA Jadeja,B Lee,0,0,0
+335987,Rajasthan Royals,15,4,RA Jadeja,B Lee,0,0,0
+335987,Rajasthan Royals,15,5,RA Jadeja,B Lee,4,0,4
+335987,Rajasthan Royals,15,6,RA Jadeja,B Lee,1,0,1
+335987,Rajasthan Royals,16,1,RA Jadeja,IK Pathan,0,0,0
+335987,Rajasthan Royals,16,2,RA Jadeja,IK Pathan,0,0,0
+335987,Rajasthan Royals,16,3,RA Jadeja,IK Pathan,0,0,0
+335987,Rajasthan Royals,16,4,RA Jadeja,IK Pathan,1,0,1
+335987,Rajasthan Royals,16,5,SR Watson,IK Pathan,0,0,0
+335987,Rajasthan Royals,16,6,SR Watson,IK Pathan,1,0,1
+335987,Rajasthan Royals,17,1,SR Watson,JR Hopes,1,0,1
+335987,Rajasthan Royals,17,2,RA Jadeja,JR Hopes,0,1,1
+335987,Rajasthan Royals,17,3,RA Jadeja,JR Hopes,2,0,2
+335987,Rajasthan Royals,17,4,RA Jadeja,JR Hopes,1,0,1
+335987,Rajasthan Royals,17,5,SR Watson,JR Hopes,2,0,2
+335987,Rajasthan Royals,17,6,SR Watson,JR Hopes,2,0,2
+335987,Rajasthan Royals,17,7,SR Watson,JR Hopes,1,0,1
+335987,Rajasthan Royals,18,1,SR Watson,S Sreesanth,4,0,4
+335986,Deccan Chargers,0,1,AC Gilchrist,AB Dinda,1,0,1
+335986,Deccan Chargers,0,2,Y Venugopal Rao,AB Dinda,0,1,1
+335986,Deccan Chargers,0,3,Y Venugopal Rao,AB Dinda,2,0,2
+335986,Deccan Chargers,0,4,Y Venugopal Rao,AB Dinda,0,0,0
+335986,Deccan Chargers,0,5,Y Venugopal Rao,AB Dinda,0,0,0
+335986,Deccan Chargers,0,6,Y Venugopal Rao,AB Dinda,0,0,0
+335986,Deccan Chargers,0,7,Y Venugopal Rao,AB Dinda,5,0,5
+335986,Deccan Chargers,1,1,Y Venugopal Rao,I Sharma,0,1,1
+335986,Deccan Chargers,1,2,AC Gilchrist,I Sharma,1,0,1
+335986,Deccan Chargers,1,3,Y Venugopal Rao,I Sharma,0,0,0
+335986,Deccan Chargers,1,4,Y Venugopal Rao,I Sharma,1,0,1
+335986,Deccan Chargers,1,5,AC Gilchrist,I Sharma,0,1,1
+335986,Deccan Chargers,1,6,AC Gilchrist,I Sharma,0,0,0
+335986,Deccan Chargers,1,7,AC Gilchrist,I Sharma,0,1,1
+335986,Deccan Chargers,1,8,AC Gilchrist,I Sharma,0,0,0
+335986,Deccan Chargers,2,1,Y Venugopal Rao,AB Dinda,1,0,1
+335986,Deccan Chargers,2,2,AC Gilchrist,AB Dinda,0,0,0
+335986,Deccan Chargers,2,3,AC Gilchrist,AB Dinda,0,0,0
+335986,Deccan Chargers,2,4,AC Gilchrist,AB Dinda,1,0,1
+335986,Deccan Chargers,2,5,Y Venugopal Rao,AB Dinda,4,0,4
+335986,Deccan Chargers,2,6,Y Venugopal Rao,AB Dinda,1,0,1
+335986,Deccan Chargers,3,1,Y Venugopal Rao,I Sharma,0,0,0
+335986,Deccan Chargers,3,2,Y Venugopal Rao,I Sharma,0,0,0
+335986,Deccan Chargers,3,3,VVS Laxman,I Sharma,0,0,0
+335986,Deccan Chargers,3,4,VVS Laxman,I Sharma,0,0,0
+335986,Deccan Chargers,3,5,VVS Laxman,I Sharma,0,0,0
+335986,Deccan Chargers,3,6,VVS Laxman,I Sharma,0,0,0
+335986,Deccan Chargers,4,1,AC Gilchrist,AB Dinda,1,0,1
+335986,Deccan Chargers,4,2,VVS Laxman,AB Dinda,0,0,0
+335986,Deccan Chargers,4,3,VVS Laxman,AB Dinda,0,0,0
+335986,Deccan Chargers,4,4,AC Gilchrist,AB Dinda,1,0,1
+335986,Deccan Chargers,4,5,A Symonds,AB Dinda,0,0,0
+335986,Deccan Chargers,4,6,A Symonds,AB Dinda,0,0,0
+335986,Deccan Chargers,5,1,AC Gilchrist,AB Agarkar,6,0,6
+335986,Deccan Chargers,5,2,AC Gilchrist,AB Agarkar,0,0,0
+335986,Deccan Chargers,5,3,AC Gilchrist,AB Agarkar,6,0,6
+335986,Deccan Chargers,5,4,AC Gilchrist,AB Agarkar,4,0,4
+335986,Deccan Chargers,5,5,AC Gilchrist,AB Agarkar,0,0,0
+335986,Deccan Chargers,5,6,AC Gilchrist,AB Agarkar,0,0,0
+335986,Deccan Chargers,6,1,A Symonds,M Kartik,1,0,1
+335986,Deccan Chargers,6,2,AC Gilchrist,M Kartik,0,0,0
+335986,Deccan Chargers,6,3,AC Gilchrist,M Kartik,1,0,1
+335986,Deccan Chargers,6,4,A Symonds,M Kartik,4,0,4
+335986,Deccan Chargers,6,5,A Symonds,M Kartik,0,0,0
+335986,Deccan Chargers,6,6,A Symonds,M Kartik,0,0,0
+335986,Deccan Chargers,7,1,AC Gilchrist,Mohammad Hafeez,0,0,0
+335986,Deccan Chargers,7,2,AC Gilchrist,Mohammad Hafeez,0,1,1
+335986,Deccan Chargers,7,3,AC Gilchrist,Mohammad Hafeez,0,0,0
+335986,Deccan Chargers,7,4,AC Gilchrist,Mohammad Hafeez,1,0,1
+335986,Deccan Chargers,7,5,A Symonds,Mohammad Hafeez,0,0,0
+335986,Deccan Chargers,7,6,A Symonds,Mohammad Hafeez,0,0,0
+335986,Deccan Chargers,7,7,A Symonds,Mohammad Hafeez,0,0,0
+335986,Deccan Chargers,8,1,AC Gilchrist,M Kartik,0,0,0
+335986,Deccan Chargers,8,2,RG Sharma,M Kartik,0,0,0
+335986,Deccan Chargers,8,3,RG Sharma,M Kartik,0,0,0
+335986,Deccan Chargers,8,4,RG Sharma,M Kartik,0,0,0
+335986,Deccan Chargers,8,5,SB Styris,M Kartik,0,0,0
+335986,Deccan Chargers,8,6,SB Styris,M Kartik,1,0,1
+335986,Deccan Chargers,9,1,SB Styris,Mohammad Hafeez,1,0,1
+335986,Deccan Chargers,9,2,A Symonds,Mohammad Hafeez,1,0,1
+335986,Deccan Chargers,9,3,SB Styris,Mohammad Hafeez,0,1,1
+335986,Deccan Chargers,9,4,A Symonds,Mohammad Hafeez,0,0,0
+335986,Deccan Chargers,9,5,A Symonds,Mohammad Hafeez,0,1,1
+335986,Deccan Chargers,9,6,SB Styris,Mohammad Hafeez,0,0,0
+335986,Deccan Chargers,10,1,A Symonds,M Kartik,0,0,0
+335986,Deccan Chargers,10,2,A Symonds,M Kartik,0,0,0
+335986,Deccan Chargers,10,3,A Symonds,M Kartik,0,0,0
+335986,Deccan Chargers,10,4,A Symonds,M Kartik,0,0,0
+335986,Deccan Chargers,10,5,A Symonds,M Kartik,1,0,1
+335986,Deccan Chargers,10,6,SB Styris,M Kartik,4,0,4
+335986,Deccan Chargers,11,1,A Symonds,Mohammad Hafeez,0,0,0
+335986,Deccan Chargers,11,2,A Symonds,Mohammad Hafeez,0,0,0
+335986,Deccan Chargers,11,3,A Symonds,Mohammad Hafeez,1,0,1
+335986,Deccan Chargers,11,4,SB Styris,Mohammad Hafeez,0,0,0
+335986,Deccan Chargers,11,5,AS Yadav,Mohammad Hafeez,1,0,1
+335986,Deccan Chargers,11,6,A Symonds,Mohammad Hafeez,0,0,0
+335986,Deccan Chargers,12,1,AS Yadav,DJ Hussey,1,0,1
+335986,Deccan Chargers,12,2,A Symonds,DJ Hussey,1,0,1
+335986,Deccan Chargers,12,3,AS Yadav,DJ Hussey,0,0,0
+335986,Deccan Chargers,12,4,AS Yadav,DJ Hussey,1,0,1
+335986,Deccan Chargers,12,5,A Symonds,DJ Hussey,0,0,0
+335986,Deccan Chargers,12,6,A Symonds,DJ Hussey,0,0,0
+335986,Deccan Chargers,13,1,AS Yadav,Mohammad Hafeez,0,0,0
+335986,Deccan Chargers,13,2,AS Yadav,Mohammad Hafeez,0,1,1
+335986,Deccan Chargers,13,3,A Symonds,Mohammad Hafeez,0,0,0
+335986,Deccan Chargers,13,4,A Symonds,Mohammad Hafeez,0,0,0
+335986,Deccan Chargers,13,5,A Symonds,Mohammad Hafeez,1,0,1
+335986,Deccan Chargers,13,6,AS Yadav,Mohammad Hafeez,1,0,1
+335986,Deccan Chargers,14,1,AS Yadav,DJ Hussey,6,0,6
+335986,Deccan Chargers,14,2,AS Yadav,DJ Hussey,0,0,0
+335986,Deccan Chargers,14,3,AS Yadav,DJ Hussey,0,0,0
+335986,Deccan Chargers,14,4,A Symonds,DJ Hussey,1,0,1
+335986,Deccan Chargers,14,5,SB Bangar,DJ Hussey,1,0,1
+335986,Deccan Chargers,14,6,A Symonds,DJ Hussey,4,0,4
+335986,Deccan Chargers,15,1,SB Bangar,I Sharma,0,0,0
+335986,Deccan Chargers,15,2,SB Bangar,I Sharma,1,0,1
+335986,Deccan Chargers,15,3,A Symonds,I Sharma,0,0,0
+335986,Deccan Chargers,15,4,A Symonds,I Sharma,0,0,0
+335986,Deccan Chargers,15,5,A Symonds,I Sharma,0,1,1
+335986,Deccan Chargers,15,6,A Symonds,I Sharma,2,0,2
+335986,Deccan Chargers,15,7,A Symonds,I Sharma,1,0,1
+335986,Deccan Chargers,16,1,A Symonds,DJ Hussey,0,0,0
+335986,Deccan Chargers,16,2,A Symonds,DJ Hussey,0,1,1
+335986,Deccan Chargers,16,3,A Symonds,DJ Hussey,6,0,6
+335986,Deccan Chargers,16,4,A Symonds,DJ Hussey,6,0,6
+335986,Deccan Chargers,16,5,A Symonds,DJ Hussey,1,0,1
+335986,Deccan Chargers,16,6,SB Bangar,DJ Hussey,6,0,6
+335986,Deccan Chargers,16,7,SB Bangar,DJ Hussey,0,0,0
+335986,Deccan Chargers,17,1,A Symonds,AB Agarkar,1,0,1
+335986,Deccan Chargers,17,2,SB Bangar,AB Agarkar,0,0,0
+335986,Deccan Chargers,17,3,SB Bangar,AB Agarkar,1,0,1
+335986,Deccan Chargers,17,4,A Symonds,AB Agarkar,0,0,0
+335986,Deccan Chargers,17,5,SB Bangar,AB Agarkar,1,0,1
+335986,Deccan Chargers,17,6,WPUJC Vaas,AB Agarkar,0,0,0
+335986,Deccan Chargers,18,1,RP Singh,M Kartik,1,0,1
+335986,Deccan Chargers,18,2,SB Bangar,M Kartik,4,0,4
+335986,Deccan Chargers,18,3,SB Bangar,M Kartik,0,0,0
+335986,Deccan Chargers,18,4,RP Singh,M Kartik,0,0,0
+335986,Kolkata Knight Riders,0,1,WP Saha,WPUJC Vaas,1,0,1
+335986,Kolkata Knight Riders,0,2,BB McCullum,WPUJC Vaas,4,0,4
+335986,Kolkata Knight Riders,0,3,BB McCullum,WPUJC Vaas,0,0,0
+335986,Kolkata Knight Riders,0,4,BB McCullum,WPUJC Vaas,1,0,1
+335986,Kolkata Knight Riders,0,5,WP Saha,WPUJC Vaas,0,0,0
+335986,Kolkata Knight Riders,0,6,WP Saha,WPUJC Vaas,0,0,0
+335986,Kolkata Knight Riders,1,1,BB McCullum,RP Singh,0,0,0
+335986,Kolkata Knight Riders,1,2,BB McCullum,RP Singh,0,0,0
+335986,Kolkata Knight Riders,1,3,WP Saha,RP Singh,0,0,0
+335986,Kolkata Knight Riders,1,4,WP Saha,RP Singh,2,0,2
+335986,Kolkata Knight Riders,1,5,WP Saha,RP Singh,0,4,4
+335986,Kolkata Knight Riders,1,6,WP Saha,RP Singh,4,0,4
+335986,Kolkata Knight Riders,2,1,RT Ponting,WPUJC Vaas,0,0,0
+335986,Kolkata Knight Riders,2,2,SC Ganguly,WPUJC Vaas,0,0,0
+335986,Kolkata Knight Riders,2,3,SC Ganguly,WPUJC Vaas,0,1,1
+335986,Kolkata Knight Riders,2,4,WP Saha,WPUJC Vaas,0,0,0
+335986,Kolkata Knight Riders,2,5,WP Saha,WPUJC Vaas,0,0,0
+335986,Kolkata Knight Riders,2,6,WP Saha,WPUJC Vaas,1,0,1
+335986,Kolkata Knight Riders,3,1,WP Saha,RP Singh,0,0,0
+335986,Kolkata Knight Riders,3,2,WP Saha,RP Singh,0,0,0
+335986,Kolkata Knight Riders,3,3,WP Saha,RP Singh,1,0,1
+335986,Kolkata Knight Riders,3,4,SC Ganguly,RP Singh,1,0,1
+335986,Kolkata Knight Riders,3,5,WP Saha,RP Singh,0,0,0
+335986,Kolkata Knight Riders,3,6,WP Saha,RP Singh,1,0,1
+335986,Kolkata Knight Riders,4,1,WP Saha,WPUJC Vaas,0,0,0
+335986,Kolkata Knight Riders,4,2,WP Saha,WPUJC Vaas,0,0,0
+335986,Kolkata Knight Riders,4,3,DJ Hussey,WPUJC Vaas,0,0,0
+335986,Kolkata Knight Riders,4,4,DJ Hussey,WPUJC Vaas,1,0,1
+335986,Kolkata Knight Riders,4,5,SC Ganguly,WPUJC Vaas,0,0,0
+335986,Kolkata Knight Riders,4,6,SC Ganguly,WPUJC Vaas,1,0,1
+335986,Kolkata Knight Riders,5,1,SC Ganguly,SB Styris,1,0,1
+335986,Kolkata Knight Riders,5,2,DJ Hussey,SB Styris,0,0,0
+335986,Kolkata Knight Riders,5,3,DJ Hussey,SB Styris,0,0,0
+335986,Kolkata Knight Riders,5,4,DJ Hussey,SB Styris,0,0,0
+335986,Kolkata Knight Riders,5,5,DJ Hussey,SB Styris,1,0,1
+335986,Kolkata Knight Riders,5,6,SC Ganguly,SB Styris,1,0,1
+335986,Kolkata Knight Riders,6,1,SC Ganguly,SB Bangar,0,0,0
+335986,Kolkata Knight Riders,6,2,SC Ganguly,SB Bangar,0,0,0
+335986,Kolkata Knight Riders,6,3,SC Ganguly,SB Bangar,0,0,0
+335986,Kolkata Knight Riders,6,4,SC Ganguly,SB Bangar,0,5,5
+335986,Kolkata Knight Riders,6,5,SC Ganguly,SB Bangar,0,0,0
+335986,Kolkata Knight Riders,6,6,SC Ganguly,SB Bangar,1,0,1
+335986,Kolkata Knight Riders,6,7,DJ Hussey,SB Bangar,1,0,1
+335986,Kolkata Knight Riders,7,1,DJ Hussey,SB Styris,0,0,0
+335986,Kolkata Knight Riders,7,2,DJ Hussey,SB Styris,1,0,1
+335986,Kolkata Knight Riders,7,3,SC Ganguly,SB Styris,0,0,0
+335986,Kolkata Knight Riders,7,4,SC Ganguly,SB Styris,0,0,0
+335986,Kolkata Knight Riders,7,5,SC Ganguly,SB Styris,0,0,0
+335986,Kolkata Knight Riders,7,6,SC Ganguly,SB Styris,0,0,0
+335986,Kolkata Knight Riders,8,1,DJ Hussey,SB Bangar,0,0,0
+335986,Kolkata Knight Riders,8,2,DJ Hussey,SB Bangar,0,0,0
+335986,Kolkata Knight Riders,8,3,DJ Hussey,SB Bangar,0,0,0
+335986,Kolkata Knight Riders,8,4,DJ Hussey,SB Bangar,0,1,1
+335986,Kolkata Knight Riders,8,5,DJ Hussey,SB Bangar,0,0,0
+335986,Kolkata Knight Riders,8,6,DJ Hussey,SB Bangar,0,0,0
+335986,Kolkata Knight Riders,8,7,DJ Hussey,SB Bangar,0,0,0
+335986,Kolkata Knight Riders,9,1,SC Ganguly,SB Styris,2,0,2
+335986,Kolkata Knight Riders,9,2,SC Ganguly,SB Styris,0,0,0
+335986,Kolkata Knight Riders,9,3,SC Ganguly,SB Styris,0,1,1
+335986,Kolkata Knight Riders,9,4,SC Ganguly,SB Styris,0,0,0
+335986,Kolkata Knight Riders,9,5,SC Ganguly,SB Styris,0,0,0
+335986,Kolkata Knight Riders,9,6,SC Ganguly,SB Styris,0,0,0
+335986,Kolkata Knight Riders,9,7,SC Ganguly,SB Styris,0,0,0
+335986,Kolkata Knight Riders,10,1,DJ Hussey,SB Bangar,0,0,0
+335986,Kolkata Knight Riders,10,2,DJ Hussey,SB Bangar,0,0,0
+335986,Kolkata Knight Riders,10,3,DJ Hussey,SB Bangar,6,0,6
+335986,Kolkata Knight Riders,10,4,DJ Hussey,SB Bangar,0,0,0
+335986,Kolkata Knight Riders,10,5,DJ Hussey,SB Bangar,1,0,1
+335986,Kolkata Knight Riders,10,6,SC Ganguly,SB Bangar,4,0,4
+335986,Kolkata Knight Riders,11,1,DJ Hussey,A Symonds,0,0,0
+335986,Kolkata Knight Riders,11,2,DJ Hussey,A Symonds,0,4,4
+335986,Kolkata Knight Riders,11,3,DJ Hussey,A Symonds,1,0,1
+335986,Kolkata Knight Riders,11,4,SC Ganguly,A Symonds,0,1,1
+335986,Kolkata Knight Riders,11,5,SC Ganguly,A Symonds,0,5,5
+335986,Kolkata Knight Riders,11,6,SC Ganguly,A Symonds,1,0,1
+335986,Kolkata Knight Riders,11,7,DJ Hussey,A Symonds,1,0,1
+335986,Kolkata Knight Riders,11,8,SC Ganguly,A Symonds,0,1,1
+335986,Kolkata Knight Riders,11,9,SC Ganguly,A Symonds,1,0,1
+335986,Kolkata Knight Riders,12,1,SC Ganguly,PP Ojha,0,1,1
+335986,Kolkata Knight Riders,12,2,SC Ganguly,PP Ojha,0,0,0
+335986,Kolkata Knight Riders,12,3,SC Ganguly,PP Ojha,0,0,0
+335986,Kolkata Knight Riders,12,4,SC Ganguly,PP Ojha,1,0,1
+335986,Kolkata Knight Riders,12,5,DJ Hussey,PP Ojha,0,1,1
+335986,Kolkata Knight Riders,12,6,DJ Hussey,PP Ojha,0,0,0
+335986,Kolkata Knight Riders,12,7,DJ Hussey,PP Ojha,1,0,1
+335986,Kolkata Knight Riders,12,8,SC Ganguly,PP Ojha,0,0,0
+335986,Kolkata Knight Riders,13,1,DJ Hussey,A Symonds,1,0,1
+335986,Kolkata Knight Riders,13,2,Mohammad Hafeez,A Symonds,0,0,0
+335986,Kolkata Knight Riders,13,3,Mohammad Hafeez,A Symonds,0,0,0
+335986,Kolkata Knight Riders,13,4,Mohammad Hafeez,A Symonds,1,0,1
+335986,Kolkata Knight Riders,13,5,DJ Hussey,A Symonds,1,0,1
+335986,Kolkata Knight Riders,13,6,Mohammad Hafeez,A Symonds,6,0,6
+335986,Kolkata Knight Riders,14,1,DJ Hussey,PP Ojha,1,0,1
+335986,Kolkata Knight Riders,14,2,Mohammad Hafeez,PP Ojha,0,0,0
+335986,Kolkata Knight Riders,14,3,Mohammad Hafeez,PP Ojha,1,0,1
+335986,Kolkata Knight Riders,14,4,DJ Hussey,PP Ojha,1,0,1
+335986,Kolkata Knight Riders,14,5,Mohammad Hafeez,PP Ojha,0,1,1
+335986,Kolkata Knight Riders,14,6,DJ Hussey,PP Ojha,0,0,0
+335986,Kolkata Knight Riders,15,1,Mohammad Hafeez,RP Singh,0,0,0
+335986,Kolkata Knight Riders,15,2,Mohammad Hafeez,RP Singh,1,0,1
+335986,Kolkata Knight Riders,15,3,DJ Hussey,RP Singh,1,0,1
+335986,Kolkata Knight Riders,15,4,Mohammad Hafeez,RP Singh,0,0,0
+335986,Kolkata Knight Riders,15,5,Mohammad Hafeez,RP Singh,0,0,0
+335986,Kolkata Knight Riders,15,6,Mohammad Hafeez,RP Singh,4,0,4
+335986,Kolkata Knight Riders,16,1,DJ Hussey,PP Ojha,0,0,0
+335986,Kolkata Knight Riders,16,2,DJ Hussey,PP Ojha,1,0,1
+335986,Kolkata Knight Riders,16,3,Mohammad Hafeez,PP Ojha,0,0,0
+335986,Kolkata Knight Riders,16,4,DJ Hussey,PP Ojha,1,0,1
+335986,Kolkata Knight Riders,16,5,LR Shukla,PP Ojha,1,0,1
+335986,Kolkata Knight Riders,16,6,DJ Hussey,PP Ojha,0,0,0
+335986,Kolkata Knight Riders,17,1,LR Shukla,SB Styris,1,0,1
+335986,Kolkata Knight Riders,17,2,DJ Hussey,SB Styris,1,0,1
+335986,Kolkata Knight Riders,17,3,LR Shukla,SB Styris,0,1,1
+335986,Kolkata Knight Riders,17,4,DJ Hussey,SB Styris,0,0,0
+335986,Kolkata Knight Riders,17,5,DJ Hussey,SB Styris,6,0,6
+335986,Kolkata Knight Riders,17,6,DJ Hussey,SB Styris,4,0,4
+335986,Kolkata Knight Riders,18,1,LR Shukla,PP Ojha,1,0,1
+335986,Kolkata Knight Riders,18,2,DJ Hussey,PP Ojha,0,1,1
+335986,Kolkata Knight Riders,18,3,LR Shukla,PP Ojha,0,0,0
+335986,Kolkata Knight Riders,18,4,LR Shukla,PP Ojha,1,0,1
+335986,Kolkata Knight Riders,18,5,DJ Hussey,PP Ojha,0,0,0
+335986,Kolkata Knight Riders,18,6,DJ Hussey,PP Ojha,6,0,6
+335990,Deccan Chargers,0,1,AC Gilchrist,MM Patel,0,0,0
+335990,Deccan Chargers,0,2,AC Gilchrist,MM Patel,4,0,4
+335990,Deccan Chargers,0,3,AC Gilchrist,MM Patel,0,0,0
+335990,Deccan Chargers,0,4,AC Gilchrist,MM Patel,0,0,0
+335990,Deccan Chargers,0,5,AC Gilchrist,MM Patel,4,0,4
+335990,Deccan Chargers,0,6,AC Gilchrist,MM Patel,4,0,4
+335990,Deccan Chargers,1,1,VVS Laxman,SR Watson,1,0,1
+335990,Deccan Chargers,1,2,AC Gilchrist,SR Watson,1,0,1
+335990,Deccan Chargers,1,3,VVS Laxman,SR Watson,4,0,4
+335990,Deccan Chargers,1,4,VVS Laxman,SR Watson,0,0,0
+335990,Deccan Chargers,1,5,VVS Laxman,SR Watson,0,0,0
+335990,Deccan Chargers,1,6,VVS Laxman,SR Watson,4,0,4
+335990,Deccan Chargers,2,1,AC Gilchrist,YK Pathan,0,0,0
+335990,Deccan Chargers,2,2,AC Gilchrist,YK Pathan,0,0,0
+335990,Deccan Chargers,2,3,Shahid Afridi,YK Pathan,0,0,0
+335990,Deccan Chargers,2,4,Shahid Afridi,YK Pathan,4,0,4
+335990,Deccan Chargers,2,5,Shahid Afridi,YK Pathan,6,0,6
+335990,Deccan Chargers,2,6,Shahid Afridi,YK Pathan,0,0,0
+335990,Deccan Chargers,3,1,A Symonds,SR Watson,1,0,1
+335990,Deccan Chargers,3,2,VVS Laxman,SR Watson,0,0,0
+335990,Deccan Chargers,3,3,VVS Laxman,SR Watson,0,0,0
+335990,Deccan Chargers,3,4,VVS Laxman,SR Watson,0,0,0
+335990,Deccan Chargers,3,5,VVS Laxman,SR Watson,0,0,0
+335990,Deccan Chargers,3,6,VVS Laxman,SR Watson,0,0,0
+335990,Deccan Chargers,4,1,A Symonds,MM Patel,0,0,0
+335990,Deccan Chargers,4,2,A Symonds,MM Patel,4,0,4
+335990,Deccan Chargers,4,3,A Symonds,MM Patel,4,0,4
+335990,Deccan Chargers,4,4,A Symonds,MM Patel,0,0,0
+335990,Deccan Chargers,4,5,A Symonds,MM Patel,3,0,3
+335990,Deccan Chargers,4,6,VVS Laxman,MM Patel,4,0,4
+335990,Deccan Chargers,5,1,A Symonds,SR Watson,0,0,0
+335990,Deccan Chargers,5,2,A Symonds,SR Watson,4,0,4
+335990,Deccan Chargers,5,3,A Symonds,SR Watson,0,0,0
+335990,Deccan Chargers,5,4,A Symonds,SR Watson,0,0,0
+335990,Deccan Chargers,5,5,A Symonds,SR Watson,0,1,1
+335990,Deccan Chargers,5,6,A Symonds,SR Watson,4,0,4
+335990,Deccan Chargers,5,7,A Symonds,SR Watson,1,0,1
+335990,Deccan Chargers,6,1,A Symonds,Pankaj Singh,0,0,0
+335990,Deccan Chargers,6,2,A Symonds,Pankaj Singh,1,0,1
+335990,Deccan Chargers,6,3,VVS Laxman,Pankaj Singh,0,0,0
+335990,Deccan Chargers,6,4,VVS Laxman,Pankaj Singh,1,0,1
+335990,Deccan Chargers,6,5,A Symonds,Pankaj Singh,0,0,0
+335990,Deccan Chargers,6,6,A Symonds,Pankaj Singh,1,0,1
+335990,Deccan Chargers,7,1,A Symonds,SK Trivedi,6,0,6
+335990,Deccan Chargers,7,2,A Symonds,SK Trivedi,1,0,1
+335990,Deccan Chargers,7,3,VVS Laxman,SK Trivedi,1,0,1
+335990,Deccan Chargers,7,4,A Symonds,SK Trivedi,1,0,1
+335990,Deccan Chargers,7,5,VVS Laxman,SK Trivedi,1,0,1
+335990,Deccan Chargers,7,6,A Symonds,SK Trivedi,1,0,1
+335990,Deccan Chargers,8,1,A Symonds,SK Warne,2,0,2
+335990,Deccan Chargers,8,2,A Symonds,SK Warne,1,0,1
+335990,Deccan Chargers,8,3,VVS Laxman,SK Warne,0,0,0
+335990,Deccan Chargers,8,4,RG Sharma,SK Warne,1,0,1
+335990,Deccan Chargers,8,5,A Symonds,SK Warne,1,0,1
+335990,Deccan Chargers,8,6,RG Sharma,SK Warne,1,0,1
+335990,Deccan Chargers,9,1,RG Sharma,SK Trivedi,1,0,1
+335990,Deccan Chargers,9,2,A Symonds,SK Trivedi,4,0,4
+335990,Deccan Chargers,9,3,A Symonds,SK Trivedi,0,0,0
+335990,Deccan Chargers,9,4,A Symonds,SK Trivedi,1,0,1
+335990,Deccan Chargers,9,5,RG Sharma,SK Trivedi,0,0,0
+335990,Deccan Chargers,9,6,RG Sharma,SK Trivedi,1,0,1
+335990,Deccan Chargers,10,1,RG Sharma,SK Warne,1,0,1
+335990,Deccan Chargers,10,2,A Symonds,SK Warne,1,0,1
+335990,Deccan Chargers,10,3,RG Sharma,SK Warne,0,0,0
+335990,Deccan Chargers,10,4,RG Sharma,SK Warne,1,0,1
+335990,Deccan Chargers,10,5,A Symonds,SK Warne,0,1,1
+335990,Deccan Chargers,10,6,A Symonds,SK Warne,6,0,6
+335990,Deccan Chargers,10,7,A Symonds,SK Warne,4,0,4
+335990,Deccan Chargers,11,1,RG Sharma,D Salunkhe,0,0,0
+335990,Deccan Chargers,11,2,RG Sharma,D Salunkhe,1,0,1
+335990,Deccan Chargers,11,3,A Symonds,D Salunkhe,1,0,1
+335990,Deccan Chargers,11,4,RG Sharma,D Salunkhe,0,0,0
+335990,Deccan Chargers,11,5,RG Sharma,D Salunkhe,1,0,1
+335990,Deccan Chargers,11,6,A Symonds,D Salunkhe,6,0,6
+335990,Deccan Chargers,12,1,RG Sharma,YK Pathan,1,0,1
+335990,Deccan Chargers,12,2,A Symonds,YK Pathan,2,0,2
+335990,Deccan Chargers,12,3,A Symonds,YK Pathan,6,0,6
+335990,Deccan Chargers,12,4,A Symonds,YK Pathan,1,0,1
+335990,Deccan Chargers,12,5,RG Sharma,YK Pathan,0,0,0
+335990,Deccan Chargers,12,6,RG Sharma,YK Pathan,0,0,0
+335990,Deccan Chargers,13,1,A Symonds,Pankaj Singh,1,0,1
+335990,Deccan Chargers,13,2,RG Sharma,Pankaj Singh,2,0,2
+335990,Deccan Chargers,13,3,RG Sharma,Pankaj Singh,6,0,6
+335990,Deccan Chargers,13,4,RG Sharma,Pankaj Singh,1,0,1
+335990,Deccan Chargers,13,5,A Symonds,Pankaj Singh,1,0,1
+335990,Deccan Chargers,13,6,RG Sharma,Pankaj Singh,0,0,0
+335990,Deccan Chargers,14,1,A Symonds,SK Trivedi,4,0,4
+335990,Deccan Chargers,14,2,A Symonds,SK Trivedi,0,1,1
+335990,Deccan Chargers,14,3,A Symonds,SK Trivedi,1,0,1
+335990,Deccan Chargers,14,4,RG Sharma,SK Trivedi,1,0,1
+335990,Deccan Chargers,14,5,A Symonds,SK Trivedi,2,0,2
+335990,Deccan Chargers,14,6,A Symonds,SK Trivedi,4,0,4
+335990,Deccan Chargers,14,7,A Symonds,SK Trivedi,6,0,6
+335990,Deccan Chargers,15,1,RG Sharma,SK Warne,1,0,1
+335990,Deccan Chargers,15,2,A Symonds,SK Warne,4,0,4
+335990,Deccan Chargers,15,3,A Symonds,SK Warne,1,0,1
+335990,Deccan Chargers,15,4,RG Sharma,SK Warne,4,0,4
+335990,Deccan Chargers,15,5,RG Sharma,SK Warne,1,0,1
+335990,Deccan Chargers,15,6,A Symonds,SK Warne,1,0,1
+335990,Deccan Chargers,16,1,A Symonds,MM Patel,1,0,1
+335990,Deccan Chargers,16,2,RG Sharma,MM Patel,4,0,4
+335990,Deccan Chargers,16,3,RG Sharma,MM Patel,4,0,4
+335990,Deccan Chargers,16,4,RG Sharma,MM Patel,2,0,2
+335990,Deccan Chargers,16,5,RG Sharma,MM Patel,0,0,0
+335990,Deccan Chargers,16,6,RG Sharma,MM Patel,0,0,0
+335990,Deccan Chargers,17,1,A Symonds,SK Warne,6,0,6
+335990,Deccan Chargers,17,2,A Symonds,SK Warne,1,0,1
+335990,Deccan Chargers,17,3,RG Sharma,SK Warne,1,0,1
+335990,Deccan Chargers,17,4,A Symonds,SK Warne,6,0,6
+335990,Deccan Chargers,17,5,A Symonds,SK Warne,1,0,1
+335990,Deccan Chargers,17,6,RG Sharma,SK Warne,0,0,0
+335990,Deccan Chargers,18,1,AS Yadav,MM Patel,4,0,4
+335990,Deccan Chargers,18,2,AS Yadav,MM Patel,1,0,1
+335990,Deccan Chargers,18,3,A Symonds,MM Patel,4,0,4
+335990,Deccan Chargers,18,4,A Symonds,MM Patel,0,1,1
+335990,Deccan Chargers,18,5,A Symonds,MM Patel,0,1,1
+335990,Deccan Chargers,18,6,A Symonds,MM Patel,1,0,1
+335990,Deccan Chargers,18,7,AS Yadav,MM Patel,1,0,1
+335990,Deccan Chargers,18,8,A Symonds,MM Patel,4,0,4
+335990,Deccan Chargers,19,1,AS Yadav,SR Watson,0,0,0
+335990,Deccan Chargers,19,2,AS Yadav,SR Watson,0,1,1
+335990,Deccan Chargers,19,3,AS Yadav,SR Watson,4,0,4
+335990,Deccan Chargers,19,4,AS Yadav,SR Watson,4,0,4
+335990,Deccan Chargers,19,5,AS Yadav,SR Watson,0,0,0
+335990,Deccan Chargers,19,6,AS Yadav,SR Watson,2,0,2
+335990,Deccan Chargers,19,7,AS Yadav,SR Watson,0,0,0
+335990,Rajasthan Royals,0,1,Kamran Akmal,WPUJC Vaas,0,0,0
+335990,Rajasthan Royals,0,2,Kamran Akmal,WPUJC Vaas,0,0,0
+335990,Rajasthan Royals,0,3,Kamran Akmal,WPUJC Vaas,4,0,4
+335990,Rajasthan Royals,0,4,Kamran Akmal,WPUJC Vaas,1,0,1
+335990,Rajasthan Royals,0,5,GC Smith,WPUJC Vaas,0,0,0
+335990,Rajasthan Royals,0,6,GC Smith,WPUJC Vaas,0,0,0
+335990,Rajasthan Royals,1,1,Kamran Akmal,RP Singh,6,0,6
+335990,Rajasthan Royals,1,2,Kamran Akmal,RP Singh,0,0,0
+335990,Rajasthan Royals,1,3,Kamran Akmal,RP Singh,0,2,2
+335990,Rajasthan Royals,1,4,Kamran Akmal,RP Singh,1,0,1
+335990,Rajasthan Royals,1,5,GC Smith,RP Singh,0,0,0
+335990,Rajasthan Royals,1,6,GC Smith,RP Singh,0,0,0
+335990,Rajasthan Royals,2,1,Kamran Akmal,WPUJC Vaas,0,0,0
+335990,Rajasthan Royals,2,2,YK Pathan,WPUJC Vaas,0,0,0
+335990,Rajasthan Royals,2,3,YK Pathan,WPUJC Vaas,0,0,0
+335990,Rajasthan Royals,2,4,YK Pathan,WPUJC Vaas,1,0,1
+335990,Rajasthan Royals,2,5,GC Smith,WPUJC Vaas,0,0,0
+335990,Rajasthan Royals,2,6,GC Smith,WPUJC Vaas,4,0,4
+335990,Rajasthan Royals,3,1,YK Pathan,RP Singh,0,0,0
+335990,Rajasthan Royals,3,2,YK Pathan,RP Singh,4,0,4
+335990,Rajasthan Royals,3,3,YK Pathan,RP Singh,6,0,6
+335990,Rajasthan Royals,3,4,YK Pathan,RP Singh,0,1,1
+335990,Rajasthan Royals,3,5,YK Pathan,RP Singh,0,0,0
+335990,Rajasthan Royals,3,6,YK Pathan,RP Singh,1,0,1
+335990,Rajasthan Royals,3,7,GC Smith,RP Singh,4,0,4
+335990,Rajasthan Royals,4,1,YK Pathan,WPUJC Vaas,6,0,6
+335990,Rajasthan Royals,4,2,YK Pathan,WPUJC Vaas,6,0,6
+335990,Rajasthan Royals,4,3,YK Pathan,WPUJC Vaas,4,0,4
+335990,Rajasthan Royals,4,4,YK Pathan,WPUJC Vaas,1,0,1
+335990,Rajasthan Royals,4,5,GC Smith,WPUJC Vaas,4,0,4
+335990,Rajasthan Royals,4,6,GC Smith,WPUJC Vaas,1,0,1
+335990,Rajasthan Royals,5,1,GC Smith,PP Ojha,4,0,4
+335990,Rajasthan Royals,5,2,GC Smith,PP Ojha,4,0,4
+335990,Rajasthan Royals,5,3,GC Smith,PP Ojha,1,0,1
+335990,Rajasthan Royals,5,4,YK Pathan,PP Ojha,6,0,6
+335990,Rajasthan Royals,5,5,YK Pathan,PP Ojha,0,0,0
+335990,Rajasthan Royals,5,6,YK Pathan,PP Ojha,1,0,1
+335990,Rajasthan Royals,6,1,YK Pathan,D Kalyankrishna,1,0,1
+335990,Rajasthan Royals,6,2,GC Smith,D Kalyankrishna,1,0,1
+335990,Rajasthan Royals,6,3,YK Pathan,D Kalyankrishna,0,0,0
+335990,Rajasthan Royals,6,4,YK Pathan,D Kalyankrishna,6,0,6
+335990,Rajasthan Royals,6,5,YK Pathan,D Kalyankrishna,1,0,1
+335990,Rajasthan Royals,6,6,GC Smith,D Kalyankrishna,0,0,0
+335990,Rajasthan Royals,7,1,YK Pathan,RP Singh,1,0,1
+335990,Rajasthan Royals,7,2,GC Smith,RP Singh,1,0,1
+335990,Rajasthan Royals,7,3,YK Pathan,RP Singh,6,0,6
+335990,Rajasthan Royals,7,4,YK Pathan,RP Singh,4,0,4
+335990,Rajasthan Royals,7,5,YK Pathan,RP Singh,0,0,0
+335990,Rajasthan Royals,7,6,YK Pathan,RP Singh,4,0,4
+335990,Rajasthan Royals,8,1,GC Smith,Shahid Afridi,1,0,1
+335990,Rajasthan Royals,8,2,YK Pathan,Shahid Afridi,0,0,0
+335990,Rajasthan Royals,8,3,YK Pathan,Shahid Afridi,1,0,1
+335990,Rajasthan Royals,8,4,GC Smith,Shahid Afridi,4,0,4
+335990,Rajasthan Royals,8,5,GC Smith,Shahid Afridi,6,0,6
+335990,Rajasthan Royals,8,6,GC Smith,Shahid Afridi,0,0,0
+335990,Rajasthan Royals,9,1,YK Pathan,D Kalyankrishna,1,0,1
+335990,Rajasthan Royals,9,2,GC Smith,D Kalyankrishna,1,0,1
+335990,Rajasthan Royals,9,3,YK Pathan,D Kalyankrishna,0,0,0
+335990,Rajasthan Royals,9,4,SR Watson,D Kalyankrishna,1,0,1
+335990,Rajasthan Royals,9,5,GC Smith,D Kalyankrishna,1,0,1
+335990,Rajasthan Royals,9,6,SR Watson,D Kalyankrishna,0,0,0
+335990,Rajasthan Royals,10,1,GC Smith,PP Ojha,1,0,1
+335990,Rajasthan Royals,10,2,SR Watson,PP Ojha,1,0,1
+335990,Rajasthan Royals,10,3,GC Smith,PP Ojha,0,0,0
+335990,Rajasthan Royals,10,4,GC Smith,PP Ojha,4,0,4
+335990,Rajasthan Royals,10,5,GC Smith,PP Ojha,0,0,0
+335990,Rajasthan Royals,10,6,GC Smith,PP Ojha,1,0,1
+335990,Rajasthan Royals,11,1,GC Smith,Shahid Afridi,1,0,1
+335990,Rajasthan Royals,11,2,SR Watson,Shahid Afridi,1,0,1
+335990,Rajasthan Royals,11,3,GC Smith,Shahid Afridi,1,0,1
+335990,Rajasthan Royals,11,4,SR Watson,Shahid Afridi,1,0,1
+335990,Rajasthan Royals,11,5,GC Smith,Shahid Afridi,1,0,1
+335990,Rajasthan Royals,11,6,SR Watson,Shahid Afridi,0,0,0
+335990,Rajasthan Royals,12,1,GC Smith,A Symonds,1,0,1
+335990,Rajasthan Royals,12,2,M Kaif,A Symonds,1,0,1
+335990,Rajasthan Royals,12,3,GC Smith,A Symonds,1,0,1
+335990,Rajasthan Royals,12,4,M Kaif,A Symonds,4,0,4
+335990,Rajasthan Royals,12,5,M Kaif,A Symonds,0,0,0
+335990,Rajasthan Royals,12,6,M Kaif,A Symonds,1,0,1
+335990,Rajasthan Royals,13,1,M Kaif,Shahid Afridi,1,0,1
+335990,Rajasthan Royals,13,2,GC Smith,Shahid Afridi,1,0,1
+335990,Rajasthan Royals,13,3,M Kaif,Shahid Afridi,1,0,1
+335990,Rajasthan Royals,13,4,GC Smith,Shahid Afridi,0,0,0
+335990,Rajasthan Royals,13,5,GC Smith,Shahid Afridi,2,0,2
+335990,Rajasthan Royals,13,6,GC Smith,Shahid Afridi,0,0,0
+335990,Rajasthan Royals,14,1,M Kaif,A Symonds,6,0,6
+335990,Rajasthan Royals,14,2,M Kaif,A Symonds,0,0,0
+335990,Rajasthan Royals,14,3,M Kaif,A Symonds,1,0,1
+335990,Rajasthan Royals,14,4,GC Smith,A Symonds,0,1,1
+335990,Rajasthan Royals,14,5,M Kaif,A Symonds,6,0,6
+335990,Rajasthan Royals,14,6,M Kaif,A Symonds,6,0,6
+335990,Rajasthan Royals,15,1,GC Smith,D Kalyankrishna,1,0,1
+335990,Rajasthan Royals,15,2,M Kaif,D Kalyankrishna,1,0,1
+335990,Rajasthan Royals,15,3,GC Smith,D Kalyankrishna,6,0,6
+335990,Rajasthan Royals,15,4,GC Smith,D Kalyankrishna,4,0,4
+335990,Rajasthan Royals,15,5,GC Smith,D Kalyankrishna,1,0,1
+335990,Rajasthan Royals,15,6,M Kaif,D Kalyankrishna,4,0,4
+335990,Rajasthan Royals,16,1,GC Smith,WPUJC Vaas,4,0,4
+335990,Rajasthan Royals,16,2,GC Smith,WPUJC Vaas,1,0,1
+335990,Rajasthan Royals,16,3,M Kaif,WPUJC Vaas,1,0,1
+335990,Rajasthan Royals,16,4,GC Smith,WPUJC Vaas,1,0,1
+335990,Rajasthan Royals,16,5,M Kaif,WPUJC Vaas,1,0,1
+335990,Rajasthan Royals,16,6,GC Smith,WPUJC Vaas,2,0,2
+335990,Rajasthan Royals,17,1,M Kaif,Shahid Afridi,0,0,0
+335990,Rajasthan Royals,17,2,GC Smith,Shahid Afridi,0,1,1
+335990,Rajasthan Royals,17,3,GC Smith,Shahid Afridi,0,0,0
+335990,Rajasthan Royals,17,4,RA Jadeja,Shahid Afridi,1,0,1
+335990,Rajasthan Royals,17,5,SK Warne,Shahid Afridi,0,0,0
+335990,Rajasthan Royals,17,6,SK Warne,Shahid Afridi,0,0,0
+335990,Rajasthan Royals,17,7,SK Warne,Shahid Afridi,4,0,4
+335990,Rajasthan Royals,18,1,RA Jadeja,RP Singh,0,1,1
+335990,Rajasthan Royals,18,2,SK Warne,RP Singh,1,1,2
+335990,Rajasthan Royals,18,3,RA Jadeja,RP Singh,0,0,0
+335990,Rajasthan Royals,18,4,D Salunkhe,RP Singh,1,0,1
+335990,Rajasthan Royals,18,5,SK Warne,RP Singh,0,0,0
+335990,Rajasthan Royals,18,6,SK Warne,RP Singh,1,0,1
+335990,Rajasthan Royals,18,7,Pankaj Singh,RP Singh,1,0,1
+335990,Rajasthan Royals,19,1,Pankaj Singh,A Symonds,2,0,2
+335990,Rajasthan Royals,19,2,Pankaj Singh,A Symonds,1,0,1
+335990,Rajasthan Royals,19,3,SK Warne,A Symonds,4,0,4
+335990,Rajasthan Royals,19,4,SK Warne,A Symonds,6,0,6
+335990,Rajasthan Royals,19,5,SK Warne,A Symonds,6,0,6
