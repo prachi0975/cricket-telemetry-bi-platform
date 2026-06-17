@@ -239,6 +239,7 @@ if not df_raw.empty:
                             recent_plays = df_filtered.tail(50).to_string(index=False)
                             
                             # 2. Prompt Engineering
+                            # 2. Prompt Engineering
                             prompt = f"""
                             You are an expert Cricket Data Analyst. You have been given the telemetry data for a cricket match.
                             Here is the statistical summary of the innings:
@@ -247,18 +248,28 @@ if not df_raw.empty:
                             Here are the most recent 50 deliveries:
                             {recent_plays}
                             
-                            Based strictly on this data, answer the user's question clearly and concisely. If the data doesn't contain the answer, politely state that.
+                            Based strictly on this data, answer the user's question clearly and concisely.
                             
                             User Question: {user_question}
                             """
                             
-                            # 3. Model Generation
-                            model = genai.GenerativeModel('gemini-pro')
-                            response = model.generate_content(prompt)
+                            # 3. Model Generation (The Self-Healing RCA Fix)
+                            # Automatically fetch a supported model from Google's servers
+                            valid_model = None
+                            for m in genai.list_models():
+                                if 'generateContent' in m.supported_generation_methods:
+                                    valid_model = m.name
+                                    break # Pehla available valid model pick kar lega
                             
-                            # 4. Display Result
-                            st.info("📊 AI Analysis Complete")
-                            st.write(response.text)
+                            if valid_model:
+                                model = genai.GenerativeModel(valid_model)
+                                response = model.generate_content(prompt)
+                                
+                                # 4. Display Result
+                                st.info(f"📊 AI Analysis Complete (Powered by {valid_model})")
+                                st.write(response.text)
+                            else:
+                                st.error("❌ Critical Error: No compatible AI model found for this API key.")
                             
                         except Exception as e:
                             st.error(f"Failed to generate AI insights. Error: {e}")
