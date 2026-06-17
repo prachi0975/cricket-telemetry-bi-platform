@@ -253,7 +253,7 @@ if not df_raw.empty:
                             """
                             
                             # 3. Model Generation
-                            model = genai.GenerativeModel('gemini-1.5-flash')
+                            model = genai.GenerativeModel('gemini-pro')
                             response = model.generate_content(prompt)
                             
                             # 4. Display Result
