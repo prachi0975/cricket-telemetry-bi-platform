@@ -19,13 +19,22 @@ load_dotenv()
 
 # Database connection details
 def get_db_engine():
-    user = os.getenv("user")
-    password = urllib.parse.quote_plus(os.getenv("password"))
-    host = os.getenv("host")
-    port = os.getenv("port")
-    dbname = os.getenv("dbname")
+    # Agar app Cloud par hai (st.secrets available hai)
+    if "user" in st.secrets:
+        USER = st.secrets["user"]
+        PASSWORD = urllib.parse.quote_plus(st.secrets["password"])
+        HOST = st.secrets["host"]
+        PORT = st.secrets["port"]
+        DBNAME = st.secrets["dbname"]
+    # Agar app Local computer par hai (.env available hai)
+    else:
+        USER = os.getenv("user")
+        PASSWORD = urllib.parse.quote_plus(os.getenv("password"))
+        HOST = os.getenv("host")
+        PORT = os.getenv("port")
+        DBNAME = os.getenv("dbname")
     
-    db_url = f"postgresql+psycopg2://{user}:{password}@{host}:{port}/{dbname}?sslmode=require"
+    db_url = f"postgresql+psycopg2://{USER}:{PASSWORD}@{HOST}:{PORT}/{DBNAME}?sslmode=require"
     return create_engine(db_url)
 
 @st.cache_data
